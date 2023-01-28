@@ -1,0 +1,444 @@
+codeDepartement;nomDepartement;codeInseeCommune;nomCommune;codeInstallation;nomInstallation;adresse;codePostal;arrondissement;libelle;multiCommune;accessibilite;accessibiliteHandiMoteur;accessibiliteHandiSens;internat;nbLits;nbParking;nbParkingHandi;gardien;metro;bus;tram;train;bateau;autreTransport;aucunTransport;dateMAJ;dateCreation;nbEquipements
+31;Haute-Garonne;31003;Aigrefeuille;I310030002;Ecole;21 Chemin de l'Autan;31280;;Etablissement scolaire;0;0;1;0;0;0;10;2;Non;0;1;0;0;0;0;0;25/11/2019;25/11/2019;1
+31;Haute-Garonne;31004;Ayguesvives;I310040004;Complexe Sportif;AllÇe des droits de l'homme et du citoyen;31450;;Complexe sportif;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;03/12/2019;03/12/2019;13
+31;Haute-Garonne;31004;Ayguesvives;I310040005;Colläge Jean-Paul Laurens;AllÇe des doits de l'Homme et du citoyen.;31450;;Etablissement scolaire;0;0;1;0;0;0;40;1;Avec logement de gardien;0;0;0;0;0;0;1;11/12/2019;27/11/2019;3
+31;Haute-Garonne;31020;Aspet;I310200003;Ecole Germaine Baräs;432 Rue Armand Latour;31160;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;0;0;0;0;0;1;18/11/2019;18/11/2019;1
+31;Haute-Garonne;31020;Aspet;I310200009;Piscine Municipale;QUARTIER SARRADERE;31160;;Piscine;0;0;1;0;0;0;10;0;Non;0;0;0;0;0;0;1;18/11/2019;18/11/2019;1
+31;Haute-Garonne;31020;Aspet;I310200013;Parcours d'Orientation : le Bois PerchÇ;Le Bois PerchÇ;31160;;Base de plein air et/ou de loisirs;1;1;0;0;0;;;;Non;0;0;0;0;0;0;1;20/11/2018;;1
+31;Haute-Garonne;31028;Aurignac;I310280005;Colläge Emile Paul Vayssie;avenue de Benabarre;31420;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;0;0;0;0;0;1;27/11/2019;27/11/2019;2
+31;Haute-Garonne;31032;Aussonne;I310320002;Complexe Sportif;ROUTE DU LAC;31840;;Complexe sportif;0;0;1;0;0;0;300;0;Non;0;1;0;0;0;0;0;24/07/2015;24/07/2015;9
+31;Haute-Garonne;31032;Aussonne;I310320005;Installations Sportives du College;500 route de Merville;31840;;Etablissement scolaire;0;0;1;0;0;0;50;2;Sans logement de gardien;0;1;0;0;0;0;0;24/07/2015;24/07/2015;6
+31;Haute-Garonne;31033;Auterive;I310330003;Ecole Primaire Michelet;8 Rue Michelet;31190;;Etablissement scolaire;;0;1;0;0;;;;-;0;1;0;0;0;0;0;09/11/2018;;4
+31;Haute-Garonne;31033;Auterive;I310330011;Complexe Sportif du Colläge Antonin Perbosc;18 bis AVENUE HERMANNSBURG;31190;;Etablissement scolaire;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;09/11/2018;26/06/2015;4
+31;Haute-Garonne;31033;Auterive;I310330012;Piscine Marie Jeanne Proudhom;ALLEE DU RAMIER;31190;;Piscine;0;0;1;0;0;0;400;0;Non;;;;;;;0;09/11/2018;26/06/2015;2
+31;Haute-Garonne;31035;Auzeville-Tolosane;I310350004;Ecole Aime Cesaire;AllÇe du Viognier;31320;;Etablissement scolaire;0;0;1;0;0;0;10;0;Non;0;1;0;0;0;0;0;21/07/2015;21/07/2015;4
+31;Haute-Garonne;31035;Auzeville-Tolosane;I310350008;Complexe Sportif / LycÇe Agricole / Enfa;BP 72647;31320;;Complexe sportif;0;0;1;0;1;320;250;10;Non;0;1;0;0;0;0;0;28/06/2017;28/06/2017;9
+31;Haute-Garonne;31035;Auzeville-Tolosane;I310350009;Groupe Scolaire RenÇ Gosciny;14 Chemin des Çcoles;31320;;Etablissement scolaire;;0;1;0;0;0;5;0;Non;0;1;0;0;0;0;0;21/07/2015;21/07/2015;1
+31;Haute-Garonne;31035;Auzeville-Tolosane;I310350012;Inra;Chemin Borde Rouge;31320;;Etablissement scolaire;0;1;0;0;0;;20;1;Non;0;0;0;0;0;0;1;21/07/2015;21/07/2015;4
+31;Haute-Garonne;31036;Auzielle;I310360002;Complexe Sportif;Route d'Auzielle;31650;;Complexe sportif;0;0;1;0;0;0;60;0;Non;0;0;0;0;0;0;1;27/11/2019;27/11/2019;8
+31;Haute-Garonne;31037;Avignonet-Lauragais;I310370004;Ecole Primaire Auguste Foures;rue de la porte de Cers;31290;;Etablissement scolaire;0;0;1;0;0;0;50;0;Non;0;0;0;0;0;0;1;27/11/2019;27/11/2019;1
+31;Haute-Garonne;31042;Bagnäres-de-Luchon;I310420003;Complexe Municipal;RUE RAMONT;31110;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;0;0;0;0;0;1;04/06/2015;04/06/2015;5
+31;Haute-Garonne;31042;Bagnäres-de-Luchon;I310420008;Aerodrome de Bagneres de Luchon;PLACE LEON ELISSALDE;31110;;AÇrodrome/aÇroport;0;0;1;0;0;0;100;0;Non;0;1;0;0;0;0;0;04/06/2015;04/06/2015;1
+31;Haute-Garonne;31044;Balma;I310440001;Stade Municipal;17 av des aerostiers;31130;;Complexe sportif;0;0;1;0;0;0;320;6;Sans logement de gardien;0;0;0;0;0;0;1;26/11/2019;26/11/2019;20
+31;Haute-Garonne;31044;Balma;I310440002;Complexe Sportif J. Rostand;AVENUE GEORGES PRADEL;31130;;Complexe sportif;0;0;1;0;0;0;50;2;Non;0;0;0;0;0;0;1;18/10/2019;18/10/2019;8
+31;Haute-Garonne;31044;Balma;I310440003;Complexe Sportif Piscine, Terrains de Foot et Parc de Lagarde;RUE DU SOLEIL D'OR;31130;;Complexe sportif;0;1;0;0;0;0;50;0;Non;0;0;0;0;0;0;1;26/11/2019;26/11/2019;5
+31;Haute-Garonne;31044;Balma;I310440004;Complexe Latecoere;Avenue de la Plaine;31130;;Complexe sportif;0;0;1;0;0;0;50;0;Avec logement de gardien;0;1;0;0;0;0;0;28/06/2016;28/06/2016;7
+31;Haute-Garonne;31044;Balma;I310440006;Lycee Prive Salieges;3 r georges bernanos;31130;;Etablissement scolaire;0;0;1;0;1;300;250;1;Avec logement de gardien;0;1;0;0;0;0;0;29/11/2018;19/11/2018;7
+31;Haute-Garonne;31044;Balma;I310440008;Aerodrome Toulouse Lasbordes;22 AVENUE JEAN RENE LAGASSE;31130;;AÇrodrome/aÇroport;0;0;1;0;0;0;40;1;Non;0;1;0;0;0;0;0;18/09/2016;18/09/2016;2
+31;Haute-Garonne;31044;Balma;I310440022;Ecole Primaire Marie Laurencin;Avenue de LASBORDES;31130;;Etablissement scolaire;0;0;1;0;0;0;50;2;Non;0;1;0;0;0;0;0;07/09/2016;07/09/2016;2
+31;Haute-Garonne;31044;Balma;I310440023;Ecole Primaire Saint Exupery;14 Chemin SIRONIS;31130;;Etablissement scolaire;0;0;1;0;0;0;40;2;Non;0;0;0;0;0;0;1;09/09/2019;06/05/2019;3
+31;Haute-Garonne;31048;Baziäge;I310480001;Complexe Sportif;Plaine d'Amont;31450;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;1;0;1;0;0;0;18/06/2015;18/06/2015;7
+31;Haute-Garonne;31052;Beaumont-sur-Läze;I310520001;Aire Sportive;Place Clement Ader;31870;;Complexe sportif;0;0;1;0;0;0;100;3;Non;0;0;0;0;0;0;1;27/11/2019;27/11/2019;7
+31;Haute-Garonne;31056;Beauzelle;I310560006;Base de Loisir des Ramiers;;31700;;Base de plein air et/ou de loisirs;0;0;1;0;0;0;400;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31065;BÇrat;I310650002;Complexe Sportif;Route de Carbonne;31370;;Complexe sportif;0;0;1;0;0;0;50;;Non;0;1;0;0;0;0;0;22/11/2015;22/11/2015;6
+31;Haute-Garonne;31066;Bessiäres;I310660010;College de Bessieres;245 AVENUE AIME CESAIRE;31660;;Etablissement scolaire;0;0;1;0;;0;150;2;Non;0;1;0;0;0;0;0;21/07/2015;21/07/2015;2
+31;Haute-Garonne;31069;Blagnac;I310690002;Zone de Loisir des 15 Sols;che du tiers etat;31700;;Base de plein air et/ou de loisirs;1;0;1;0;0;0;100;0;Non;0;0;0;0;0;0;1;21/12/2018;21/12/2018;7
+31;Haute-Garonne;31069;Blagnac;I310690003;Complexe Sportif de Ritouret;11 Av. des Tilleuls;31700;;Complexe sportif;0;0;1;0;0;0;230;5;Non;0;0;0;0;0;0;1;04/01/2019;04/01/2019;22
+31;Haute-Garonne;31069;Blagnac;I310690004;Complexe du Grand Noble;20 RUE HENRI MARTIN;31700;;Complexe sportif;0;0;1;0;0;0;100;0;Sans logement de gardien;0;1;1;0;0;0;0;20/12/2018;20/12/2018;6
+31;Haute-Garonne;31069;Blagnac;I310690005;Complexe Sportf de Naudin;27 che du moulin de naudin;31700;;Complexe sportif;0;0;1;0;0;0;100;4;Avec logement de gardien;0;1;0;0;0;0;0;29/01/2019;24/01/2019;13
+31;Haute-Garonne;31069;Blagnac;I310690006;Complexe Sportif des Barradels;Rue des Cyclamens;31700;;Complexe sportif;0;0;1;0;0;0;150;5;Avec logement de gardien;0;1;1;0;0;0;0;29/06/2016;29/06/2016;7
+31;Haute-Garonne;31069;Blagnac;I310690007;Complexe Sportif du Ramier;2 RUE DU VIEUX MOULIN;31700;;Complexe sportif;0;0;1;0;0;0;500;10;Avec logement de gardien;0;0;0;0;0;0;1;21/12/2018;29/06/2016;12
+31;Haute-Garonne;31069;Blagnac;I310690008;Gymnase Jean Moulin;2 RUE FELIX DEBAX;31700;;Etablissement scolaire;0;0;1;0;0;0;0;0;Sans logement de gardien;0;1;1;0;0;0;0;14/10/2016;14/10/2016;1
+31;Haute-Garonne;31069;Blagnac;I310690011;Gymnase Scolaire Saint Exupery;RUE  GEORGES SAND;31700;;Etablissement scolaire;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;21/12/2018;18/07/2016;3
+31;Haute-Garonne;31069;Blagnac;I310690012;Etablissement Scolaire le Ferradou;ROUTE DE GRENADE;31700;;Etablissement scolaire;0;0;1;0;1;0;50;0;Non;0;1;0;0;0;0;0;29/06/2016;29/06/2016;6
+31;Haute-Garonne;31069;Blagnac;I310690022;Ecole Perseides;Boulevard PersÇe;31700;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31069;Blagnac;I310690026;Complexe Sportif d'Andromäde;Chemin de Ferradou Blagnac;31700;;Complexe sportif;0;0;1;0;0;0;150;6;Avec logement de gardien;0;1;0;0;0;0;0;29/06/2016;29/06/2016;11
+31;Haute-Garonne;31070;Blajan;I310700001;Ecole Primaire;Route de Toulouse;31350;;Etablissement scolaire;0;1;0;0;0;;;;-;0;0;0;0;0;0;1;25/06/2018;25/06/2018;1
+31;Haute-Garonne;31071;Bois-de-la-Pierre;I310710002;AÇrodrome Prive;Quartier Digne des Moines;31390;;AÇrodrome/aÇroport;0;0;1;0;0;0;15;0;Non;;;;;;;0;25/06/2018;25/06/2018;1
+31;Haute-Garonne;31079;Bouloc;I310790001;Complexe Sportif;Route de Villaudric;31620;;Complexe sportif;0;0;1;0;0;0;100;2;Non;;;;;;;0;21/07/2015;21/07/2015;9
+31;Haute-Garonne;31079;Bouloc;I310790003;Aire Multisports (êcole);Rue Jean Jaures;31620;;Etablissement scolaire;0;0;1;0;0;0;30;1;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31080;Boulogne-sur-Gesse;I310800004;Complexe Sportif;avenue du lac;31350;;Complexe sportif;0;0;1;0;0;0;110;0;Non;;;;;;;0;04/12/2019;04/12/2019;6
+31;Haute-Garonne;31081;Bourg-d'Oueil;I310810001;Station de Ski;Bourg d'Oueil;31110;;Domaine de ski;1;1;0;0;1;50;30;0;Non;0;0;0;0;0;0;1;12/11/2018;25/06/2018;3
+31;Haute-Garonne;31082;Bourg-Saint-Bernard;I310820003;AÇrodrome A.V.A.T;Aerodrome;31570;;AÇrodrome/aÇroport;0;1;0;0;0;0;30;0;Non;0;0;0;0;0;0;1;15/11/2019;15/11/2019;2
+31;Haute-Garonne;31084;Boussens;I310840002;Complexe Sportif Emile Lagardelle;Avenue de la gare;31360;;Complexe sportif;0;0;1;0;0;0;30;0;Avec logement de gardien;0;0;0;0;0;0;1;27/11/2019;27/11/2019;9
+31;Haute-Garonne;31084;Boussens;I310840003;Piscine Municipale;Promenade du lac;31360;;Piscine;0;0;1;0;0;0;0;1;Non;0;0;0;0;0;0;1;27/11/2019;27/11/2019;1
+31;Haute-Garonne;31084;Boussens;I310840004;Ecole;Avenue du PrÇ Commun;31360;;Etablissement scolaire;0;1;0;0;0;0;0;0;Non;0;1;0;0;0;0;0;27/11/2019;27/11/2019;1
+31;Haute-Garonne;31085;Boutx;I310850001;Station de Ski Boutx-Le Mourtis;LE MOURTIS;31160;;Domaine de ski;1;0;1;0;1;695;800;0;Non;0;0;0;0;0;0;1;08/10/2018;21/10/2013;5
+31;Haute-Garonne;31091;Bruguiäres;I310910002;Complexe Sportif RenÇ Albus;AllÇes Pierre de Coubertin;31150;;Complexe sportif;0;0;1;0;0;0;300;3;Avec logement de gardien;0;1;0;0;0;0;0;25/06/2015;25/06/2015;13
+31;Haute-Garonne;31091;Bruguiäres;I310910007;Base de Loisirs;Rue de la Briqueterie;31150;;Base de plein air et/ou de loisirs;0;1;0;0;0;0;400;10;Non;;;;;;;0;;;4
+31;Haute-Garonne;31098;Cadours;I310980001;Colläge Joseph Rey;2 Route de Garac;31480;;Etablissement scolaire;0;0;1;0;0;0;50;3;Avec logement de gardien;0;0;0;0;0;0;1;04/12/2019;24/11/2014;3
+31;Haute-Garonne;31098;Cadours;I310980008;;ECOLE MATERNELLE PUBLIQUE CHEMIN D'EN PALANQUE;31480;;Etablissement scolaire;0;0;1;0;0;0;30;0;Non;0;1;0;0;0;0;0;06/12/2019;;1
+31;Haute-Garonne;31100;Calmont;I311000001;Complexe Sportif Francis Balard;AVENUE DE MAZERES;31560;;Complexe sportif;0;0;1;0;0;0;80;3;Non;0;1;0;0;0;0;0;27/11/2019;13/11/2014;6
+31;Haute-Garonne;31100;Calmont;I311000003;Ecole;Avenue de Mazäre;31560;;Etablissement scolaire;0;0;1;0;0;0;80;1;Non;0;1;0;0;0;0;0;28/11/2019;28/11/2019;1
+31;Haute-Garonne;31107;Carbonne;I311070001;Complexe Sportif A. Prevost;Rue du Pila;31390;;Complexe sportif;0;0;1;0;0;0;350;4;Non;;;;;;;0;07/09/2018;18/06/2018;7
+31;Haute-Garonne;31107;Carbonne;I311070007;College Andre Abbal;Route de Marquefave;31390;;Etablissement scolaire;0;0;1;0;0;0;30;2;Avec logement de gardien;0;1;0;0;0;0;0;17/06/2015;17/06/2015;3
+31;Haute-Garonne;31113;Castanet-Tolosan;I311130001;Complexe Sportif G. Vallerey;Rue G. Vallerey;31320;;Complexe sportif;0;0;1;0;0;0;50;1;Non;0;1;0;0;0;0;0;17/06/2015;17/06/2015;12
+31;Haute-Garonne;31113;Castanet-Tolosan;I311130002;Complexe Sportif de Lautard;ZAC de RABAUDY LAUTARD;31320;;Complexe sportif;0;0;1;0;0;0;300;4;Avec logement de gardien;0;1;0;0;0;0;0;17/06/2015;17/06/2015;7
+31;Haute-Garonne;31113;Castanet-Tolosan;I311130003;Complexe Jean JaurÇs;Rue Mail Dels Drolets;31320;;Complexe sportif;0;0;1;0;0;0;5;1;Non;0;1;0;0;0;0;0;17/06/2015;17/06/2015;3
+31;Haute-Garonne;31113;Castanet-Tolosan;I311130004;Parc des Fontanelles;Rue des Fontanelles;31320;;Complexe sportif;0;0;1;0;0;0;40;0;Non;0;1;0;0;0;0;0;17/06/2015;17/06/2015;7
+31;Haute-Garonne;31113;Castanet-Tolosan;I311130005;Complexe Delherm;Avenue Louis Delherm;31320;;Complexe sportif;0;0;1;0;0;0;60;2;Non;0;1;0;0;0;0;0;17/06/2015;17/06/2015;3
+31;Haute-Garonne;31113;Castanet-Tolosan;I311130008;College J.Jaures;Place Clemence Isaure;31320;;Etablissement scolaire;0;0;1;0;0;0;4;1;Avec logement de gardien;0;1;0;0;0;0;0;17/06/2015;17/06/2015;2
+31;Haute-Garonne;31113;Castanet-Tolosan;I311130009;Ecole des Fontanelles;rue Nauze;31320;;Etablissement scolaire;0;0;1;0;0;0;20;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31113;Castanet-Tolosan;I311130012;Ecole Damase Auba;Avenue Salvador Allende;31320;;Etablissement scolaire;0;0;1;0;0;;;;-;0;1;0;0;0;0;0;;;3
+31;Haute-Garonne;31116;Castelginest;I311160004;Centre Sportif Buffebiau;RUE MARTIN;31780;;Complexe sportif;0;0;1;0;0;0;100;0;Non;0;1;0;0;0;0;0;21/07/2015;21/07/2015;8
+31;Haute-Garonne;31116;Castelginest;I311160005;Complexe Sportif du Centre;RUE DOCTEUR MATEO;31780;;Complexe sportif;0;0;1;0;0;0;80;2;Non;0;1;0;0;0;0;0;21/07/2015;21/07/2015;10
+31;Haute-Garonne;31117;Castelmaurou;I311170001;Complexe Sportif;3 RUE DU STADE;31180;;Complexe sportif;0;1;0;0;0;0;100;2;Non;0;1;0;0;0;0;0;17/06/2015;17/06/2015;7
+31;Haute-Garonne;31117;Castelmaurou;I311170006;Natura Game;1 route de Gragnague;31180;;Base de plein air et/ou de loisirs;0;1;0;0;0;0;300;0;Non;;;;;;;0;;;2
+31;Haute-Garonne;31118;Castelnau-d'EstrÇtefonds;I311180001;Complexe Sportif Municipal;RUE DU STADE;31620;;Complexe sportif;0;0;1;0;0;0;50;;Non;0;1;0;0;0;0;0;29/07/2015;29/07/2015;9
+31;Haute-Garonne;31133;Cazeaux-de-Larboust;I311330002;Complexe Sportif du Sivom du Bas Larboust;VILLAGE;31110;;Complexe sportif;0;1;0;0;0;0;20;0;Non;0;0;0;0;0;0;1;19/10/2018;24/01/2014;4
+31;Haute-Garonne;31135;Cazäres;I311350001;Complexe Sportif des Capucins;RUE DES CAPUCINS;31220;;Complexe sportif;0;0;1;0;0;0;0;0;Avec logement de gardien;0;1;0;0;0;0;0;21/09/2015;21/09/2015;5
+31;Haute-Garonne;31135;Cazäres;I311350002;Complexe Sportif Malaret;Rue Bertrand Caubet Le Portail;31220;;Complexe sportif;0;0;1;0;0;0;50;0;Non;;;;;;;0;21/09/2015;21/09/2015;7
+31;Haute-Garonne;31135;Cazäres;I311350003;Piscine Municipale;RUE DU PLANTAUREL;31220;;Piscine;0;0;1;0;0;0;20;0;Non;;;;;;;0;21/09/2015;21/09/2015;2
+31;Haute-Garonne;31135;Cazäres;I311350004;College du Plantaurel;Chemin de la Reye;31220;;Etablissement scolaire;0;0;1;0;0;0;40;0;Avec logement de gardien;0;1;0;0;0;0;0;21/09/2015;21/09/2015;5
+31;Haute-Garonne;31147;Clarac;I311470002;Aerodrome de St Gaudens MontrÇjeau;AÇrodrome de Clarac;31210;;AÇrodrome/aÇroport;0;0;1;0;0;0;20;0;Non;0;0;0;0;0;0;1;18/10/2018;18/10/2018;1
+31;Haute-Garonne;31149;Colomiers;I311490002;Gymnase Jules Ferry;ALLEE DES FENASSIERS;31770;;Complexe sportif;0;0;1;0;0;0;40;1;Non;0;1;0;0;0;0;0;12/09/2016;12/09/2016;5
+31;Haute-Garonne;31149;Colomiers;I311490003;Salles Omnisport RenÇ Piquemal;15 AllÇe Alfred de Vigny;31770;;Complexe sportif;0;0;1;0;0;0;200;4;Sans logement de gardien;0;1;0;0;0;0;0;09/10/2016;09/10/2016;7
+31;Haute-Garonne;31149;Colomiers;I311490008;Stade Municipal Bertrand Andrieux;RUE DES SPORTS;31770;;Complexe sportif;0;0;1;0;0;0;15;1;Non;0;1;0;0;0;0;0;08/09/2016;08/09/2016;3
+31;Haute-Garonne;31149;Colomiers;I311490011;Lep E. Montel;2 Bd MARCEL DASSAULT;31770;;Etablissement scolaire;0;0;1;0;1;90;100;0;Avec logement de gardien;0;1;0;0;0;0;0;08/09/2016;08/09/2016;2
+31;Haute-Garonne;31149;Colomiers;I311490012;Complexe Sportif Capitany;12 AVENUE YVES BRUNAUD;31770;;Complexe sportif;0;0;1;0;0;0;200;0;Non;0;1;0;0;0;0;0;16/10/2016;16/10/2016;14
+31;Haute-Garonne;31149;Colomiers;I311490013;Eurocampus;2 AllÇe de l' Herbaudiäre;31770;;Etablissement scolaire;0;0;1;0;0;0;40;1;Avec logement de gardien;0;1;0;0;0;0;0;08/09/2016;08/09/2016;4
+31;Haute-Garonne;31149;Colomiers;I311490014;"Espace Nautique ""Jean Vauchere""";PLACE DES FETES;31770;;Piscine;0;0;1;0;0;0;800;5;Non;0;1;0;0;0;0;0;09/09/2016;09/09/2016;5
+31;Haute-Garonne;31149;Colomiers;I311490018;LycÇe GÇnÇral et Technologique PrivÇ Ort Maurice Grynfogel;14 Rue Etienne Collongues;31770;;Etablissement scolaire;0;0;1;0;1;26;100;1;Non;0;1;0;0;0;0;0;08/09/2016;08/09/2016;2
+31;Haute-Garonne;31149;Colomiers;I311490033;Institution Sainte ThÇräse;1 bis Rue de l'Çglise;31770;;Etablissement scolaire;0;0;1;0;0;0;0;0;Avec logement de gardien;0;1;0;0;0;0;0;07/09/2016;07/09/2016;4
+31;Haute-Garonne;31149;Colomiers;I311490036;Ecole Elementaire George Sand;AllÇe de la Colombe;31770;;Etablissement scolaire;0;0;1;0;0;;;;-;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31149;Colomiers;I311490038;Complexe Tennis Cabirol;2 AllÇe des Alpilles;31770;;Complexe sportif;0;0;1;0;0;0;0;0;Non;0;0;0;0;0;1;0;;;16
+31;Haute-Garonne;31150;Cornebarrieu;I311500002;Complexe Pierre de Coubertin;CHEMIN DES AMBRITS;31700;;Complexe sportif;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;24/07/2015;24/07/2015;16
+31;Haute-Garonne;31157;Cugnaux;I311570001;Ecole Jean Jauräs;Impasse des Çcoles;31270;;Etablissement scolaire;0;0;1;0;0;0;32;1;Non;0;1;0;0;0;0;0;23/11/2016;23/11/2016;2
+31;Haute-Garonne;31157;Cugnaux;I311570003;Groupe Scolaire Christian Blanc;12 AllÇe Suzanne Lacore;31270;;Etablissement scolaire;0;0;1;0;0;0;50;1;Non;0;1;0;0;0;0;0;16/11/2016;16/11/2016;3
+31;Haute-Garonne;31157;Cugnaux;I311570004;Ecole LÇon Blum;Rue Vincent Auriol;31270;;Etablissement scolaire;0;0;1;0;0;0;10;0;Non;0;1;0;0;0;0;0;16/11/2016;16/11/2016;2
+31;Haute-Garonne;31157;Cugnaux;I311570005;Groupe Scolaire Eugäne Montel;Square St ExupÇry;31270;;Etablissement scolaire;0;0;1;0;0;0;10;0;Non;0;1;0;0;0;0;0;23/11/2016;23/11/2016;1
+31;Haute-Garonne;31157;Cugnaux;I311570007;Complexe Michel Jazy;Av du Comminges;31270;;Complexe sportif;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;17/11/2016;17/11/2016;7
+31;Haute-Garonne;31157;Cugnaux;I311570011;Plaine de Jeux de Loubayssens;Rue du stade;31270;;Complexe sportif;0;0;1;0;0;0;200;5;Non;0;1;0;0;0;0;0;17/11/2016;17/11/2016;21
+31;Haute-Garonne;31157;Cugnaux;I311570019;College Montesquieu;Bd LÇo Lagrange;31270;;Etablissement scolaire;0;0;1;0;0;0;70;3;Sans logement de gardien;0;1;0;0;0;0;0;23/11/2016;23/11/2016;3
+31;Haute-Garonne;31160;Daux;I311600006;Ecole êlÇmentaire de Daux;Chemin de Mirande;31700;;Etablissement scolaire;0;0;1;0;0;;60;2;Sans logement de gardien;0;1;0;0;0;0;0;28/08/2019;28/08/2019;2
+31;Haute-Garonne;31163;DrÇmil-Lafage;I311630001;Ecole êlÇmentaire AndrÇ Duperrin;av andre duperrin;31280;;Etablissement scolaire;0;0;1;0;0;;50;0;Non;0;0;0;0;0;0;1;11/10/2019;11/10/2019;1
+31;Haute-Garonne;31163;DrÇmil-Lafage;I311630002;Stade Municipal;che de loubieres;31280;;Complexe sportif;0;0;1;0;0;0;20;2;Non;0;0;0;0;0;0;1;05/11/2019;05/11/2019;6
+31;Haute-Garonne;31165;Eaunes;I311650002;Complexe Sportif Ariane;Chemin des Bertoulots;31600;;Complexe sportif;0;0;1;0;0;0;100;3;Non;;;;;;;0;05/06/2015;05/06/2015;3
+31;Haute-Garonne;31167;Encausse-les-Thermes;I311670001;Complexe Educatif Sportif et de Loisir;Padehant;31160;;Complexe sportif;0;0;1;0;0;0;60;4;Non;;;;;;;0;15/10/2018;27/06/2013;4
+31;Haute-Garonne;31181;Fauga;I311810005;Ecole Municipale;Place Cazaläre;31410;;Etablissement scolaire;0;0;1;0;0;0;20;1;Non;0;0;0;0;0;0;1;03/12/2019;28/11/2019;2
+31;Haute-Garonne;31182;Fenouillet;I311820006;Complexe Sportif du Ramier;RUE DE LA PLAGE;31150;;Complexe sportif;0;0;1;0;0;0;50;;Non;0;1;0;0;0;0;0;21/07/2015;21/07/2015;5
+31;Haute-Garonne;31182;Fenouillet;I311820007;Site Omnisport Claude Cornac;Rue Piquepeyre;31150;;Complexe sportif;0;0;1;0;0;0;50;;Non;0;1;0;0;0;0;0;21/07/2015;21/07/2015;6
+31;Haute-Garonne;31186;Fonbeauzard;I311860004;Complexe Sportif;Rue Jean Mermoz;31140;;Complexe sportif;0;0;1;0;0;0;100;4;Non;0;1;0;0;0;0;0;26/06/2015;26/06/2015;6
+31;Haute-Garonne;31187;Fonsorbes;I311870001;Domaine de Bidot;Chemin de Birazel Bidot;31470;;Base de plein air et/ou de loisirs;0;0;1;0;0;0;73;4;Avec logement de gardien;;;;;;;0;24/07/2015;24/07/2015;4
+31;Haute-Garonne;31187;Fonsorbes;I311870003;Complexe Sportif de Cantelauze;Cantelauze;31470;;Complexe sportif;0;0;1;0;0;0;50;0;Avec logement de gardien;;;;;;;0;24/07/2015;24/07/2015;6
+31;Haute-Garonne;31187;Fonsorbes;I311870004;Complexe Detennis;Rue Luigi Amadio;31470;;Complexe sportif;0;0;1;0;0;0;20;;Non;0;1;0;0;0;0;0;24/07/2015;24/07/2015;10
+31;Haute-Garonne;31187;Fonsorbes;I311870005;Complexe Sportif des Boulbenes;che des boulbenes;31470;;Complexe sportif;0;0;1;0;0;0;289;20;Non;0;0;0;0;0;0;1;24/10/2019;24/10/2019;12
+31;Haute-Garonne;31187;Fonsorbes;I311870011;College Cantelauze;Chemin Cantelauze;31470;;Etablissement scolaire;0;0;1;0;0;0;36;2;Non;0;1;0;0;0;0;0;24/07/2015;24/07/2015;2
+31;Haute-Garonne;31187;Fonsorbes;I311870013;Complexe du Lycee Lucie Aubrac;av lucie aubrac;31470;;Complexe sportif;0;0;1;0;0;0;200;4;Sans logement de gardien;0;1;0;0;0;0;0;24/10/2019;24/10/2019;6
+31;Haute-Garonne;31193;Fousseret;I311930009;Colläge Pierre et Marie Curie;13 Avenue des PyrÇnÇes;31430;;Etablissement scolaire;0;0;1;0;0;0;50;2;Avec logement de gardien;0;1;0;0;0;0;0;29/10/2019;02/12/2014;3
+31;Haute-Garonne;31202;Fronton;I312020004;Parc Municipal des Sports / de Matabiau;AVENUE DU STADE;31620;;Complexe sportif;0;0;1;0;0;0;200;1;Non;0;0;0;0;0;0;1;29/07/2015;29/07/2015;12
+31;Haute-Garonne;31202;Fronton;I312020011;Stade de Matrassou;Avenue du Stade;31620;;Complexe sportif;0;0;1;0;0;0;103;0;Non;0;1;0;0;0;0;0;29/07/2015;29/07/2015;3
+31;Haute-Garonne;31203;Frouzins;I312030004;Complexe Jean Lassalle;22 RUE GUILLAUME BERDEIL;31270;;Complexe sportif;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;22/09/2015;22/09/2015;7
+31;Haute-Garonne;31205;Gagnac-sur-Garonne;I312050001;"Complexe Sportif Municipal ""Campistron""";Centre Ville;31150;;Complexe sportif;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;19/04/2017;19/04/2017;7
+31;Haute-Garonne;31210;Gardouch;I312100002;Complexe Sportif;Avenue Tolosane;31290;;Complexe sportif;0;;;;0;0;50;2;Non;0;1;0;0;0;0;0;03/12/2019;03/12/2019;3
+31;Haute-Garonne;31221;Gouaux-de-Larboust;I312210001;Station de Ski;Les Agudes;31110;;Domaine de ski;1;0;1;0;1;3000;800;0;Non;0;1;0;0;0;0;0;05/03/2019;05/03/2019;4
+31;Haute-Garonne;31221;Gouaux-de-Larboust;I312210002;Piscine Municipale;Les Agudes;31110;;Piscine;0;0;1;1;0;0;0;0;Non;0;0;0;0;0;0;1;05/03/2019;05/03/2019;1
+31;Haute-Garonne;31224;Gourdan-Polignan;I312240004;LycÇe Paul Mathou;29 Avenue de Luchon;31210;;Etablissement scolaire;0;0;1;0;1;210;20;1;Avec logement de gardien;0;0;0;0;0;0;1;04/12/2019;04/12/2019;8
+31;Haute-Garonne;31230;Gratentour;I312300001;Complexe Municipal;RUE DE MAURYS;31150;;Complexe sportif;0;0;1;0;0;0;100;1;Non;0;1;0;0;0;0;0;26/06/2015;26/06/2015;11
+31;Haute-Garonne;31230;Gratentour;I312300003;College C. Cornac;Rue LÇo FerrÇ;31150;;Etablissement scolaire;0;0;1;0;0;0;60;2;Sans logement de gardien;0;1;0;0;0;0;0;26/06/2015;26/06/2015;2
+31;Haute-Garonne;31230;Gratentour;I312300005;Complexe Maurys (Nouveau);60 rue de Maurys;31150;;Complexe sportif;0;0;1;0;0;0;200;10;Avec logement de gardien;0;1;0;0;0;0;0;;;3
+31;Haute-Garonne;31230;Gratentour;I312300006;Ecole Primaire Maurice Saquer;Rue Mance;31150;;Etablissement scolaire;0;0;1;0;0;0;30;0;Non;0;1;0;0;0;0;0;02/07/2015;02/07/2015;1
+31;Haute-Garonne;31232;Grenade;I312320002;Colläge Grand Selve;CARPENTE;31330;;Complexe sportif;0;0;1;0;0;0;70;;Non;0;1;0;0;0;0;0;24/07/2015;24/07/2015;9
+31;Haute-Garonne;31232;Grenade;I312320003;Piste de Roller;QUAI DE GARONNE;31330;;Base de plein air et/ou de loisirs;0;1;0;0;0;0;80;0;Non;0;1;0;0;0;0;0;24/07/2015;24/07/2015;4
+31;Haute-Garonne;31239;Isle-en-Dodon;I312390002;Complexe Sportif;av des martiagues;31230;;Complexe sportif;0;0;1;0;0;48;100;2;Non;0;0;0;0;0;0;1;07/11/2019;07/11/2019;10
+31;Haute-Garonne;31239;Isle-en-Dodon;I312390004;;Route d'Espaon;31230;;AÇrodrome/aÇroport;0;0;1;0;0;0;10;;Non;0;0;0;0;0;0;1;15/10/2019;;1
+31;Haute-Garonne;31247;Labarthe-Riviäre;I312470006;Ecole Publique;19 Avenue Victor Hugo;31800;;Etablissement scolaire;;0;1;0;0;;;;-;0;0;0;0;0;0;1;03/12/2019;03/12/2019;1
+31;Haute-Garonne;31248;Labarthe-sur-Läze;I312480002;Plateau EPS du Colläge Pierre Mendes-France;Route du Plantaurel;31860;;Etablissement scolaire;0;1;0;0;0;0;100;4;Avec logement de gardien;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31248;Labarthe-sur-Läze;I312480003;Complexe Sportif;CHEMIN DES ECOLES;31860;;Complexe sportif;0;0;1;0;0;0;200;0;Non;0;1;0;0;0;0;0;22/09/2015;22/09/2015;9
+31;Haute-Garonne;31253;Labastidette;I312530001;Complexe Sportif;Chemin de Marcus;31600;;Complexe sportif;0;0;1;0;0;0;40;0;Non;0;0;0;0;0;0;1;28/08/2019;28/08/2019;6
+31;Haute-Garonne;31254;Labäge;I312540012;Ecole Primaire;1 Avenue Paul Riquet;31670;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31254;Labäge;I312540013;Gymnase Inp;rue des arts;31670;;Etablissement scolaire;0;0;1;1;0;0;30;0;Non;0;1;0;0;0;0;0;27/02/2017;27/02/2017;7
+31;Haute-Garonne;31254;Labäge;I312540015;LycÇe Agricole PrivÇ la Cadene;1 Rue Buissoniäre;31670;;Etablissement scolaire;0;0;1;0;1;140;;;Sans logement de gardien;0;0;0;0;0;0;1;;;2
+31;Haute-Garonne;31263;Lagardelle-sur-Läze;I312630006;;rue des puits;31870;;Etablissement scolaire;0;1;0;0;0;0;0;0;Non;0;0;0;0;0;0;1;07/11/2019;07/11/2019;1
+31;Haute-Garonne;31271;Lanta;I312710004;Ecole;che des ecoles;31570;;Etablissement scolaire;0;1;0;0;0;0;0;0;Non;0;0;0;0;0;0;1;15/11/2019;15/11/2019;1
+31;Haute-Garonne;31273;Lapeyrouse-Fossat;I312730004;Ecole Georges Brassens;Chemin Jamebru;31180;;Etablissement scolaire;0;0;1;0;0;0;15;1;Non;0;1;0;0;0;0;0;17/06/2015;17/06/2015;2
+31;Haute-Garonne;31282;Launaguet;I312820001;Ecole Arthur Rimbaud;15 Avenue Condorcet;31140;;Etablissement scolaire;0;0;1;0;0;;;;-;0;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31282;Launaguet;I312820006;Gymnase, Espace F.Mitterand;Rue Jean Moulin;31140;;Complexe sportif;0;0;1;0;0;0;150;2;Non;0;1;0;0;0;0;0;27/07/2015;27/07/2015;3
+31;Haute-Garonne;31282;Launaguet;I312820007;Piscine Municipale;RUE SATURNE;31140;;Piscine;0;1;0;0;0;0;20;1;Non;0;1;0;0;0;0;0;27/07/2015;27/07/2015;1
+31;Haute-Garonne;31282;Launaguet;I312820012;Stade Municipal;CHEMIN DES SPORTS;31140;;Complexe sportif;0;1;0;0;0;0;100;2;Non;0;1;0;0;0;0;0;27/07/2015;27/07/2015;4
+31;Haute-Garonne;31284;Lauzerville;I312840001;Parc de Loisirs de la Saune;CHEMIN DE MONPAPOU;31650;;Complexe sportif;0;0;1;0;0;0;100;6;Non;0;0;0;0;0;0;1;18/10/2019;18/10/2019;7
+31;Haute-Garonne;31287;Lavernose-Lacasse;I312870002;Groupe Scolaire Henri Trentin;Chemin de Pujo;31410;;Etablissement scolaire;;0;1;0;0;;;;-;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31291;LÇguevin;I312910005;Complexe Sportif des Pins Verts;Route de la  Salvetat;31490;;Complexe sportif;0;0;1;0;0;0;200;1;Non;0;1;0;0;0;0;0;27/07/2015;27/07/2015;8
+31;Haute-Garonne;31291;LÇguevin;I312910007;Ugecam - Maison D Enfant de Castelnouvel;Maison d' enfant de Castelnouvel;31490;;Etablissement scolaire;0;0;1;1;1;60;60;0;Avec logement de gardien;0;1;0;0;0;0;0;27/07/2015;27/07/2015;6
+31;Haute-Garonne;31291;LÇguevin;I312910009;College Francois Verdier;Route de la Salvetat Saint Gilles;31490;;Etablissement scolaire;0;0;1;0;0;0;50;2;Avec logement de gardien;0;1;0;0;0;0;0;27/07/2015;27/07/2015;2
+31;Haute-Garonne;31291;LÇguevin;I312910011;Ecole Elementaire Lesgachots;Place Gabriel Bonnet;31490;;Etablissement scolaire;0;0;1;0;0;0;60;0;Non;0;1;0;0;0;0;0;;;3
+31;Haute-Garonne;31293;Lespinasse;I312930002;Site Multisport;Rue du boulodrome;31150;;Complexe sportif;0;0;1;0;0;0;75;;Non;0;1;0;0;0;0;0;27/07/2015;27/07/2015;5
+31;Haute-Garonne;31293;Lespinasse;I312930003;Complexe Sportif Beldou;Chemin de Beldou;31150;;Complexe sportif;0;0;1;0;;;100;4;Avec logement de gardien;;;;;;;0;26/07/2017;26/07/2017;9
+31;Haute-Garonne;31297;LÇvignac;I312970006;;Rue de L'Isle Jourdain;31530;;Etablissement scolaire;0;0;1;0;0;0;25;2;Sans logement de gardien;0;1;0;0;0;0;0;29/08/2019;;1
+31;Haute-Garonne;31298;Lez;I312980001;Complexe Sportif St BÇat;Colläge St BÇat;31440;;Complexe sportif;0;0;1;0;0;0;30;0;Non;;;;;;;0;21/11/2018;07/11/2018;7
+31;Haute-Garonne;31299;Lherm;I312990004;Complexe Sportif;RUE DES ECOLES;31600;;Complexe sportif;0;0;1;0;;0;200;2;Non;0;1;0;0;0;0;0;08/07/2015;08/07/2015;10
+31;Haute-Garonne;31311;Magdelaine-sur-Tarn;I313110001;Terrains de Sport;route de Montjoire;31340;;Complexe sportif;0;0;1;0;0;0;64;1;Non;0;0;0;0;0;0;1;21/11/2019;21/11/2019;5
+31;Haute-Garonne;31316;Marignac;I313160002;Complexe Sportif;LA CITE;31440;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;0;0;0;0;0;1;28/11/2019;28/11/2019;4
+31;Haute-Garonne;31324;Martres-Tolosane;I313240001;Stade Municipal;avenue Franáois MITTERRAND;31220;;Complexe sportif;0;0;1;0;0;0;15;2;Non;0;0;0;0;0;0;1;04/12/2019;04/12/2019;7
+31;Haute-Garonne;31341;Merville;I313410010;Ecole Georges Brassens;24 Rue de Guinot;31330;;Etablissement scolaire;0;0;1;0;0;;;;-;0;1;0;0;0;0;0;;;4
+31;Haute-Garonne;31345;Miremont;I313450006;;Rue des Çcoles;31190;;Etablissement scolaire;0;0;1;0;0;0;20;2;Non;0;0;0;0;0;0;1;21/11/2019;21/11/2019;1
+31;Haute-Garonne;31346;Mirepoix-sur-Tarn;I313460001;Stade Municipal;RUE DU STADE;31340;;Complexe sportif;0;0;1;0;0;0;25;2;Non;0;0;0;0;0;0;1;29/11/2019;29/11/2019;3
+31;Haute-Garonne;31356;Montaigut-sur-Save;I313560004;Base de Loisirs de Bouconne;Chemin du RÉtelier;31530;;Base de plein air et/ou de loisirs;0;0;1;0;0;0;150;2;Non;0;0;0;0;0;0;1;18/11/2019;18/11/2019;16
+31;Haute-Garonne;31358;Montastruc-la-Conseilläre;I313580003;Complexe Sportif;CHEMIN DES BIRATES;31380;;Complexe sportif;0;0;1;0;0;0;150;0;Non;;;;;;;0;12/06/2015;12/06/2015;8
+31;Haute-Garonne;31358;Montastruc-la-Conseilläre;I313580005;LycÇe l'Oustal;route de Paulhac;31380;;Etablissement scolaire;0;0;1;0;;0;15;0;-;0;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31364;Montberon;I313640003;Terrain Sport Ecole;MAIRIE;31140;;Etablissement scolaire;0;0;1;0;0;0;50;3;Non;0;1;0;0;0;0;0;17/06/2015;17/06/2015;2
+31;Haute-Garonne;31375;Montesquieu-Volvestre;I313750003;Stade Jean Castet;AVENUE SIMON DE LA LOUBERE;31310;;Complexe sportif;0;0;1;0;0;0;100;1;Non;0;1;0;0;0;0;0;19/06/2015;19/06/2015;4
+31;Haute-Garonne;31375;Montesquieu-Volvestre;I313750004;Piscine Municipale;AVENUE DE LA LOUBERE;31310;;Piscine;0;1;0;0;0;0;100;1;Non;0;1;0;0;0;0;0;12/06/2015;12/06/2015;3
+31;Haute-Garonne;31375;Montesquieu-Volvestre;I313750005;College Stella Blaudy;Chemin des Perdous;31310;;Etablissement scolaire;0;0;1;0;0;0;20;2;Non;0;1;0;0;0;0;0;19/06/2015;19/06/2015;2
+31;Haute-Garonne;31380;Montgeard;I313800002;Base de Loisirs;LAC DE LA TESAUQUE;31560;;Base de plein air et/ou de loisirs;1;0;1;0;1;40;140;6;Non;0;0;0;0;0;0;1;05/10/2018;02/07/2013;3
+31;Haute-Garonne;31385;Montmaurin;I313850001;Piscine;CENTRE VILLAGE;31350;;Piscine;0;0;1;0;0;0;20;1;Non;0;0;0;0;0;0;1;02/10/2018;15/04/2016;1
+31;Haute-Garonne;31388;Montpitol;I313880002;Lac du Laragou;route du lac;31380;;Base de plein air et/ou de loisirs;1;0;1;0;0;0;20;0;Non;0;0;0;0;0;0;1;28/11/2019;28/11/2019;1
+31;Haute-Garonne;31389;MontrabÇ;I313890007;Terrains Gabriel Malpas;allÇe de l'Autan;31850;;Complexe sportif;0;1;0;0;0;0;40;1;Non;0;1;0;1;0;0;0;02/07/2015;02/07/2015;5
+31;Haute-Garonne;31390;MontrÇjeau;I313900009;Base de Plein Air;LAC MONTREJEAU;31210;;Base de plein air et/ou de loisirs;0;0;1;0;0;0;100;0;Non;;;;;;;0;05/06/2015;05/06/2015;2
+31;Haute-Garonne;31390;MontrÇjeau;I313900010;College Bertrand Laralde;2 Rue du Courraou;31210;;Etablissement scolaire;0;0;1;0;0;0;55;2;Non;0;1;0;0;0;0;0;05/06/2015;05/06/2015;4
+31;Haute-Garonne;31395;Muret;I313950002;AÇrodrome de Muret Lherm;Avenue de l'aviation;31600;;AÇrodrome/aÇroport;1;0;1;0;0;0;40;2;Non;;;;;;;0;30/06/2016;30/06/2016;2
+31;Haute-Garonne;31395;Muret;I313950003;Espace Jacqueline Auriol;40 Av. Henri Peyrusse;31600;;Complexe sportif;0;0;1;0;0;0;300;4;Sans logement de gardien;0;1;0;0;0;0;0;04/07/2016;04/07/2016;13
+31;Haute-Garonne;31395;Muret;I313950004;Complexe Nelson Paillou;Avenue Bernard IV;31600;;Complexe sportif;0;0;1;0;0;0;250;3;Non;0;0;0;0;0;0;1;30/06/2016;30/06/2016;17
+31;Haute-Garonne;31395;Muret;I313950005;Centre Nautique Aqualudia;80 Avenue Bernard IV;31600;;Complexe sportif;0;0;1;1;0;0;300;6;Non;0;0;0;0;0;0;1;22/10/2019;22/10/2019;6
+31;Haute-Garonne;31395;Muret;I313950006;Complexe de Tennis;Avenue Bernard IV;31600;;Complexe sportif;0;0;1;0;0;0;40;2;Sans logement de gardien;0;1;0;0;0;0;0;30/06/2016;30/06/2016;7
+31;Haute-Garonne;31395;Muret;I313950008;Complexe Chiffre;Chemin Notre Dame;31600;;Complexe sportif;0;0;1;0;0;0;60;2;Non;0;1;0;0;0;0;0;30/06/2016;30/06/2016;8
+31;Haute-Garonne;31395;Muret;I313950009;Domaine de Brioudes;Chemin de Brioudes;31600;;Base de plein air et/ou de loisirs;0;0;1;0;0;0;60;2;Non;0;1;0;0;0;0;0;30/06/2016;30/06/2016;5
+31;Haute-Garonne;31395;Muret;I313950020;Base Canoâ Kayak;14 Rue Castelvieilh;31600;;Base de plein air et/ou de loisirs;0;1;0;0;0;0;15;0;Non;;;;;;;0;30/06/2016;30/06/2016;2
+31;Haute-Garonne;31395;Muret;I313950027;Colläge PrivÇ Joseph Niel;41 Route d'Ox;31600;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;30/06/2016;30/06/2016;1
+31;Haute-Garonne;31395;Muret;I313950030;Groupe Scolaire du Barry;5 Rue Jean Lestrade;31600;;Etablissement scolaire;0;0;1;0;0;0;70;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31395;Muret;I313950033;Ecole Jean Mermoz;20 Rue du MarÇchal Lyautey;31600;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;29/06/2016;29/06/2016;2
+31;Haute-Garonne;31395;Muret;I313950034;Ecole Vasconia;7 Place Layrisson;31600;;Etablissement scolaire;0;0;1;0;0;0;12;1;Non;0;1;0;0;0;0;0;29/06/2016;29/06/2016;2
+31;Haute-Garonne;31395;Muret;I313950035;Colläge Cìte de BÇtance;56 Avenue Henri Peyrusse;31600;;Etablissement scolaire;0;0;1;0;0;0;60;0;Non;0;1;0;0;0;0;0;29/06/2016;29/06/2016;3
+31;Haute-Garonne;31395;Muret;I313950036;Ecole Pierre Fons;36 Rue Notre Dame;31600;;Etablissement scolaire;0;0;1;0;0;0;50;1;Non;0;1;0;0;0;0;0;29/06/2016;29/06/2016;1
+31;Haute-Garonne;31395;Muret;I313950037;Ecole St ExupÇry;13 Square St ExupÇry;31600;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;29/06/2016;29/06/2016;2
+31;Haute-Garonne;31395;Muret;I313950039;Colläge Louisa Paulin;9 Rue du Commandant Montalägre;31600;;Etablissement scolaire;0;0;1;0;0;0;10;0;Non;0;1;0;0;0;0;0;29/06/2016;29/06/2016;1
+31;Haute-Garonne;31396;Nailloux;I313960010;Parcours d'Orientation : Lac de ThÇsauque;Chemin de la ThÇsauque;31560;;Base de plein air et/ou de loisirs;1;0;1;0;0;0;100;;Non;0;0;0;0;0;0;1;20/11/2018;;1
+31;Haute-Garonne;31399;NoÇ;I313990008;Terrain de Basket de l'Ecole;2 Rue du Chateau d'Eau;31410;;Etablissement scolaire;0;0;1;0;0;0;10;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31399;NoÇ;I313990010;CollÇge de NoÇ;2 Route dÇpartementale 10;31410;;Etablissement scolaire;0;0;1;0;0;0;70;3;Avec logement de gardien;0;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31403;Ondes;I314030001;Complexe Sportif;Bord de garonne;31330;;Complexe sportif;0;1;0;0;0;0;60;0;Non;0;0;0;0;0;0;1;04/06/2018;13/11/2013;8
+31;Haute-Garonne;31406;Palaminy;I314060001;AÇrodrome;Barbe;31220;;AÇrodrome/aÇroport;0;0;1;0;0;0;100;0;Non;0;0;0;0;0;0;1;06/11/2019;06/11/2019;1
+31;Haute-Garonne;31410;Pechbonnieu;I314100001;Complexe Sportif;RUE DE LA BASTIDOLE;31140;;Complexe sportif;0;0;1;0;0;0;58;6;Non;0;1;0;0;0;0;0;27/07/2015;27/07/2015;10
+31;Haute-Garonne;31410;Pechbonnieu;I314100002;Colläge Jean Dieuzaide;1 Rue des Coteaux Bellevue;31140;;Etablissement scolaire;0;0;1;0;0;0;55;4;Non;0;1;0;0;0;0;0;;;3
+31;Haute-Garonne;31410;Pechbonnieu;I314100003;Gymnase Colette Besson;Rue des Coteaux Bellevue;31140;;Complexe sportif;0;0;1;0;0;0;60;6;Non;;;;;;;0;27/07/2015;27/07/2015;6
+31;Haute-Garonne;31410;Pechbonnieu;I314100004;Ecole êlÇmentaire l'Olivier;10 Chemin de Labastidole;31140;;Etablissement scolaire;0;0;1;0;0;;;;-;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31411;Pechbusque;I314110001;Ecole;pl germain goussis;31320;;Etablissement scolaire;0;0;1;0;0;0;20;0;Non;0;0;0;0;0;0;1;22/10/2019;22/10/2019;1
+31;Haute-Garonne;31417;Pibrac;I314170002;Complexe Sportif de la Castanette;Bd des Çcoles;31820;;Complexe sportif;0;0;1;0;0;0;70;0;Non;0;1;0;0;0;0;0;27/07/2015;27/07/2015;9
+31;Haute-Garonne;31417;Pibrac;I314170006;Colläge et Ecole de la Salle( PrivÇe);20 Rue des Fräres;31820;;Etablissement scolaire;0;0;1;0;0;0;40;0;Avec logement de gardien;0;1;0;0;0;0;0;27/07/2015;27/07/2015;2
+31;Haute-Garonne;31424;Plaisance-du-Touch;I314240006;Ecole Alphonse Daudet;AllÇe Montaigne;31830;;Etablissement scolaire;0;0;1;0;0;0;25;1;Non;0;1;0;0;0;0;0;17/11/2016;17/11/2016;2
+31;Haute-Garonne;31424;Plaisance-du-Touch;I314240013;Complexe Jules Verne;AllÇes Montaigne;31830;;Complexe sportif;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;17/11/2016;17/11/2016;7
+31;Haute-Garonne;31424;Plaisance-du-Touch;I314240015;Complexe Marcel Pagnol;Rue des Tilleuls;31830;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;1;0;0;0;0;0;23/11/2016;23/11/2016;8
+31;Haute-Garonne;31424;Plaisance-du-Touch;I314240019;Zone de Loisir;Lac Franáois Soula;31830;;Base de plein air et/ou de loisirs;0;0;1;0;0;0;30;0;Non;0;1;0;0;0;0;0;23/11/2016;23/11/2016;3
+31;Haute-Garonne;31429;Pompertuzat;I314290002;Terrains de Sport;Chemin de l'Escoulier;31450;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;0;0;0;0;0;1;24/10/2019;24/10/2019;4
+31;Haute-Garonne;31429;Pompertuzat;I314290003;Ecole;r de la tuilerie;31450;;Etablissement scolaire;0;0;1;0;0;0;10;0;Non;0;1;0;0;0;0;0;23/10/2019;23/10/2019;1
+31;Haute-Garonne;31433;Portet-sur-Garonne;I314330008;Complexe Municipal de Jeux de Raquette;RUE DE LA POSTE;31120;;Complexe sportif;0;0;1;0;0;0;20;;Non;0;1;0;0;0;0;0;26/06/2015;26/06/2015;10
+31;Haute-Garonne;31433;Portet-sur-Garonne;I314330013;Stade Municipal;Avenue Pierre de Coubertin;31120;;Complexe sportif;0;0;1;0;0;0;150;4;Non;0;1;0;0;0;0;0;02/07/2015;02/07/2015;6
+31;Haute-Garonne;31435;Poucharramet;I314350001;Complexe Sportif;rte des pyrenees;31370;;Complexe sportif;0;0;1;0;0;0;60;0;Non;0;0;0;0;0;0;1;24/10/2019;24/10/2019;3
+31;Haute-Garonne;31445;Quint-Fonsegrives;I314450001;"Complexe Sportif Municipal ""Guy Borrel""";Route de la Saune;31130;;Complexe sportif;0;0;1;0;0;0;80;;Non;0;0;0;0;0;0;1;28/07/2015;28/07/2015;14
+31;Haute-Garonne;31445;Quint-Fonsegrives;I314450009;College Elisabeth Badinter;4 rue Saint Germain;31130;;Etablissement scolaire;0;0;;;0;0;;;Non;0;1;0;0;0;0;0;04/02/2019;23/03/2017;2
+31;Haute-Garonne;31446;Ramonville-Saint-Agne;I314460004;Fosse A Plongee Sous Marine L Argonaute;14 RUE HERMES;31520;;Piscine;0;0;1;0;0;0;30;1;Non;1;0;0;0;0;0;0;08/09/2016;08/09/2016;1
+31;Haute-Garonne;31446;Ramonville-Saint-Agne;I314460007;Complexe Sportif Leon Blum;ALLEE DES SPORTS;31520;;Complexe sportif;0;0;1;0;0;0;200;10;Sans logement de gardien;0;1;0;0;0;0;0;07/09/2018;12/09/2016;27
+31;Haute-Garonne;31451;Revel;I314510003;Complexe Municipal;Avenue Julien NOUGUIER;31250;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;1;0;0;0;0;0;26/10/2015;26/10/2015;25
+31;Haute-Garonne;31451;Revel;I314510010;AÇrodrome de Revel - Montgey;Belloc VaurÇ;31250;;AÇrodrome/aÇroport;0;0;1;0;0;0;40;0;Non;;;;;;;0;26/10/2015;26/10/2015;2
+31;Haute-Garonne;31454;Rieumes;I314540003;Complexe Sportif;RUE DU STADE;31370;;Complexe sportif;0;0;1;0;;0;100;2;Non;0;1;0;0;0;0;0;26/06/2015;26/06/2015;12
+31;Haute-Garonne;31455;Rieux-Volvestre;I314550001;Piscine;rte du plan d'eau;31310;;Piscine;0;0;1;0;0;0;100;0;Non;0;0;0;0;0;0;1;24/10/2019;24/10/2019;2
+31;Haute-Garonne;31458;Roques;I314580001;Complexe Sportif;ALLEE DES SPORTS;31120;;Complexe sportif;0;0;1;0;0;0;110;0;Sans logement de gardien;0;1;0;0;0;0;0;23/09/2015;23/09/2015;13
+31;Haute-Garonne;31458;Roques;I314580004;Plateau EPS de L Ecole;1 AVENUE DES EGALTIERS;31120;;Etablissement scolaire;0;0;1;0;0;0;20;1;Non;0;1;0;0;0;0;0;23/09/2015;23/09/2015;1
+31;Haute-Garonne;31460;Roquettes;I314600001;Complexe Dominique Prevost;ALLEE DES SPORTS;31120;;Complexe sportif;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;23/09/2015;23/09/2015;6
+31;Haute-Garonne;31462;Rouffiac-Tolosan;I314620001;Complexe Sportif;chemin des Garrosses;31180;;Complexe sportif;0;0;1;0;0;0;200;0;Avec logement de gardien;0;1;0;0;0;0;0;22/11/2019;18/11/2019;5
+31;Haute-Garonne;31464;Sabonnäres;I314640003;Aerodrome;CHEMIN DE L'AERODROME;31370;;AÇrodrome/aÇroport;0;0;1;0;0;0;15;0;Non;0;0;0;0;0;0;1;12/11/2018;;1
+31;Haute-Garonne;31467;Saint-Alban;I314670002;Stade Marius Coudon;42 AVENUE DE FRONTON;31140;;Complexe sportif;0;0;1;0;0;0;280;0;Sans logement de gardien;0;1;0;0;0;0;0;02/05/2019;28/07/2015;4
+31;Haute-Garonne;31467;Saint-Alban;I314670004;Complexe George Faure;RUE SALGAREDA;31140;;Complexe sportif;0;1;0;0;0;0;80;2;Non;0;1;0;0;0;0;0;02/05/2019;28/07/2015;5
+31;Haute-Garonne;31467;Saint-Alban;I314670005;Complexe de l'Hersain;RUE DE COUBERTIN;31140;;Complexe sportif;0;0;1;0;0;0;150;4;Non;0;1;0;0;0;0;0;02/05/2019;28/07/2015;10
+31;Haute-Garonne;31467;Saint-Alban;I314670008;Ecole Jean Jaures;Avenue de Fronton;31140;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;02/05/2019;;2
+31;Haute-Garonne;31467;Saint-Alban;I314670009;Ecole Peyronettes;Rue Pierre Coubertin;31140;;Etablissement scolaire;0;0;1;0;0;0;150;4;Non;;;;;;;0;02/05/2019;;2
+31;Haute-Garonne;31470;Saint-Aventin;I314700001;Station de Ski Superbagnäres;Superbagnäres;31110;;Domaine de ski;1;1;0;0;1;1800;1500;0;Non;0;0;0;0;0;1;0;13/11/2018;19/10/2018;3
+31;Haute-Garonne;31471;Saint-BÇat;I314710006;Piscines Municipale;ROUTE DE LEZ;31440;;Piscine;0;1;0;0;0;0;20;0;Non;0;0;0;0;0;0;1;27/08/2019;27/08/2019;2
+31;Haute-Garonne;31483;Saint-Gaudens;I314830003;Complexe Sports et Loisirs de Säde;Quartier de Sede;31800;;Complexe sportif;0;0;1;0;0;0;250;3;Avec logement de gardien;0;1;0;0;0;0;0;05/06/2015;05/06/2015;12
+31;Haute-Garonne;31483;Saint-Gaudens;I314830012;Lycee de Bagatelle;114 AVENUE F. MITTERAND;31800;;Etablissement scolaire;0;0;1;0;1;120;20;0;Avec logement de gardien;0;1;0;0;0;0;0;05/06/2015;05/06/2015;1
+31;Haute-Garonne;31483;Saint-Gaudens;I314830013;LycÇe Agricole Professionnel;16 Rue Olivier De Serres;31800;;Etablissement scolaire;0;0;1;0;1;125;100;0;Avec logement de gardien;0;1;0;0;0;0;0;05/06/2015;05/06/2015;3
+31;Haute-Garonne;31483;Saint-Gaudens;I314830014;LycÇe Professionnel Elisabeth et Norbert Casteret;27 AVENUE DE L'ISLE;31800;;Etablissement scolaire;0;0;1;0;1;90;20;0;Avec logement de gardien;0;1;0;0;0;0;0;19/06/2015;19/06/2015;2
+31;Haute-Garonne;31483;Saint-Gaudens;I314830015;Institution Ste Therese;16 RUE DU BUGATET;31800;;Etablissement scolaire;0;0;1;0;1;80;40;4;Non;0;1;0;0;0;0;0;05/06/2015;05/06/2015;4
+31;Haute-Garonne;31483;Saint-Gaudens;I314830016;College Didier Daurat;BOULEVARD DES PYRENEES;31800;;Etablissement scolaire;0;0;1;0;1;48;0;0;Avec logement de gardien;0;1;0;0;0;0;0;05/06/2015;05/06/2015;4
+31;Haute-Garonne;31484;Saint-Geniäs-Bellevue;I314840001;Complexe Sportif;che de l'enguille;31180;;Complexe sportif;0;0;1;0;0;0;300;1;Non;0;0;0;0;0;0;1;18/11/2019;18/11/2019;7
+31;Haute-Garonne;31484;Saint-Geniäs-Bellevue;I314840005;Ecole;r principale;31180;;Etablissement scolaire;0;1;0;0;0;0;0;0;Non;0;0;0;0;0;0;1;18/11/2019;18/11/2019;2
+31;Haute-Garonne;31486;Saint-Hilaire;I314860001;Plaine Sportive;6 av tolosane;31410;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;1;0;0;0;0;0;07/11/2019;07/11/2019;6
+31;Haute-Garonne;31488;Saint-Jean;I314880003;Ensemble Rene Cassin;ROUTE DE MONTRABE;31240;;Complexe sportif;0;0;1;0;0;0;200;0;Sans logement de gardien;0;1;0;0;0;0;0;18/06/2015;18/06/2015;6
+31;Haute-Garonne;31488;Saint-Jean;I314880004;Complexe Sportif du Bois;AVENUE DU BOIS;31240;;Complexe sportif;0;0;1;0;0;0;55;1;Non;;;;;;;0;18/06/2015;18/06/2015;7
+31;Haute-Garonne;31488;Saint-Jean;I314880005;Ensemble Belbeze;CHEMIN DE BELBEZE;31240;;Complexe sportif;0;1;0;0;0;0;150;0;Non;0;1;0;0;0;0;0;18/06/2015;18/06/2015;5
+31;Haute-Garonne;31488;Saint-Jean;I314880006;Gymnasia;12 CHEMIN DU BOIS DE SAGET;31240;;Complexe sportif;0;1;0;0;0;0;20;1;Non;;;;;;;0;18/06/2015;18/06/2015;4
+31;Haute-Garonne;31490;Saint-Jory;I314900001;Complexe Sportif;Route de St Sauveur;31790;;Complexe sportif;0;0;1;0;0;0;87;5;Non;0;0;0;0;0;0;1;28/07/2015;28/07/2015;6
+31;Haute-Garonne;31490;Saint-Jory;I314900002;"Complexe ""Simon Paute""";Route de St Sauveur;31790;;Complexe sportif;0;0;1;1;0;0;100;;Non;0;0;0;0;0;0;1;28/07/2015;28/07/2015;8
+31;Haute-Garonne;31495;Saint-LÇon;I314950005;;rue des Çcoles;31560;;Etablissement scolaire;0;0;1;0;0;0;60;1;Non;0;0;0;0;0;0;1;07/11/2019;07/11/2019;1
+31;Haute-Garonne;31497;Saint-Loup-Cammas;I314970001;Complexe Sportif;Chemin de Puntous;31140;;Complexe sportif;0;0;1;0;0;0;100;0;Non;0;0;0;0;0;0;1;22/11/2019;22/11/2019;5
+31;Haute-Garonne;31497;Saint-Loup-Cammas;I314970004;;chemin de Tourtourel;31140;;Etablissement scolaire;0;0;1;0;0;0;10;1;Non;0;0;0;0;0;0;1;25/11/2019;25/11/2019;2
+31;Haute-Garonne;31499;Saint-Lys;I314990008;Piscine Intercommunale;Chemin Laurent;31470;;Piscine;0;0;1;0;0;0;30;1;Non;;;;;;;0;23/09/2015;23/09/2015;2
+31;Haute-Garonne;31500;Saint-Mamet;I315000002;Complexe Sportif;RESERVE DE LA PIQUE;31110;;Complexe sportif;0;0;1;0;0;0;0;0;Avec logement de gardien;0;1;0;0;0;0;0;27/11/2018;22/11/2018;16
+31;Haute-Garonne;31501;Saint-Marcel-Paulel;I315010002;Aire de Sports et de Loisirs;MULLO HAMMEAU DE BEAULIEU;31590;;Base de plein air et/ou de loisirs;0;1;0;0;0;0;0;0;Non;0;1;0;0;0;0;0;08/11/2018;28/10/2013;3
+31;Haute-Garonne;31506;Saint-Orens-de-Gameville;I315060010;Complexe R. Cassin;Avenue des Carabenes;31650;;Complexe sportif;0;0;1;0;0;0;30;2;Non;0;1;0;0;0;0;0;28/07/2015;28/07/2015;4
+31;Haute-Garonne;31506;Saint-Orens-de-Gameville;I315060011;Salles Polyvalentes du Lauragais;Rue des sports;31650;;Complexe sportif;0;0;1;0;0;0;20;1;Non;0;1;0;0;0;0;0;28/07/2015;28/07/2015;4
+31;Haute-Garonne;31512;Saint-Pierre-de-Lages;I315120002;Colläge des Roussillous;rte de lanta;31570;;Etablissement scolaire;0;0;1;0;0;0;100;3;Non;0;0;0;0;0;0;1;28/10/2019;28/10/2019;6
+31;Haute-Garonne;31512;Saint-Pierre-de-Lages;I315120003;Ecole;av de vallesvilles;31570;;Etablissement scolaire;0;0;1;0;0;0;20;2;Non;0;1;0;0;0;0;0;28/10/2019;28/10/2019;1
+31;Haute-Garonne;31517;Saint-Sulpice-sur-Läze;I315170002;Stade Gaston Sauret;route de la mÇditÇrannÇe;31410;;Complexe sportif;0;1;0;0;0;0;100;2;Non;0;0;0;0;0;0;1;08/11/2019;08/11/2019;5
+31;Haute-Garonne;31517;Saint-Sulpice-sur-Läze;I315170005;Ecole;che de saint jean;31410;;Etablissement scolaire;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;24/10/2019;24/10/2019;1
+31;Haute-Garonne;31523;Salies-du-Salat;I315230001;Piscine Municipale;Chemin des Bordes;31260;;Piscine;0;1;0;0;0;0;50;0;Non;0;0;0;0;0;0;1;04/12/2019;04/12/2019;2
+31;Haute-Garonne;31523;Salies-du-Salat;I315230004;Colläge des Trois VallÇes;Avenue du Dr Froment;31260;;Etablissement scolaire;0;0;1;0;1;80;50;0;Avec logement de gardien;0;0;0;0;0;0;1;05/12/2019;05/12/2019;2
+31;Haute-Garonne;31526;Salvetat-Saint-Gilles;I315260008;Complexe de l'Apouticayre;Route de Fontenilles;31880;;Complexe sportif;0;0;1;0;0;0;65;1;Non;0;1;0;0;0;0;0;28/07/2015;28/07/2015;2
+31;Haute-Garonne;31533;Saubens;I315330002;Complexe Sportif;rte de muret;31600;;Complexe sportif;0;0;1;0;0;0;50;1;Non;0;0;0;0;0;0;1;21/11/2019;21/11/2019;7
+31;Haute-Garonne;31533;Saubens;I315330003;;Rue des Çcoles;31600;;Etablissement scolaire;0;0;1;0;0;0;10;2;Non;0;1;0;0;0;0;0;21/11/2019;21/11/2019;1
+31;Haute-Garonne;31535;Sauveterre-de-Comminges;I315350001;Complexe Sportif;HAMEAU DE BRUNCAN;31510;;Complexe sportif;0;0;1;0;0;0;100;0;Non;0;0;0;0;0;0;1;13/11/2018;11/11/2013;6
+31;Haute-Garonne;31541;Seilh;I315410001;Complexe Sportif de Ferrat;allÇe de l'Europe;31840;;Complexe sportif;0;0;1;0;0;0;70;4;Non;0;1;0;0;0;0;0;27/07/2015;27/07/2015;5
+31;Haute-Garonne;31541;Seilh;I315410004;Aele l'Annonciation;7 Chemin Percin;31840;;Etablissement scolaire;0;0;1;0;1;60;80;;Avec logement de gardien;0;1;0;0;0;0;0;28/07/2015;28/07/2015;3
+31;Haute-Garonne;31547;Seysses;I315470002;Complexe de la Saudrune;Chemin de la Saudrune;31600;;Complexe sportif;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;23/09/2015;23/09/2015;9
+31;Haute-Garonne;31553;Thil;I315530001;Complexe Sportif;Les Claourios;31530;;Complexe sportif;0;0;1;0;0;0;100;0;Non;0;0;0;0;0;0;1;29/08/2019;13/11/2014;6
+31;Haute-Garonne;31555;Toulouse;I315550006;LycÇe Urbain Vitry;150 Route de Launaguet;31000;;Etablissement scolaire;0;0;1;0;1;120;100;0;Avec logement de gardien;1;1;0;0;0;0;0;18/01/2017;18/01/2017;6
+31;Haute-Garonne;31555;Toulouse;I315550013;LycÇe Airbus- LycÇe Professionnel PrivÇ des MÇtiers de l'AÇronautique;57 Chemin du Sang de Serp;31000;;Etablissement scolaire;0;0;1;0;0;0;30;0;Non;0;1;0;0;0;0;0;27/01/2013;27/01/2013;1
+31;Haute-Garonne;31555;Toulouse;I315550021;êcole êlÇmentaire Victor Hugo;3 Impasse ThÇodord Richard;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550022;êcole êlÇmentaire Maurice Jacquier;7 Rue du Poitou;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31555;Toulouse;I315550023;êcole êlÇmentaire Jean Jauräs;21 Avenue Frizac;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550024;êcole êlÇmentaire Jolimont;14 Avenue Henri Guillaumet;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31555;Toulouse;I315550025;êcole êlÇmentaire Lalande;239 Avenue de Fronton;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550026;Ecole ElÇmentaire Lapujade;26 Route d'Albi;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550027;Ecole ElÇmentaire Armand Leygue;20 Rue Lucien Cassagne;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550028;Ecole ElÇmentaire Jean MacÇ;1 Chemin de Duroux;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550030;Ecole ElÇmentaire Marengo PÇriole;98 Rue de PÇriole;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550034;êcole êlÇmentaire Gaston Dupouy;8 Rue du Professeur Gaston Dupouy;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550035;êcole êlÇmentaire ClÇment Falccuci;5 Impasse Bachaga Boualam;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;;;3
+31;Haute-Garonne;31555;Toulouse;I315550036;êcole êlÇmentaire Fleurance;12 Place Raymond Grimaud;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;1;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550037;êcole êlÇmentaire Alain Fournier;59 Rue du GÇnÇral Bourbaki;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550038;Ecole ElÇmentaire Anatole France;21 Boulevard de la MÇditerranÇe;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550039;Ecole ElÇmentaire Jean Gallia;4 Cheminement Lesueur;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;16/07/2017;16/07/2017;2
+31;Haute-Garonne;31555;Toulouse;I315550040;êcole êlÇmentaire Peire Godolin;15 Rue Vincent Scotto;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;1;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550041;êcole êlÇmentaire Sauzelong;92 Avenue Albert Bedouce;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;17/05/2019;07/12/2016;2
+31;Haute-Garonne;31555;Toulouse;I315550042;êcole êlÇmentaire des Amidonniers;123 AllÇe de Brienne;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550043;Ecole ElÇmentaire Bayard;60 Rue Matabiau;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550045;êcole êlÇmentaire Maurice BÇcane;85 Avenue de Muret;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;1;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550046;êcole êlÇmentaire Paul Bert;4 Chemin de Liffard;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;3
+31;Haute-Garonne;31555;Toulouse;I315550047;êcole êlÇmentaire Borderouge Nord;6 Rue Antoine PastrÇ;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;14/05/2019;;1
+31;Haute-Garonne;31555;Toulouse;I315550048;êcole êlÇmentaire Calvinhac;8bis Rue Jacques Labatut;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550049;êcole êlÇmentaire du ChÉteau d'Ancely;4 AllÇe du Vivarais;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;1;0;0;0;0;;;2
+31;Haute-Garonne;31555;Toulouse;I315550050;êcole êlÇmentaire du ChÉteau de l'Hers;8 Rue Claudius Rougenet;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550051;êcole êlÇmentaire Jean Chaubet;112 Avenue Camille Pujol;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550052;êcole êlÇmentaire Cuvier;135 Route d'Albi;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550053;êcole êlÇmentaire AndrÇ Daste;4 Avenue de Lattre de Tassigny;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550054;êcole êlÇmentaire Sylvain Dauriac;41 Rue Paul Lambert BP 28 - Cedex;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31555;Toulouse;I315550055;Ecole PrivÇe Saint Stanislas;22 Rue des fleurs;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Avec logement de gardien;0;1;0;0;0;0;0;14/04/2013;14/04/2013;2
+31;Haute-Garonne;31555;Toulouse;I315550056;êcole êlÇmentaire PrivÇe êmilie de Rodat;214 Avenue de Toulouse;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31555;Toulouse;I315550057;Ecole et College Prive la Prairie;1 Rue des NÇfliers;31000;;Etablissement scolaire;;0;1;0;0;0;0;0;Avec logement de gardien;0;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31555;Toulouse;I315550058;êcole êlÇmentaire Michoun;49 Chemin Michoun;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31555;Toulouse;I315550059;êcole êlÇmentaire Monge;12 Rue Soult;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550060;êcole êlÇmentaire Montaudran;1 Impasse Gaston GÇnin;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550061;êcole êlÇmentaire Les Oustalous;65 Route d'Espagne;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550062;êcole êlÇmentaire Marcel Pagnol;7 Rue Ernest Dufer;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;1;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550064;êcole êlÇmentaire de Pouvourville;2 Chemin d'Escalles;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550065;êcole êlÇmentaire de Rangueil;16 Rue Claude Forbin;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550066;Ecole ElÇmentaire Ronsard;7bis Rue Vestrepain;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;23/01/2013;23/01/2013;1
+31;Haute-Garonne;31555;Toulouse;I315550067;Ecole ElÇmentaire des Sept Deniers;110 Avenue de Blagnac;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550068;êcole êlÇmentaire de Soupetard;37 Impasse de la solidaritÇ;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;2
+31;Haute-Garonne;31555;Toulouse;I315550069;êcole êlÇmentaire de la Terrasse;4 Impasse Eugäne Trutat;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550070;êcole êlÇmentaire Tibaous;7 Rue Albert Carovis;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;23/01/2013;23/01/2013;1
+31;Haute-Garonne;31555;Toulouse;I315550071;êcole êlÇmentaire Elsa Triolet;4bis Rue Emile Pelletier;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550072;êcole êlÇmentaire Viollet le Duc;23 Rue Viollet Le Duc;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550073;LycÇe StÇphane Hessel (Ex-CitÇ Scolaire de Jolimont);44 Chemin Cassaing;31000;;Etablissement scolaire;0;0;1;0;1;300;20;2;Avec logement de gardien;1;1;0;0;0;0;0;08/12/2016;08/12/2016;2
+31;Haute-Garonne;31555;Toulouse;I315550075;Complexe Alex Jany;Chemin du Verdon;31000;;Complexe sportif;0;0;1;1;0;0;200;10;Sans logement de gardien;1;1;0;0;0;0;0;08/12/2016;08/12/2016;3
+31;Haute-Garonne;31555;Toulouse;I315550077;Complexe Sordelo;Chemin des Cìtes de Pech David Pech David;31000;;Complexe sportif;0;0;1;0;0;0;30;0;Non;0;1;0;0;0;0;0;10/01/2017;10/01/2017;5
+31;Haute-Garonne;31555;Toulouse;I315550081;Complexe Sportif Edf du Bazacle;1 impasse du Ramier des Catalans;31000;;Complexe sportif;0;0;1;0;;0;80;2;Non;0;1;0;0;0;0;0;12/01/2017;12/01/2017;9
+31;Haute-Garonne;31555;Toulouse;I315550136;LycÇe Polyvalent Raymond Naves;139 Route d'ALBI;31000;;Etablissement scolaire;0;0;1;0;1;248;150;0;Avec logement de gardien;0;1;0;0;0;0;0;01/02/2017;01/02/2017;8
+31;Haute-Garonne;31555;Toulouse;I315550137;LycÇe des Arenes;4 PLACE EMILE MALE;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Sans logement de gardien;1;1;0;1;0;0;0;17/01/2017;17/01/2017;1
+31;Haute-Garonne;31555;Toulouse;I315550138;LycÇe Berthelot;14 Rue Franáois Longaud;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Avec logement de gardien;1;1;0;0;0;0;0;09/12/2016;09/12/2016;6
+31;Haute-Garonne;31555;Toulouse;I315550139;Colläge Clemence Isaure;35 AllÇe Charles de Fitte;31000;;Etablissement scolaire;0;0;1;0;0;0;50;0;Avec logement de gardien;1;1;0;0;0;0;0;16/01/2017;16/01/2017;4
+31;Haute-Garonne;31555;Toulouse;I315550140;LycÇe Polyvalent Bellevue;135 route de NARBONNE;31000;;Etablissement scolaire;0;0;1;0;0;80;200;2;Non;1;1;0;0;0;0;0;25/01/2017;25/01/2017;19
+31;Haute-Garonne;31555;Toulouse;I315550146;Asptt Toulouse;47 rue de Soupetard;31000;;Complexe sportif;0;0;1;0;0;0;33;0;Non;0;1;0;0;0;0;0;20/03/2017;20/03/2017;5
+31;Haute-Garonne;31555;Toulouse;I315550154;Complexe Barran;82 Chemin des Cìtes de Pech-David;31000;;Complexe sportif;0;0;1;0;0;0;50;2;Non;0;1;0;0;0;0;0;09/12/2016;09/12/2016;8
+31;Haute-Garonne;31555;Toulouse;I315550174;Ce Airbus France;20 Chemin de Garric;31000;;Complexe sportif;0;0;1;0;0;0;300;15;Sans logement de gardien;0;1;0;0;0;0;0;16/01/2017;16/01/2017;27
+31;Haute-Garonne;31555;Toulouse;I315550176;Stade Inter-Universitaire Daniel Faucher;AllÇe professeur Camille Soula;31000;;Complexe sportif;0;0;1;0;0;0;70;3;Non;0;1;0;0;0;0;0;12/11/2012;12/11/2012;12
+31;Haute-Garonne;31555;Toulouse;I315550178;LycÇe Professionnel Roland Garros;32 Rue Mathaly;31000;;Etablissement scolaire;0;0;1;0;1;86;100;0;Avec logement de gardien;0;1;0;0;0;0;0;18/06/2018;20/12/2012;6
+31;Haute-Garonne;31555;Toulouse;I315550179;Colläge et LycÇe Polyvalent PrivÇ Emilie de Rodat;25 avenue de lombez;31000;;Etablissement scolaire;0;0;1;0;0;0;10;0;Avec logement de gardien;1;1;1;0;0;0;0;17/01/2017;17/01/2017;4
+31;Haute-Garonne;31555;Toulouse;I315550180;LycÇe Polyvalent Deodat de Severac;26 Boulevard DÇodat de Severac;31000;;Etablissement scolaire;0;1;0;0;1;280;84;2;Avec logement de gardien;1;1;1;0;0;0;0;17/01/2017;17/01/2017;8
+31;Haute-Garonne;31555;Toulouse;I315550181;Groupe Scolaire PrivÇ Saint Joseph;85 rue de Limayrac;31000;;Etablissement scolaire;0;0;1;0;1;180;80;2;Avec logement de gardien;0;1;0;0;0;0;0;03/02/2017;03/02/2017;10
+31;Haute-Garonne;31555;Toulouse;I315550182;LycÇe Polyvalent PrivÇ Montalembert Notre Dame;134 avenue Lespinet;31000;;Etablissement scolaire;0;0;1;0;;142;0;0;Avec logement de gardien;0;1;0;0;0;0;0;09/01/2013;09/01/2013;1
+31;Haute-Garonne;31555;Toulouse;I315550184;Toulouse Cheminots Marengo Club.(Tcms) Louis Plana;48 bis Rue Louis Plana;31000;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;1;0;0;0;0;0;29/08/2016;29/08/2016;9
+31;Haute-Garonne;31555;Toulouse;I315550185;Toulouse Cheminots Marengo Club.(Tcms)Site de St.Roch;65 Rue Saint Roch;31000;;Complexe sportif;0;0;1;0;0;0;50;0;Avec logement de gardien;0;1;0;0;0;0;0;29/08/2016;29/08/2016;5
+31;Haute-Garonne;31555;Toulouse;I315550187;LycÇe Pierre de Fermat;Parvis des Jacobins;31000;;Etablissement scolaire;0;0;1;0;0;0;50;2;Non;1;1;0;0;0;0;0;13/01/2017;13/01/2017;6
+31;Haute-Garonne;31555;Toulouse;I315550188;Groupe Scolaire PrivÇ le Caousou;42 AVENUE Camille Pujol;31000;;Etablissement scolaire;0;0;1;0;1;149;100;0;Avec logement de gardien;0;1;0;0;0;0;0;01/02/2017;01/02/2017;14
+31;Haute-Garonne;31555;Toulouse;I315550189;LycÇe Professionnel HÇläne Boucher;1 Rue Lucien Lafforgue;31000;;Etablissement scolaire;0;0;1;0;0;0;60;2;Non;1;1;0;0;0;0;0;17/01/2017;17/01/2017;2
+31;Haute-Garonne;31555;Toulouse;I315550190;LycÇe Professionnel Gabriel Peri (1Ere Installation);30 Rue Gabriel PERI;31000;;Etablissement scolaire;0;1;0;0;0;0;0;0;Non;1;1;0;0;0;0;0;18/01/2017;18/01/2017;1
+31;Haute-Garonne;31555;Toulouse;I315550191;LycÇe Professionnel Gabriel Peri (2Eme Installation);25 Rue Mondran;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;18/01/2017;18/01/2017;1
+31;Haute-Garonne;31555;Toulouse;I315550192;Colläge et LycÇe GÇnÇral Ozar Hatorah - Ohr Myriam;33 Rue Jules Dalou;31000;;Etablissement scolaire;0;0;1;0;1;18;12;1;Avec logement de gardien;1;1;0;0;0;0;0;09/01/2017;09/01/2017;1
+31;Haute-Garonne;31555;Toulouse;I315550193;LycÇe PrivÇ GÇnÇral et Technologique Sainte Marie des Champs;169 avenue Jean Rieux;31000;;Etablissement scolaire;0;0;1;0;1;70;0;0;Non;0;1;0;0;0;0;0;24/01/2017;24/01/2017;2
+31;Haute-Garonne;31555;Toulouse;I315550195;Aece- LycÇe Professionnel PrivÇ Jasmin Coiffure;4 Rue des Teinturiers;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;13/01/2017;13/01/2017;1
+31;Haute-Garonne;31555;Toulouse;I315550213;Cosec de Rangueil et êquipements Sportifs ExtÇrieurs;8  rue de Nimes;31000;;Complexe sportif;0;1;0;0;0;0;60;0;Non;1;1;0;0;0;0;0;08/12/2016;08/12/2016;10
+31;Haute-Garonne;31555;Toulouse;I315550214;Complexe Sportif de Pouvourville;Impasse de Sarrangines;31000;;Complexe sportif;0;0;1;0;0;0;30;2;Non;0;1;0;0;0;0;0;08/12/2016;08/12/2016;3
+31;Haute-Garonne;31555;Toulouse;I315550216;Colläge Pierre de Fermat;1 Rue Gambetta boite postal : (50402 3104 toulouse cedex 6);31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;20/01/2017;20/01/2017;4
+31;Haute-Garonne;31555;Toulouse;I315550217;Complexe Sportif RenÇ Valmy;Chemin Guillaume et Joseph Bouton;31000;;Complexe sportif;0;0;1;0;;0;0;0;Avec logement de gardien;0;1;0;0;0;0;0;10/01/2017;10/01/2017;17
+31;Haute-Garonne;31555;Toulouse;I315550218;Complexe Sportif de Montaudran;Chemin Carrosse;31000;;Complexe sportif;0;0;1;0;0;0;100;0;Non;0;1;0;1;0;0;0;12/01/2017;12/01/2017;9
+31;Haute-Garonne;31555;Toulouse;I315550220;Colläge Alphone de Lamartine;11 Rue Marie MagnÇ;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;16/01/2017;16/01/2017;2
+31;Haute-Garonne;31555;Toulouse;I315550221;Colläge Marengo;25 rue FrÇdÇric Petit;31000;;Etablissement scolaire;0;1;0;0;0;0;15;0;Non;1;1;0;1;0;0;0;16/01/2017;16/01/2017;2
+31;Haute-Garonne;31555;Toulouse;I315550222;Colläge Saint-Louis;Rue Chanoine Barthas;31000;;Etablissement scolaire;0;1;0;0;0;0;0;0;Non;0;1;0;0;0;0;0;16/12/2012;16/12/2012;2
+31;Haute-Garonne;31555;Toulouse;I315550224;Complexe Sportif Bellevue;86 chemin de la Salade Ponsan;31000;;Complexe sportif;0;0;1;0;0;0;50;2;Avec logement de gardien;0;1;0;0;0;0;0;09/12/2016;09/12/2016;8
+31;Haute-Garonne;31555;Toulouse;I315550225;Association Sportive du Centre d'Essai AÇronautique de Toulouse (C.E.A.T);8 Rue d'Oran;31000;;Complexe sportif;0;1;0;0;0;0;100;0;Sans logement de gardien;1;1;0;0;0;0;0;05/01/2017;05/01/2017;11
+31;Haute-Garonne;31555;Toulouse;I315550226;Parc des Sports;7 AllÇe Gabriel BiÇnäs;31000;;Complexe sportif;0;0;1;0;0;0;987;56;Avec logement de gardien;1;1;1;0;0;0;0;14/06/2019;03/02/2017;37
+31;Haute-Garonne;31555;Toulouse;I315550227;Complexe Sportif LÇo Lagrange;4 place Pierre Paul RIQUET;31000;;Complexe sportif;0;0;1;0;0;0;35;2;Avec logement de gardien;1;1;0;0;0;0;0;09/12/2016;09/12/2016;8
+31;Haute-Garonne;31555;Toulouse;I315550229;Piscine Chapou;1 Rue Sauniäre;31000;;Piscine;0;0;1;0;0;0;0;0;Sans logement de gardien;0;1;0;0;0;0;0;08/12/2016;08/12/2016;2
+31;Haute-Garonne;31555;Toulouse;I315550230;Complexe Toulouse-Lautrec;impasse Barthe;31000;;Complexe sportif;0;0;1;0;0;0;60;0;Avec logement de gardien;1;1;0;0;0;0;0;09/12/2016;09/12/2016;8
+31;Haute-Garonne;31555;Toulouse;I315550231;Complexe Sportif Jean Moulin;7 avenue des Ecoles Jules JULIEN;31000;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;1;0;0;0;0;0;08/12/2016;08/12/2016;5
+31;Haute-Garonne;31555;Toulouse;I315550232;Complexe Sportif Papus-Merlettes;64 allÇe de Guyenne;31000;;Complexe sportif;0;0;1;0;0;0;60;2;Non;0;1;0;0;0;0;0;08/12/2016;08/12/2016;3
+31;Haute-Garonne;31555;Toulouse;I315550234;Complexe Sportif de Gironis;35 rue de Gironis;31000;;Complexe sportif;0;0;1;0;0;0;40;3;Non;;;;;;;0;09/12/2016;09/12/2016;15
+31;Haute-Garonne;31555;Toulouse;I315550238;Complexe Sportif Saint Simon;10 Chemin Liffard;31000;;Complexe sportif;0;0;1;0;0;0;60;2;Non;0;1;0;0;0;0;0;24/01/2017;24/01/2017;5
+31;Haute-Garonne;31555;Toulouse;I315550239;Complexe Sportif Pierre MontanÇ;5 avenue Raymond Badiou;31000;;Complexe sportif;0;0;1;0;0;0;50;0;Avec logement de gardien;1;1;0;0;0;0;0;08/12/2016;08/12/2016;3
+31;Haute-Garonne;31555;Toulouse;I315550240;Complexe Sportif des Pradettes;6 rue Ferdinand de LESSEPS;31000;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;1;0;0;0;0;0;09/12/2016;09/12/2016;8
+31;Haute-Garonne;31555;Toulouse;I315550243;Complexe Sportif Dasteb;9 Rue de Toulon;31000;;Complexe sportif;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;04/04/2019;04/04/2019;6
+31;Haute-Garonne;31555;Toulouse;I315550244;Complexe Sportif Philippe Struxiano;113-114 Avenue de Lespinet;31000;;Complexe sportif;0;0;1;0;0;0;50;2;Non;0;1;0;0;0;0;0;12/01/2017;12/01/2017;17
+31;Haute-Garonne;31555;Toulouse;I315550248;Zone Verte de la Grande Plaine;Avenue Jean GONORD;31000;;Complexe sportif;0;1;0;0;0;0;0;0;Non;0;1;0;0;0;0;0;08/12/2016;08/12/2016;4
+31;Haute-Garonne;31555;Toulouse;I315550250;Complexe Sportif Guillaumet;43 route de Revel;31000;;Complexe sportif;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;08/12/2016;08/12/2016;6
+31;Haute-Garonne;31555;Toulouse;I315550251;Complexe Sportif Marcel Cerdan;7 chemin de la CÇpiäre;31000;;Complexe sportif;0;0;1;0;;0;65;0;Non;0;1;0;0;0;0;0;10/01/2017;10/01/2017;9
+31;Haute-Garonne;31555;Toulouse;I315550252;Complexe Sportif de la CÇpiäre;323 route de Saint Simon;31000;;Complexe sportif;0;0;1;0;0;0;5;0;Avec logement de gardien;0;1;0;0;0;0;0;10/01/2017;10/01/2017;8
+31;Haute-Garonne;31555;Toulouse;I315550253;Complexe Sportif de la Faourette;18 rue Paul LAMBERT;31000;;Complexe sportif;0;0;1;0;0;0;49;2;Avec logement de gardien;1;1;0;0;0;0;0;09/12/2016;09/12/2016;8
+31;Haute-Garonne;31555;Toulouse;I315550254;Complexe Sportif de Lardenne;153 bis route de Lardenne;31000;;Complexe sportif;0;0;1;0;0;0;58;4;Avec logement de gardien;0;1;0;0;0;0;0;08/12/2016;08/12/2016;6
+31;Haute-Garonne;31555;Toulouse;I315550255;Complexe Sportif du Mirail;6 rue Ferdinand Laulanie;31000;;Complexe sportif;0;0;1;0;0;0;24;2;Avec logement de gardien;1;1;0;0;0;0;0;12/12/2016;12/12/2016;16
+31;Haute-Garonne;31555;Toulouse;I315550260;Base de Sport et Loisir Sesquiäres;AllÇe des Foulques;31000;;Base de plein air et/ou de loisirs;0;0;1;0;0;0;1200;3;Sans logement de gardien;0;1;0;0;0;0;0;12/10/2018;09/12/2016;14
+31;Haute-Garonne;31555;Toulouse;I315550261;Gymnase Lalande;44 chemin du SÇminaire;31000;;Complexe sportif;0;0;1;0;0;0;12;0;Sans logement de gardien;0;1;0;0;0;0;0;09/12/2016;09/12/2016;7
+31;Haute-Garonne;31555;Toulouse;I315550263;Stade G. Rigal;Rue Van Dyck;31000;;Complexe sportif;0;1;0;0;0;0;10;0;Sans logement de gardien;1;1;0;0;0;0;0;08/12/2016;08/12/2016;3
+31;Haute-Garonne;31555;Toulouse;I315550266;Complexe du ChÉteau de l'Hers;13 chemin de Limayrac;31000;;Complexe sportif;0;0;1;0;0;0;50;2;Non;0;1;0;0;0;0;0;12/12/2016;12/12/2016;6
+31;Haute-Garonne;31555;Toulouse;I315550277;Parc des Sports Georges Aybram (Toec);8 r ernest dufer;31000;;Complexe sportif;0;0;1;0;0;0;115;0;Non;0;0;0;0;0;0;1;14/06/2019;14/06/2019;8
+31;Haute-Garonne;31555;Toulouse;I315550291;Cosec de la Reynerie et Aire Multiports Satie;7 chemin Jean-Franáois LESUEUR;31000;;Complexe sportif;0;0;1;1;0;0;20;0;Non;1;1;0;0;0;0;0;08/12/2016;08/12/2016;4
+31;Haute-Garonne;31555;Toulouse;I315550294;Base de Loisirs des Argoulets;Chemin cassaing;31000;;Complexe sportif;0;0;1;0;0;0;400;10;Sans logement de gardien;1;1;0;0;0;0;0;03/02/2017;03/02/2017;30
+31;Haute-Garonne;31555;Toulouse;I315550296;Espace Soupetard;37 rue de la solidaritÇ;31000;;Complexe sportif;0;0;1;0;0;0;10;0;Non;0;1;0;0;0;0;0;10/01/2017;10/01/2017;3
+31;Haute-Garonne;31555;Toulouse;I315550303;Complexe Sportif ArnaunÇ;107 avenue FrÇdÇric ESTEBE;31000;;Complexe sportif;0;0;1;0;0;0;60;4;Avec logement de gardien;1;1;0;0;0;0;0;09/12/2016;09/12/2016;6
+31;Haute-Garonne;31555;Toulouse;I315550304;Complexe Sportif FrÇdÇric Estebe;59 Avenue du GÇnÇral BOURBAKI;31000;;Complexe sportif;0;1;0;0;0;0;0;0;Sans logement de gardien;1;1;0;0;0;0;0;07/12/2016;07/12/2016;5
+31;Haute-Garonne;31555;Toulouse;I315550306;Association Sportive du Centre National d'Etudes Spatiales;7 rue des Satellites;31000;;Complexe sportif;0;0;1;0;0;0;135;2;Non;1;0;0;0;0;0;0;25/01/2017;25/01/2017;10
+31;Haute-Garonne;31555;Toulouse;I315550311;LycÇe Professionnel Guynemer;43 Rue LEO LAGRANGE;31000;;Etablissement scolaire;0;1;0;0;0;0;0;0;Non;1;1;0;0;0;0;0;17/01/2017;17/01/2017;1
+31;Haute-Garonne;31555;Toulouse;I315550312;Creps de Toulouse;1 Avenue Edouard BELIN;31000;;CREPS ou Ecole nationale;0;0;1;0;1;199;300;6;Sans logement de gardien;0;1;0;0;0;0;0;12/11/2018;31/01/2017;29
+31;Haute-Garonne;31555;Toulouse;I315550314;Institut National des Sciences AppliquÇes (Insa) Toulouse;135 Avenue de Rangueil;31000;;Complexe sportif;0;0;1;0;0;220;43;2;Non;1;1;0;0;0;0;0;09/12/2016;09/12/2016;7
+31;Haute-Garonne;31555;Toulouse;I315550319;Colläge Emile Zola;17 Rue Jean Pierre BLANCHARD;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;23/01/2017;23/01/2017;4
+31;Haute-Garonne;31555;Toulouse;I315550320;Colläge PrivÇ Sainte Marie de Nevers;18-20 rue Merly;31000;;Etablissement scolaire;0;1;0;0;0;0;0;0;Non;1;1;0;0;0;0;0;16/12/2012;16/12/2012;1
+31;Haute-Garonne;31555;Toulouse;I315550321;êcole et Colläge Sainte Marie des Ursulines;34 avenue de la Colonne;31000;;Etablissement scolaire;0;1;0;0;;0;0;0;Non;1;1;0;0;0;0;0;07/01/2013;07/01/2013;1
+31;Haute-Garonne;31555;Toulouse;I315550336;Colläge et Ecole Sainte Famille des Minimes;10 Rue de l'AbbÇ SICARD;31000;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;1;1;0;0;0;0;0;18/01/2017;18/01/2017;3
+31;Haute-Garonne;31555;Toulouse;I315550337;Annexe du Colläge Lamartine (Segpa);50 Rue du Tchad;31000;;Etablissement scolaire;0;0;1;0;0;0;10;0;Non;1;1;1;0;0;0;0;16/01/2017;16/01/2017;1
+31;Haute-Garonne;31555;Toulouse;I315550372;Lycee Polyvalent Joseph Gallieni;79 ROUTE D'ESPAGNE;31000;;Etablissement scolaire;0;0;;;;;;;Sans logement de gardien;0;1;0;0;0;0;0;;;3
+31;Haute-Garonne;31555;Toulouse;I315550380;Ecole Elementaire Guilhermy;7 IMPASSE DE LAS BRUGUES;31000;;Etablissement scolaire;0;0;1;0;0;0;;;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31555;Toulouse;I315550420;Colläge George Sand;355 Route de Saint-Simon;31000;;Etablissement scolaire;0;0;1;0;;;;;-;0;1;0;0;0;0;0;;;4
+31;Haute-Garonne;31555;Toulouse;I315550435;Complexe d'Ancely;7 allÇe des Causses;31000;;Complexe sportif;0;1;0;0;0;0;10;0;Non;0;1;0;0;0;0;0;07/12/2016;07/12/2016;3
+31;Haute-Garonne;31555;Toulouse;I315550441;Complexe Sportif de l'Hers;6 bis et 8 Rue Claudius ROUGENET;31000;;Complexe sportif;0;0;1;0;0;0;150;2;Non;0;1;0;0;0;0;0;24/01/2017;24/01/2017;7
+31;Haute-Garonne;31555;Toulouse;I315550454;Ecole êlÇmentaire Henri Guillaumet;30 chemin Bitet;31000;;Etablissement scolaire;0;1;0;0;0;0;0;0;-;0;1;0;0;0;0;0;16/12/2012;16/12/2012;3
+31;Haute-Garonne;31555;Toulouse;I315550477;;8 r arria ly;31000;;Etablissement scolaire;0;0;1;0;0;0;;;Non;0;1;0;0;0;0;0;14/05/2019;14/05/2019;1
+31;Haute-Garonne;31555;Toulouse;I315550478;;XX;31000;;Etablissement scolaire;0;0;1;0;0;0;;;Non;0;1;0;0;0;0;0;16/05/2019;;1
+31;Haute-Garonne;31555;Toulouse;I315550479;;r camille claudel;31000;;Etablissement scolaire;0;0;;;0;0;;;Non;;;;;;;;16/05/2019;16/05/2019;1
+31;Haute-Garonne;31555;Toulouse;I315550480;;34 r fenelon;31000;;Etablissement scolaire;0;0;1;0;0;0;;;Non;0;1;0;0;0;0;0;16/05/2019;16/05/2019;1
+31;Haute-Garonne;31555;Toulouse;I315550481;;5 che robert cambert;31000;;Etablissement scolaire;0;0;1;0;0;0;;;Non;0;1;0;0;0;0;0;17/05/2019;17/05/2019;1
+31;Haute-Garonne;31557;Tournefeuille;I315570001;Colläge LÇonard de Vinci;1 Chemin de Pahin;31170;;Etablissement scolaire;0;0;1;0;0;0;200;3;Non;0;1;0;0;0;0;0;02/12/2016;02/12/2016;3
+31;Haute-Garonne;31557;Tournefeuille;I315570013;LycÇe Polyvalent Marie-Louise Dissard Franáoise;5 Boulevard Alain Savary;31170;;Etablissement scolaire;0;0;1;0;0;0;100;4;Non;0;1;0;0;0;0;0;02/12/2016;02/12/2016;3
+31;Haute-Garonne;31557;Tournefeuille;I315570014;Complexe Labitrie;Rue Pierre Labitrie;31170;;Complexe sportif;0;0;1;0;0;0;200;2;Non;0;1;0;0;0;0;0;02/12/2016;02/12/2016;10
+31;Haute-Garonne;31557;Tournefeuille;I315570015;Complexe de l'AllÇe des Sports;AllÇe des sports;31170;;Complexe sportif;0;0;1;0;0;0;300;4;Non;0;1;0;0;0;0;0;05/12/2016;05/12/2016;23
+31;Haute-Garonne;31557;Tournefeuille;I315570016;Complexe Moulin ∑ Vent;Boulevard Vincent Auriol;31170;;Complexe sportif;0;0;1;0;0;0;10;0;Non;0;1;0;0;0;0;0;02/12/2016;02/12/2016;3
+31;Haute-Garonne;31557;Tournefeuille;I315570017;Complexe Jb Gay;Rue de Provence;31170;;Complexe sportif;0;0;1;0;0;0;100;2;Non;0;1;0;0;0;0;0;02/12/2016;02/12/2016;3
+31;Haute-Garonne;31557;Tournefeuille;I315570023;Base de Loisirs de la RamÇe;Chemin de Larramet;31170;;Base de plein air et/ou de loisirs;1;0;1;0;0;0;600;4;Avec logement de gardien;0;1;0;0;0;0;0;05/12/2016;05/12/2016;25
+31;Haute-Garonne;31561;Union;I315610001;Stade Georges Beyney;RUE DU PUY DE SANCY;31240;;Complexe sportif;0;0;1;0;0;0;100;3;Non;0;1;0;0;0;0;0;01/10/2019;05/07/2016;25
+31;Haute-Garonne;31561;Union;I315610002;Base de Loisirs Saint Caprais;AVENUE DE BAYONNE;31240;;Base de plein air et/ou de loisirs;0;0;1;0;0;0;300;0;Non;0;1;0;0;0;0;0;23/11/2018;03/02/2017;13
+31;Haute-Garonne;31561;Union;I315610013;Ecole Belbeze Les Toulouse;Avenue du Vignemale;31240;;Etablissement scolaire;0;0;1;0;0;0;10;2;Non;0;1;0;0;0;0;0;05/07/2016;05/07/2016;1
+31;Haute-Garonne;31561;Union;I315610022;Ecole Montizalgier;Rue de GuÇthary;31240;;Etablissement scolaire;0;0;1;0;0;0;30;1;Non;0;1;0;0;0;0;0;05/07/2016;05/07/2016;2
+31;Haute-Garonne;31561;Union;I315610024;Ecole Borde d'Olivier;Rue des Hortensias;31240;;Etablissement scolaire;0;0;1;0;0;0;0;0;Non;0;1;0;0;0;0;0;05/07/2016;05/07/2016;2
+31;Haute-Garonne;31563;Vacquiers;I315630001;Complexe Sportif de la Nauze;Chemin de la Nauze;31340;;Complexe sportif;0;0;1;0;0;0;30;0;Non;0;0;0;0;0;0;1;25/11/2019;25/11/2019;8
+31;Haute-Garonne;31569;Vaudreuille;I315690004;Aerodrome de la Montagne Noire;D334;31250;;AÇrodrome/aÇroport;1;1;0;0;0;0;55;0;Non;0;0;0;0;0;0;1;30/10/2018;03/03/2014;2
+31;Haute-Garonne;31573;Verfeil;I315730001;Plateau EPS College Jean Gay;13 AVENUE DU 19 MARS 1962;31590;;Etablissement scolaire;0;0;1;0;0;0;80;4;Non;;;;;;;0;01/07/2015;01/07/2015;2
+31;Haute-Garonne;31573;Verfeil;I315730003;Complexe Sportif Gabriel Dandrieu;CHEMIN DE LA CALLEVE;31590;;Complexe sportif;0;1;0;0;0;0;50;0;Non;;;;;;;0;07/07/2015;07/07/2015;8
+31;Haute-Garonne;31573;Verfeil;I315730006;Lac du Laragou;Route de Montpitol;31590;;Base de plein air et/ou de loisirs;1;1;0;0;0;0;0;0;Non;;;;;;;0;01/07/2015;01/07/2015;1
+31;Haute-Garonne;31573;Verfeil;I315730007;Lac de Balerme;Verfeil;31590;;Base de plein air et/ou de loisirs;1;1;0;0;0;0;30;0;Non;;;;;;;0;01/07/2015;01/07/2015;2
+31;Haute-Garonne;31574;Vernet;I315740005;Colläge Marcel Doret;500 Avenue de Lagardelle;31810;;Etablissement scolaire;0;0;1;0;0;0;50;2;Non;0;0;0;0;0;0;1;02/12/2019;19/11/2014;4
+31;Haute-Garonne;31574;Vernet;I315740007;;RUE DES ECOLES;31810;;Etablissement scolaire;0;0;1;0;0;0;30;1;Non;0;0;0;0;0;0;1;03/12/2019;;1
+31;Haute-Garonne;31575;Vieille-Toulouse;I315750001;Espace Sportif et Culturel;r des sources;31320;;Complexe sportif;0;1;0;0;0;0;50;0;Non;0;0;0;0;0;0;1;29/10/2019;29/10/2019;5
+31;Haute-Garonne;31578;Vigoulet-Auzil;I315780002;Terrain de Football;rue de la mairie;31320;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;0;0;0;0;0;1;21/11/2019;21/11/2019;6
+31;Haute-Garonne;31578;Vigoulet-Auzil;I315780009;;avenue du lac;31320;;Etablissement scolaire;0;0;1;0;0;0;10;1;Non;0;1;0;0;0;0;0;19/11/2019;19/11/2019;1
+31;Haute-Garonne;31582;Villefranche-de-Lauragais;I315820001;Stade Municipal;ROUTE DE TOULOUSE;31290;;Complexe sportif;0;0;1;0;0;0;100;0;Avec logement de gardien;0;1;0;0;0;0;0;21/10/2015;21/10/2015;12
+31;Haute-Garonne;31582;Villefranche-de-Lauragais;I315820011;Gymnase LÇon Blum (Gymnase du LycÇe);8 Chemin du Tracas;31290;;Etablissement scolaire;;0;;;;0;0;0;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31582;Villefranche-de-Lauragais;I315820013;Plateau EPS de l'êcole Jules Ferry;Rue Jules Ferry;31290;;Etablissement scolaire;0;0;1;0;0;0;20;1;Non;0;1;0;0;0;0;0;;;1
+31;Haute-Garonne;31584;Villemur-sur-Tarn;I315840001;Parc de Bernadou;chemin de Lisar / Avenue GÇnÇral Leclerc;31340;;Complexe sportif;1;1;0;0;0;0;150;0;Non;0;1;0;0;0;0;0;28/07/2015;28/07/2015;16
+31;Haute-Garonne;31584;Villemur-sur-Tarn;I315840002;Stade Velodrome;AVENUE W. CHURCHILL;31340;;Complexe sportif;0;0;1;0;0;0;50;0;Non;0;1;0;0;0;0;0;16/11/2018;28/07/2015;4
+31;Haute-Garonne;31584;Villemur-sur-Tarn;I315840004;College A. Camus / Complexe Calar;RUE U. VIGNIERES;31340;;Etablissement scolaire;0;0;1;0;0;0;40;0;Non;0;1;0;0;0;0;0;28/07/2015;28/07/2015;4
+31;Haute-Garonne;31584;Villemur-sur-Tarn;I315840012;Prefabrique Ecole Anatole France;;31340;;Etablissement scolaire;0;0;1;0;0;0;30;0;Non;0;1;0;0;0;0;0;30/07/2015;30/07/2015;1
+31;Haute-Garonne;31585;Villeneuve-de-Riviäre;I315850001;Complexe Sportif;Rue du stade;31800;;Complexe sportif;0;0;1;0;0;0;100;0;Non;0;1;0;0;0;0;0;14/11/2019;14/11/2019;6
+31;Haute-Garonne;31587;Villeneuve-läs-Bouloc;I315870003;;rte de caminas;31620;;Etablissement scolaire;0;0;1;0;0;0;100;2;Non;0;0;0;0;0;0;1;22/11/2019;22/11/2019;1
+31;Haute-Garonne;31588;Villeneuve-Tolosane;I315880001;Complexe Sportif Robert Franc;Chemin du lac;31270;;Complexe sportif;0;0;1;0;0;0;300;;Non;0;1;0;0;0;0;0;23/09/2015;23/09/2015;6
+31;Haute-Garonne;31588;Villeneuve-Tolosane;I315880007;College Jacqueline Auriol;22 route de Portet;31270;;Etablissement scolaire;0;0;1;0;;0;45;4;Non;0;1;0;0;0;0;0;23/09/2015;23/09/2015;1
+31;Haute-Garonne;31589;Villenouvelle;I315890003;Stade de la Gare;chemin du sant;31290;;Complexe sportif;0;0;1;0;0;0;60;0;Non;0;0;0;0;0;0;1;07/11/2019;07/11/2019;5
+31;Haute-Garonne;31592;Larra;I315920002;Ecole Primaire;r principale;31330;;Etablissement scolaire;0;0;1;0;0;0;20;0;Non;0;0;0;0;0;0;1;18/10/2019;18/10/2019;1
+31;Haute-Garonne;31592;Larra;I315920003;Centre Sportif CavaillÇ;le CavaillÇ;31330;;Complexe sportif;0;1;0;0;0;0;100;4;Non;0;0;0;0;0;0;1;18/10/2019;18/10/2019;6
