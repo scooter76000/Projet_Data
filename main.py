@@ -30,13 +30,12 @@ with open (simple_csv, 'r') as csv_file :
             writer.writerow(data)
 """
 
-
 simple_csv = "fichier1.csv"
 
 
 def creation_fichier(colonnes, nom_fichier):
     fichier_sortie = nom_fichier
-    with open(simple_csv, 'r') as csv_file, open(fichier_sortie, 'w', newline='') as csv_sortie:
+    with open(simple_csv, errors="ignore") as csv_file, open(fichier_sortie, 'w', newline='') as csv_sortie:
         reader = csv.reader(csv_file)
         writer = csv.writer(csv_sortie)
         header = next(reader)
@@ -47,10 +46,7 @@ def creation_fichier(colonnes, nom_fichier):
             writer.writerow(colonne)
 
 
-creation_fichier([0], "installations uniques.csv")
-
-
-
+creation_fichier([0], "installations_uniques.csv")
 
 
 """
