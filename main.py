@@ -51,32 +51,29 @@ def csv_en_liste(nom_fichier_csv, valeur_ligne, valeur_valeur):
         lecture = csv.reader(f, delimiter=";")
         lignes = list(lecture)
     
-  print(f"La ligne", valeur_ligne, "du fichier qui donne", lignes[0][valeur_valeur], ":", lignes[valeur_ligne][valeur_valeur])
+    print(f"La ligne", valeur_ligne, "du fichier qui donne", lignes[0][valeur_valeur], ":", lignes[valeur_ligne][valeur_valeur])
     
     # ---- Test interne de la fonction ----
     #print(f"La ligne 0 du fichier: {lignes[0]}.")
     #print(f"La ligne 1 du fichier: {lignes[1]}.")
     #print(f"Le nombre de lignes du fichier: {len(lignes)}.")
-    #print("")
-
-
 
 # -----  Test des Fontion et Affichage ----
 
 # Test de la fonction lecutre_csv
-lecture_csv(data_csv)
+#lecture_csv(data_csv)
   
 ######   Test des nouveau fichier csv cree   #####
-
+"""
 lecture_csv(data_installations_uniques_csv)
 print("")
 lecture_csv(data_communes_uniques_csv)
 print("")
 lecture_csv(data_admissions_par_formation_detaillee_csv)
-
+"""
   
 # ----  Test de la fonction fichier.csv en liste ----
 
-ligne = 2 # ligne 0 = en-tête 
+ligne = 5 # ligne 0 = en-tête 
 valeur = 3 # valeur = A sur le execel 
 csv_en_liste(data_csv, ligne, valeur)
