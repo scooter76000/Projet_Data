@@ -1,5 +1,7 @@
 import csv
 
+data_csv = "fichier1.csv"
+
 """data_csv = "/home/runner/Projet-Data-Groupe-G/fichier1.csv" #chemin fichier selon le pwd 
 
 
@@ -30,24 +32,28 @@ with open (simple_csv, 'r') as csv_file :
             writer.writerow(data)
 """
 
+"""
 simple_csv = "fichier1.csv"
 
 
-def creation_fichier(colonnes, nom_fichier):
-    fichier_sortie = nom_fichier
-    with open(simple_csv, errors="ignore") as csv_file, open(fichier_sortie, 'w', newline='') as csv_sortie:
-        reader = csv.reader(csv_file)
+def creation_fichier(fichier_entre, nom_fichier, colonnes):
+    liste_fichier = []
+    with open(fichier_entre, 'r', errors="ignore", newline= '') as csv_file :
+      reader = csv.reader(csv_file,  delimiter=' ', quotechar='|')
+      for ligne in reader :
+        liste_fichier.append(', '.join(ligne))
+    fich_sortie = nom_fichier
+    with open(fich_sortie, 'w', newline='') as csv_sortie :
         writer = csv.writer(csv_sortie)
-        header = next(reader)
-        colonne = [header[index] for index in colonnes]
-        writer.writerow(colonne)
-        for ligne in reader:
-            colonne = [ligne[index] for index in colonnes]
-            writer.writerow(colonne)
+        writer.writerow([liste_fichier[i][j] for j in colonnes] for i in range(len(liste_fichier)))
+       
+        
 
 
-creation_fichier([0], "installations_uniques.csv")
 
+creation_fichier(simple_csv, [2], "installations_uniques.csv")
+
+"""
 
 """
 ######    Lecture / Ecriture : ok    ###### début 
@@ -115,3 +121,18 @@ lecture_csv(data_admissions_par_formation_detaillee_csv)
 ######    Lecture / Ecriture : ok    ###### Fin
 
 """
+
+def csv_en_liste(nom_fichier_csv, valeur_ligne, valeur_valeur):
+    with open(nom_fichier_csv, errors="ignore") as f:
+        lecture = csv.reader(f, delimiter=";")
+        lignes = list(lecture)
+
+    #print(f"La ligne 0 du fichier: {lignes[0]}.")
+    #print(f"La ligne 1 du fichier: {lignes[1]}.")
+    #print(f"Le nombre de lignes du fichier: {len(lignes)}.")
+    #print("")
+    print(f"La ligne", valeur_ligne, "du fichier qui donne", lignes[0][valeur_valeur], ":", lignes[valeur_ligne][valeur_valeur])
+
+ligne = 2
+valeur = 3
+csv_en_liste(data_csv, ligne, valeur)
