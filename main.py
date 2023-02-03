@@ -1,12 +1,12 @@
 import csv
 
 # ------ chemin des fichier.csv  ------
-data_csv = "2020_installations_sportives.csv" # fichier orginal (sujet)
+data_csv = "2020_installations_sportives.csv"  # fichier orginal (sujet)
 
 # Fichier constituer du code de l'installation, nom de l'installation, nombre d'Equipement, de l'adresse et du nombre de place de parking handicaper ou pas.
-data_installations_uniques_csv = "data/IntallationsUniques.csv" 
+data_installations_uniques_csv = "data/IntallationsUniques.csv"
 
-#Fichier constituer du code INSEE de la commune, du nom de la commune, du code du department et du nom du département.
+# Fichier constituer du code INSEE de la commune, du nom de la commune, du code du department et du nom du département.
 data_communes_uniques_csv = "data/CommunesUniques.csv"
 
 # Fichier constituer du code de l'installation, du code INSEE de la commune, du libelle, des different moyen de transport(Metro,Bus,Tram,Train,Bateau ou autre voir pas) et des la date de mise à jour et de création
@@ -28,9 +28,9 @@ def lecture_csv(nom_fichier_csv):
             # Affichage de la ligne lu
             print(line)
 
-          
+
 # ------   Fontion Écriture du fichier.csv   -------
-          
+
 # fonction écriture de fichier CSV avec en paramètre le nom du fichier.cvs et l'en tête
 
 def ecriture_csv(nom_fichier_csv, header):
@@ -41,7 +41,7 @@ def ecriture_csv(nom_fichier_csv, header):
         # Écriture de l'en tête du fichier csv
         writer.writerow(header)
         # Écriture du fichier.csv
-        writer.writerow(["31", "Haute-Garonne"]) # test ecriture dans le fichier csv
+        writer.writerow(["31", "Haute-Garonne"])  # test ecriture dans le fichier csv
 
 
 # ----   fichier.csv en liste  --------
@@ -50,30 +50,38 @@ def csv_en_liste(nom_fichier_csv, valeur_ligne, valeur_valeur):
     with open(nom_fichier_csv, errors="ignore") as f:
         lecture = csv.reader(f, delimiter=";")
         lignes = list(lecture)
-    
-    print(f"La ligne", valeur_ligne, "du fichier qui donne", lignes[0][valeur_valeur], ":", lignes[valeur_ligne][valeur_valeur])
-    
+
+    print(f"La ligne", valeur_ligne, "du fichier qui donne", lignes[0][valeur_valeur], ":",
+          lignes[valeur_ligne][valeur_valeur])
+
     # ---- Test interne de la fonction ----
-    #print(f"La ligne 0 du fichier: {lignes[0]}.")
-    #print(f"La ligne 1 du fichier: {lignes[1]}.")
-    #print(f"Le nombre de lignes du fichier: {len(lignes)}.")
+    # print(f"La ligne 0 du fichier: {lignes[0]}.")
+    # print(f"La ligne 1 du fichier: {lignes[1]}.")
+    # print(f"Le nombre de lignes du fichier: {len(lignes)}.")
+
 
 # -----  Test des Fontion et Affichage ----
 
 # Test de la fonction lecutre_csv
-#lecture_csv(data_csv)
-  
+lecture_csv(data_csv)
+
 ######   Test des nouveau fichier csv cree   #####
-"""
+
+header_installations_uniques_csv =["codeInstallation", "nomInstallation", "nbEquipements", "adresse", "nbParking", "nbParkingHandi"]
+ecriture_csv(data_installations_uniques_csv, header_installations_uniques_csv)
 lecture_csv(data_installations_uniques_csv)
 print("")
+header_communes_uniques_csv = ["codeInseeCommune", "nomCommune", "codeDepartement", "nomDepartement"]
+ecriture_csv(data_communes_uniques_csv, header_communes_uniques_csv)
 lecture_csv(data_communes_uniques_csv)
 print("")
+header_admissions_par_formation_detaillee_csv = ["codeInstallation", "codeInseeCommune", "libelle", "metro", "bus", "tram", "train", "bateau", "autreTransport", "aucunTransport", "dateMAJ", "dateCreation"]
+ecriture_csv(data_admissions_par_formation_detaillee_csv, header_admissions_par_formation_detaillee_csv)
 lecture_csv(data_admissions_par_formation_detaillee_csv)
-"""
-  
+
+
 # ----  Test de la fonction fichier.csv en liste ----
 
-ligne = 5 # ligne 0 = en-tête 
-valeur = 3 # valeur = A sur le execel 
+ligne = 5  # ligne 0 = en-tête
+valeur = 3  # valeur = A sur le execel
 csv_en_liste(data_csv, ligne, valeur)
