@@ -1,2 +1,444 @@
-codeInstallation;nomInstallation;nbEquipements;adresse;nbParking;nbParkingHandi
-I310030002;Ecole;1;21 Chemin de l'Autan;10;2
+codeInstallation,nomInstallation,nbEquipements,adresse,nbParking,nbParkingHandi
+I310030002,Ecole,1,21 Chemin de l'Autan,10,2
+I310040004,Complexe Sportif,13,Alle des droits de l'homme et du citoyen,100,2
+I310040005,Collge Jean-Paul Laurens,3,Alle des doits de l'Homme et du citoyen.,40,1
+I310200003,Ecole Germaine Bars,1,432 Rue Armand Latour,0,0
+I310200009,Piscine Municipale,1,QUARTIER SARRADERE,10,0
+I310200013,Parcours d'Orientation : le Bois Perch,1,Le Bois Perch,,
+I310280005,Collge Emile Paul Vayssie,2,avenue de Benabarre,0,0
+I310320002,Complexe Sportif,9,ROUTE DU LAC,300,0
+I310320005,Installations Sportives du College,6,500 route de Merville,50,2
+I310330003,Ecole Primaire Michelet,4,8 Rue Michelet,,
+I310330011,Complexe Sportif du Collge Antonin Perbosc,4,18 bis AVENUE HERMANNSBURG,100,2
+I310330012,Piscine Marie Jeanne Proudhom,2,ALLEE DU RAMIER,400,0
+I310350004,Ecole Aime Cesaire,4,Alle du Viognier,10,0
+I310350008,Complexe Sportif / Lyce Agricole / Enfa,9,BP 72647,250,10
+I310350009,Groupe Scolaire Ren Gosciny,1,14 Chemin des coles,5,0
+I310350012,Inra,4,Chemin Borde Rouge,20,1
+I310360002,Complexe Sportif,8,Route d'Auzielle,60,0
+I310370004,Ecole Primaire Auguste Foures,1,rue de la porte de Cers,50,0
+I310420003,Complexe Municipal,5,RUE RAMONT,50,0
+I310420008,Aerodrome de Bagneres de Luchon,1,PLACE LEON ELISSALDE,100,0
+I310440001,Stade Municipal,20,17 av des aerostiers,320,6
+I310440002,Complexe Sportif J. Rostand,8,AVENUE GEORGES PRADEL,50,2
+I310440003,"Complexe Sportif Piscine, Terrains de Foot et Parc de Lagarde",5,RUE DU SOLEIL D'OR,50,0
+I310440004,Complexe Latecoere,7,Avenue de la Plaine,50,0
+I310440006,Lycee Prive Salieges,7,3 r georges bernanos,250,1
+I310440008,Aerodrome Toulouse Lasbordes,2,22 AVENUE JEAN RENE LAGASSE,40,1
+I310440022,Ecole Primaire Marie Laurencin,2,Avenue de LASBORDES,50,2
+I310440023,Ecole Primaire Saint Exupery,3,14 Chemin SIRONIS,40,2
+I310480001,Complexe Sportif,7,Plaine d'Amont,50,0
+I310520001,Aire Sportive,7,Place Clement Ader,100,3
+I310560006,Base de Loisir des Ramiers,1,,400,0
+I310650002,Complexe Sportif,6,Route de Carbonne,50,
+I310660010,College de Bessieres,2,245 AVENUE AIME CESAIRE,150,2
+I310690002,Zone de Loisir des 15 Sols,7,che du tiers etat,100,0
+I310690003,Complexe Sportif de Ritouret,22,11 Av. des Tilleuls,230,5
+I310690004,Complexe du Grand Noble,6,20 RUE HENRI MARTIN,100,0
+I310690005,Complexe Sportf de Naudin,13,27 che du moulin de naudin,100,4
+I310690006,Complexe Sportif des Barradels,7,Rue des Cyclamens,150,5
+I310690007,Complexe Sportif du Ramier,12,2 RUE DU VIEUX MOULIN,500,10
+I310690008,Gymnase Jean Moulin,1,2 RUE FELIX DEBAX,0,0
+I310690011,Gymnase Scolaire Saint Exupery,3,RUE  GEORGES SAND,100,2
+I310690012,Etablissement Scolaire le Ferradou,6,ROUTE DE GRENADE,50,0
+I310690022,Ecole Perseides,2,Boulevard Perse,0,0
+I310690026,Complexe Sportif d'Andromde,11,Chemin de Ferradou Blagnac,150,6
+I310700001,Ecole Primaire,1,Route de Toulouse,,
+I310710002,Arodrome Prive,1,Quartier Digne des Moines,15,0
+I310790001,Complexe Sportif,9,Route de Villaudric,100,2
+I310790003,Aire Multisports (cole),1,Rue Jean Jaures,30,1
+I310800004,Complexe Sportif,6,avenue du lac,110,0
+I310810001,Station de Ski,3,Bourg d'Oueil,30,0
+I310820003,Arodrome A.V.A.T,2,Aerodrome,30,0
+I310840002,Complexe Sportif Emile Lagardelle,9,Avenue de la gare,30,0
+I310840003,Piscine Municipale,1,Promenade du lac,0,1
+I310840004,Ecole,1,Avenue du Pr Commun,0,0
+I310850001,Station de Ski Boutx-Le Mourtis,5,LE MOURTIS,800,0
+I310910002,Complexe Sportif Ren Albus,13,Alles Pierre de Coubertin,300,3
+I310910007,Base de Loisirs,4,Rue de la Briqueterie,400,10
+I310980001,Collge Joseph Rey,3,2 Route de Garac,50,3
+I310980008,,1,ECOLE MATERNELLE PUBLIQUE CHEMIN D'EN PALANQUE,30,0
+I311000001,Complexe Sportif Francis Balard,6,AVENUE DE MAZERES,80,3
+I311000003,Ecole,1,Avenue de Mazre,80,1
+I311070001,Complexe Sportif A. Prevost,7,Rue du Pila,350,4
+I311070007,College Andre Abbal,3,Route de Marquefave,30,2
+I311130001,Complexe Sportif G. Vallerey,12,Rue G. Vallerey,50,1
+I311130002,Complexe Sportif de Lautard,7,ZAC de RABAUDY LAUTARD,300,4
+I311130003,Complexe Jean Jaurs,3,Rue Mail Dels Drolets,5,1
+I311130004,Parc des Fontanelles,7,Rue des Fontanelles,40,0
+I311130005,Complexe Delherm,3,Avenue Louis Delherm,60,2
+I311130008,College J.Jaures,2,Place Clemence Isaure,4,1
+I311130009,Ecole des Fontanelles,1,rue Nauze,20,0
+I311130012,Ecole Damase Auba,3,Avenue Salvador Allende,,
+I311160004,Centre Sportif Buffebiau,8,RUE MARTIN,100,0
+I311160005,Complexe Sportif du Centre,10,RUE DOCTEUR MATEO,80,2
+I311170001,Complexe Sportif,7,3 RUE DU STADE,100,2
+I311170006,Natura Game,2,1 route de Gragnague,300,0
+I311180001,Complexe Sportif Municipal,9,RUE DU STADE,50,
+I311330002,Complexe Sportif du Sivom du Bas Larboust,4,VILLAGE,20,0
+I311350001,Complexe Sportif des Capucins,5,RUE DES CAPUCINS,0,0
+I311350002,Complexe Sportif Malaret,7,Rue Bertrand Caubet Le Portail,50,0
+I311350003,Piscine Municipale,2,RUE DU PLANTAUREL,20,0
+I311350004,College du Plantaurel,5,Chemin de la Reye,40,0
+I311470002,Aerodrome de St Gaudens Montrjeau,1,Arodrome de Clarac,20,0
+I311490002,Gymnase Jules Ferry,5,ALLEE DES FENASSIERS,40,1
+I311490003,Salles Omnisport Ren Piquemal,7,15 Alle Alfred de Vigny,200,4
+I311490008,Stade Municipal Bertrand Andrieux,3,RUE DES SPORTS,15,1
+I311490011,Lep E. Montel,2,2 Bd MARCEL DASSAULT,100,0
+I311490012,Complexe Sportif Capitany,14,12 AVENUE YVES BRUNAUD,200,0
+I311490013,Eurocampus,4,2 Alle de l' Herbaudire,40,1
+I311490014,"Espace Nautique ""Jean Vauchere""",5,PLACE DES FETES,800,5
+I311490018,Lyce Gnral et Technologique Priv Ort Maurice Grynfogel,2,14 Rue Etienne Collongues,100,1
+I311490033,Institution Sainte Thrse,4,1 bis Rue de l'glise,0,0
+I311490036,Ecole Elementaire George Sand,1,Alle de la Colombe,,
+I311490038,Complexe Tennis Cabirol,16,2 Alle des Alpilles,0,0
+I311500002,Complexe Pierre de Coubertin,16,CHEMIN DES AMBRITS,100,2
+I311570001,Ecole Jean Jaurs,2,Impasse des coles,32,1
+I311570003,Groupe Scolaire Christian Blanc,3,12 Alle Suzanne Lacore,50,1
+I311570004,Ecole Lon Blum,2,Rue Vincent Auriol,10,0
+I311570005,Groupe Scolaire Eugne Montel,1,Square St Exupry,10,0
+I311570007,Complexe Michel Jazy,7,Av du Comminges,100,2
+I311570011,Plaine de Jeux de Loubayssens,21,Rue du stade,200,5
+I311570019,College Montesquieu,3,Bd Lo Lagrange,70,3
+I311600006,Ecole lmentaire de Daux,2,Chemin de Mirande,60,2
+I311630001,Ecole lmentaire Andr Duperrin,1,av andre duperrin,50,0
+I311630002,Stade Municipal,6,che de loubieres,20,2
+I311650002,Complexe Sportif Ariane,3,Chemin des Bertoulots,100,3
+I311670001,Complexe Educatif Sportif et de Loisir,4,Padehant,60,4
+I311810005,Ecole Municipale,2,Place Cazalre,20,1
+I311820006,Complexe Sportif du Ramier,5,RUE DE LA PLAGE,50,
+I311820007,Site Omnisport Claude Cornac,6,Rue Piquepeyre,50,
+I311860004,Complexe Sportif,6,Rue Jean Mermoz,100,4
+I311870001,Domaine de Bidot,4,Chemin de Birazel Bidot,73,4
+I311870003,Complexe Sportif de Cantelauze,6,Cantelauze,50,0
+I311870004,Complexe Detennis,10,Rue Luigi Amadio,20,
+I311870005,Complexe Sportif des Boulbenes,12,che des boulbenes,289,20
+I311870011,College Cantelauze,2,Chemin Cantelauze,36,2
+I311870013,Complexe du Lycee Lucie Aubrac,6,av lucie aubrac,200,4
+I311930009,Collge Pierre et Marie Curie,3,13 Avenue des Pyrnes,50,2
+I312020004,Parc Municipal des Sports / de Matabiau,12,AVENUE DU STADE,200,1
+I312020011,Stade de Matrassou,3,Avenue du Stade,103,0
+I312030004,Complexe Jean Lassalle,7,22 RUE GUILLAUME BERDEIL,100,2
+I312050001,"Complexe Sportif Municipal ""Campistron""",7,Centre Ville,100,2
+I312100002,Complexe Sportif,3,Avenue Tolosane,50,2
+I312210001,Station de Ski,4,Les Agudes,800,0
+I312210002,Piscine Municipale,1,Les Agudes,0,0
+I312240004,Lyce Paul Mathou,8,29 Avenue de Luchon,20,1
+I312300001,Complexe Municipal,11,RUE DE MAURYS,100,1
+I312300003,College C. Cornac,2,Rue Lo Ferr,60,2
+I312300005,Complexe Maurys (Nouveau),3,60 rue de Maurys,200,10
+I312300006,Ecole Primaire Maurice Saquer,1,Rue Mance,30,0
+I312320002,Collge Grand Selve,9,CARPENTE,70,
+I312320003,Piste de Roller,4,QUAI DE GARONNE,80,0
+I312390002,Complexe Sportif,10,av des martiagues,100,2
+I312390004,,1,Route d'Espaon,10,
+I312470006,Ecole Publique,1,19 Avenue Victor Hugo,,
+I312480002,Plateau EPS du Collge Pierre Mendes-France,1,Route du Plantaurel,100,4
+I312480003,Complexe Sportif,9,CHEMIN DES ECOLES,200,0
+I312530001,Complexe Sportif,6,Chemin de Marcus,40,0
+I312540012,Ecole Primaire,1,1 Avenue Paul Riquet,0,0
+I312540013,Gymnase Inp,7,rue des arts,30,0
+I312540015,Lyce Agricole Priv la Cadene,2,1 Rue Buissonire,,
+I312630006,,1,rue des puits,0,0
+I312710004,Ecole,1,che des ecoles,0,0
+I312730004,Ecole Georges Brassens,2,Chemin Jamebru,15,1
+I312820001,Ecole Arthur Rimbaud,2,15 Avenue Condorcet,,
+I312820006,"Gymnase, Espace F.Mitterand",3,Rue Jean Moulin,150,2
+I312820007,Piscine Municipale,1,RUE SATURNE,20,1
+I312820012,Stade Municipal,4,CHEMIN DES SPORTS,100,2
+I312840001,Parc de Loisirs de la Saune,7,CHEMIN DE MONPAPOU,100,6
+I312870002,Groupe Scolaire Henri Trentin,1,Chemin de Pujo,,
+I312910005,Complexe Sportif des Pins Verts,8,Route de la  Salvetat,200,1
+I312910007,Ugecam - Maison D Enfant de Castelnouvel,6,Maison d' enfant de Castelnouvel,60,0
+I312910009,College Francois Verdier,2,Route de la Salvetat Saint Gilles,50,2
+I312910011,Ecole Elementaire Lesgachots,3,Place Gabriel Bonnet,60,0
+I312930002,Site Multisport,5,Rue du boulodrome,75,
+I312930003,Complexe Sportif Beldou,9,Chemin de Beldou,100,4
+I312970006,,1,Rue de L'Isle Jourdain,25,2
+I312980001,Complexe Sportif St Bat,7,Collge St Bat,30,0
+I312990004,Complexe Sportif,10,RUE DES ECOLES,200,2
+I313110001,Terrains de Sport,5,route de Montjoire,64,1
+I313160002,Complexe Sportif,4,LA CITE,50,0
+I313240001,Stade Municipal,7,avenue Franois MITTERRAND,15,2
+I313410010,Ecole Georges Brassens,4,24 Rue de Guinot,,
+I313450006,,1,Rue des coles,20,2
+I313460001,Stade Municipal,3,RUE DU STADE,25,2
+I313560004,Base de Loisirs de Bouconne,16,Chemin du Rtelier,150,2
+I313580003,Complexe Sportif,8,CHEMIN DES BIRATES,150,0
+I313580005,Lyce l'Oustal,2,route de Paulhac,15,0
+I313640003,Terrain Sport Ecole,2,MAIRIE,50,3
+I313750003,Stade Jean Castet,4,AVENUE SIMON DE LA LOUBERE,100,1
+I313750004,Piscine Municipale,3,AVENUE DE LA LOUBERE,100,1
+I313750005,College Stella Blaudy,2,Chemin des Perdous,20,2
+I313800002,Base de Loisirs,3,LAC DE LA TESAUQUE,140,6
+I313850001,Piscine,1,CENTRE VILLAGE,20,1
+I313880002,Lac du Laragou,1,route du lac,20,0
+I313890007,Terrains Gabriel Malpas,5,alle de l'Autan,40,1
+I313900009,Base de Plein Air,2,LAC MONTREJEAU,100,0
+I313900010,College Bertrand Laralde,4,2 Rue du Courraou,55,2
+I313950002,Arodrome de Muret Lherm,2,Avenue de l'aviation,40,2
+I313950003,Espace Jacqueline Auriol,13,40 Av. Henri Peyrusse,300,4
+I313950004,Complexe Nelson Paillou,17,Avenue Bernard IV,250,3
+I313950005,Centre Nautique Aqualudia,6,80 Avenue Bernard IV,300,6
+I313950006,Complexe de Tennis,7,Avenue Bernard IV,40,2
+I313950008,Complexe Chiffre,8,Chemin Notre Dame,60,2
+I313950009,Domaine de Brioudes,5,Chemin de Brioudes,60,2
+I313950020,Base Cano Kayak,2,14 Rue Castelvieilh,15,0
+I313950027,Collge Priv Joseph Niel,1,41 Route d'Ox,0,0
+I313950030,Groupe Scolaire du Barry,1,5 Rue Jean Lestrade,70,0
+I313950033,Ecole Jean Mermoz,2,20 Rue du Marchal Lyautey,0,0
+I313950034,Ecole Vasconia,2,7 Place Layrisson,12,1
+I313950035,Collge Cte de Btance,3,56 Avenue Henri Peyrusse,60,0
+I313950036,Ecole Pierre Fons,1,36 Rue Notre Dame,50,1
+I313950037,Ecole St Exupry,2,13 Square St Exupry,0,0
+I313950039,Collge Louisa Paulin,1,9 Rue du Commandant Montalgre,10,0
+I313960010,Parcours d'Orientation : Lac de Thsauque,1,Chemin de la Thsauque,100,
+I313990008,Terrain de Basket de l'Ecole,1,2 Rue du Chateau d'Eau,10,0
+I313990010,Collge de No,2,2 Route dpartementale 10,70,3
+I314030001,Complexe Sportif,8,Bord de garonne,60,0
+I314060001,Arodrome,1,Barbe,100,0
+I314100001,Complexe Sportif,10,RUE DE LA BASTIDOLE,58,6
+I314100002,Collge Jean Dieuzaide,3,1 Rue des Coteaux Bellevue,55,4
+I314100003,Gymnase Colette Besson,6,Rue des Coteaux Bellevue,60,6
+I314100004,Ecole lmentaire l'Olivier,1,10 Chemin de Labastidole,,
+I314110001,Ecole,1,pl germain goussis,20,0
+I314170002,Complexe Sportif de la Castanette,9,Bd des coles,70,0
+I314170006,Collge et Ecole de la Salle( Prive),2,20 Rue des Frres,40,0
+I314240006,Ecole Alphonse Daudet,2,Alle Montaigne,25,1
+I314240013,Complexe Jules Verne,7,Alles Montaigne,0,0
+I314240015,Complexe Marcel Pagnol,8,Rue des Tilleuls,50,0
+I314240019,Zone de Loisir,3,Lac Franois Soula,30,0
+I314290002,Terrains de Sport,4,Chemin de l'Escoulier,50,0
+I314290003,Ecole,1,r de la tuilerie,10,0
+I314330008,Complexe Municipal de Jeux de Raquette,10,RUE DE LA POSTE,20,
+I314330013,Stade Municipal,6,Avenue Pierre de Coubertin,150,4
+I314350001,Complexe Sportif,3,rte des pyrenees,60,0
+I314450001,"Complexe Sportif Municipal ""Guy Borrel""",14,Route de la Saune,80,
+I314450009,College Elisabeth Badinter,2,4 rue Saint Germain,,
+I314460004,Fosse A Plongee Sous Marine L Argonaute,1,14 RUE HERMES,30,1
+I314460007,Complexe Sportif Leon Blum,27,ALLEE DES SPORTS,200,10
+I314510003,Complexe Municipal,25,Avenue Julien NOUGUIER,50,0
+I314510010,Arodrome de Revel - Montgey,2,Belloc Vaur,40,0
+I314540003,Complexe Sportif,12,RUE DU STADE,100,2
+I314550001,Piscine,2,rte du plan d'eau,100,0
+I314580001,Complexe Sportif,13,ALLEE DES SPORTS,110,0
+I314580004,Plateau EPS de L Ecole,1,1 AVENUE DES EGALTIERS,20,1
+I314600001,Complexe Dominique Prevost,6,ALLEE DES SPORTS,100,2
+I314620001,Complexe Sportif,5,chemin des Garrosses,200,0
+I314640003,Aerodrome,1,CHEMIN DE L'AERODROME,15,0
+I314670002,Stade Marius Coudon,4,42 AVENUE DE FRONTON,280,0
+I314670004,Complexe George Faure,5,RUE SALGAREDA,80,2
+I314670005,Complexe de l'Hersain,10,RUE DE COUBERTIN,150,4
+I314670008,Ecole Jean Jaures,2,Avenue de Fronton,0,0
+I314670009,Ecole Peyronettes,2,Rue Pierre Coubertin,150,4
+I314700001,Station de Ski Superbagnres,3,Superbagnres,1500,0
+I314710006,Piscines Municipale,2,ROUTE DE LEZ,20,0
+I314830003,Complexe Sports et Loisirs de Sde,12,Quartier de Sede,250,3
+I314830012,Lycee de Bagatelle,1,114 AVENUE F. MITTERAND,20,0
+I314830013,Lyce Agricole Professionnel,3,16 Rue Olivier De Serres,100,0
+I314830014,Lyce Professionnel Elisabeth et Norbert Casteret,2,27 AVENUE DE L'ISLE,20,0
+I314830015,Institution Ste Therese,4,16 RUE DU BUGATET,40,4
+I314830016,College Didier Daurat,4,BOULEVARD DES PYRENEES,0,0
+I314840001,Complexe Sportif,7,che de l'enguille,300,1
+I314840005,Ecole,2,r principale,0,0
+I314860001,Plaine Sportive,6,6 av tolosane,50,0
+I314880003,Ensemble Rene Cassin,6,ROUTE DE MONTRABE,200,0
+I314880004,Complexe Sportif du Bois,7,AVENUE DU BOIS,55,1
+I314880005,Ensemble Belbeze,5,CHEMIN DE BELBEZE,150,0
+I314880006,Gymnasia,4,12 CHEMIN DU BOIS DE SAGET,20,1
+I314900001,Complexe Sportif,6,Route de St Sauveur,87,5
+I314900002,"Complexe ""Simon Paute""",8,Route de St Sauveur,100,
+I314950005,,1,rue des coles,60,1
+I314970001,Complexe Sportif,5,Chemin de Puntous,100,0
+I314970004,,2,chemin de Tourtourel,10,1
+I314990008,Piscine Intercommunale,2,Chemin Laurent,30,1
+I315000002,Complexe Sportif,16,RESERVE DE LA PIQUE,0,0
+I315010002,Aire de Sports et de Loisirs,3,MULLO HAMMEAU DE BEAULIEU,0,0
+I315060010,Complexe R. Cassin,4,Avenue des Carabenes,30,2
+I315060011,Salles Polyvalentes du Lauragais,4,Rue des sports,20,1
+I315120002,Collge des Roussillous,6,rte de lanta,100,3
+I315120003,Ecole,1,av de vallesvilles,20,2
+I315170002,Stade Gaston Sauret,5,route de la mditranne,100,2
+I315170005,Ecole,1,che de saint jean,100,2
+I315230001,Piscine Municipale,2,Chemin des Bordes,50,0
+I315230004,Collge des Trois Valles,2,Avenue du Dr Froment,50,0
+I315260008,Complexe de l'Apouticayre,2,Route de Fontenilles,65,1
+I315330002,Complexe Sportif,7,rte de muret,50,1
+I315330003,,1,Rue des coles,10,2
+I315350001,Complexe Sportif,6,HAMEAU DE BRUNCAN,100,0
+I315410001,Complexe Sportif de Ferrat,5,alle de l'Europe,70,4
+I315410004,Aele l'Annonciation,3,7 Chemin Percin,80,
+I315470002,Complexe de la Saudrune,9,Chemin de la Saudrune,100,2
+I315530001,Complexe Sportif,6,Les Claourios,100,0
+I315550006,Lyce Urbain Vitry,6,150 Route de Launaguet,100,0
+I315550013,Lyce Airbus- Lyce Professionnel Priv des Mtiers de l'Aronautique,1,57 Chemin du Sang de Serp,30,0
+I315550021,cole lmentaire Victor Hugo,1,3 Impasse Thodord Richard,0,0
+I315550022,cole lmentaire Maurice Jacquier,2,7 Rue du Poitou,0,0
+I315550023,cole lmentaire Jean Jaurs,1,21 Avenue Frizac,0,0
+I315550024,cole lmentaire Jolimont,2,14 Avenue Henri Guillaumet,0,0
+I315550025,cole lmentaire Lalande,1,239 Avenue de Fronton,0,0
+I315550026,Ecole Elmentaire Lapujade,1,26 Route d'Albi,0,0
+I315550027,Ecole Elmentaire Armand Leygue,1,20 Rue Lucien Cassagne,0,0
+I315550028,Ecole Elmentaire Jean Mac,1,1 Chemin de Duroux,0,0
+I315550030,Ecole Elmentaire Marengo Priole,1,98 Rue de Priole,0,0
+I315550034,cole lmentaire Gaston Dupouy,1,8 Rue du Professeur Gaston Dupouy,0,0
+I315550035,cole lmentaire Clment Falccuci,3,5 Impasse Bachaga Boualam,0,0
+I315550036,cole lmentaire Fleurance,1,12 Place Raymond Grimaud,0,0
+I315550037,cole lmentaire Alain Fournier,1,59 Rue du Gnral Bourbaki,0,0
+I315550038,Ecole Elmentaire Anatole France,1,21 Boulevard de la Mditerrane,0,0
+I315550039,Ecole Elmentaire Jean Gallia,2,4 Cheminement Lesueur,0,0
+I315550040,cole lmentaire Peire Godolin,1,15 Rue Vincent Scotto,0,0
+I315550041,cole lmentaire Sauzelong,2,92 Avenue Albert Bedouce,0,0
+I315550042,cole lmentaire des Amidonniers,1,123 Alle de Brienne,0,0
+I315550043,Ecole Elmentaire Bayard,1,60 Rue Matabiau,0,0
+I315550045,cole lmentaire Maurice Bcane,1,85 Avenue de Muret,0,0
+I315550046,cole lmentaire Paul Bert,3,4 Chemin de Liffard,0,0
+I315550047,cole lmentaire Borderouge Nord,1,6 Rue Antoine Pastr,0,0
+I315550048,cole lmentaire Calvinhac,1,8bis Rue Jacques Labatut,0,0
+I315550049,cole lmentaire du Chteau d'Ancely,2,4 Alle du Vivarais,0,0
+I315550050,cole lmentaire du Chteau de l'Hers,1,8 Rue Claudius Rougenet,0,0
+I315550051,cole lmentaire Jean Chaubet,1,112 Avenue Camille Pujol,0,0
+I315550052,cole lmentaire Cuvier,1,135 Route d'Albi,0,0
+I315550053,cole lmentaire Andr Daste,1,4 Avenue de Lattre de Tassigny,0,0
+I315550054,cole lmentaire Sylvain Dauriac,2,41 Rue Paul Lambert BP 28 - Cedex,0,0
+I315550055,Ecole Prive Saint Stanislas,2,22 Rue des fleurs,0,0
+I315550056,cole lmentaire Prive milie de Rodat,2,214 Avenue de Toulouse,0,0
+I315550057,Ecole et College Prive la Prairie,2,1 Rue des Nfliers,0,0
+I315550058,cole lmentaire Michoun,2,49 Chemin Michoun,0,0
+I315550059,cole lmentaire Monge,1,12 Rue Soult,0,0
+I315550060,cole lmentaire Montaudran,1,1 Impasse Gaston Gnin,0,0
+I315550061,cole lmentaire Les Oustalous,1,65 Route d'Espagne,0,0
+I315550062,cole lmentaire Marcel Pagnol,1,7 Rue Ernest Dufer,0,0
+I315550064,cole lmentaire de Pouvourville,1,2 Chemin d'Escalles,0,0
+I315550065,cole lmentaire de Rangueil,1,16 Rue Claude Forbin,0,0
+I315550066,Ecole Elmentaire Ronsard,1,7bis Rue Vestrepain,0,0
+I315550067,Ecole Elmentaire des Sept Deniers,1,110 Avenue de Blagnac,0,0
+I315550068,cole lmentaire de Soupetard,2,37 Impasse de la solidarit,0,0
+I315550069,cole lmentaire de la Terrasse,1,4 Impasse Eugne Trutat,0,0
+I315550070,cole lmentaire Tibaous,1,7 Rue Albert Carovis,0,0
+I315550071,cole lmentaire Elsa Triolet,1,4bis Rue Emile Pelletier,0,0
+I315550072,cole lmentaire Viollet le Duc,1,23 Rue Viollet Le Duc,0,0
+I315550073,Lyce Stphane Hessel (Ex-Cit Scolaire de Jolimont),2,44 Chemin Cassaing,20,2
+I315550075,Complexe Alex Jany,3,Chemin du Verdon,200,10
+I315550077,Complexe Sordelo,5,Chemin des Ctes de Pech David Pech David,30,0
+I315550081,Complexe Sportif Edf du Bazacle,9,1 impasse du Ramier des Catalans,80,2
+I315550136,Lyce Polyvalent Raymond Naves,8,139 Route d'ALBI,150,0
+I315550137,Lyce des Arenes,1,4 PLACE EMILE MALE,0,0
+I315550138,Lyce Berthelot,6,14 Rue Franois Longaud,0,0
+I315550139,Collge Clemence Isaure,4,35 Alle Charles de Fitte,50,0
+I315550140,Lyce Polyvalent Bellevue,19,135 route de NARBONNE,200,2
+I315550146,Asptt Toulouse,5,47 rue de Soupetard,33,0
+I315550154,Complexe Barran,8,82 Chemin des Ctes de Pech-David,50,2
+I315550174,Ce Airbus France,27,20 Chemin de Garric,300,15
+I315550176,Stade Inter-Universitaire Daniel Faucher,12,Alle professeur Camille Soula,70,3
+I315550178,Lyce Professionnel Roland Garros,6,32 Rue Mathaly,100,0
+I315550179,Collge et Lyce Polyvalent Priv Emilie de Rodat,4,25 avenue de lombez,10,0
+I315550180,Lyce Polyvalent Deodat de Severac,8,26 Boulevard Dodat de Severac,84,2
+I315550181,Groupe Scolaire Priv Saint Joseph,10,85 rue de Limayrac,80,2
+I315550182,Lyce Polyvalent Priv Montalembert Notre Dame,1,134 avenue Lespinet,0,0
+I315550184,Toulouse Cheminots Marengo Club.(Tcms) Louis Plana,9,48 bis Rue Louis Plana,50,0
+I315550185,Toulouse Cheminots Marengo Club.(Tcms)Site de St.Roch,5,65 Rue Saint Roch,50,0
+I315550187,Lyce Pierre de Fermat,6,Parvis des Jacobins,50,2
+I315550188,Groupe Scolaire Priv le Caousou,14,42 AVENUE Camille Pujol,100,0
+I315550189,Lyce Professionnel Hlne Boucher,2,1 Rue Lucien Lafforgue,60,2
+I315550190,Lyce Professionnel Gabriel Peri (1Ere Installation),1,30 Rue Gabriel PERI,0,0
+I315550191,Lyce Professionnel Gabriel Peri (2Eme Installation),1,25 Rue Mondran,0,0
+I315550192,Collge et Lyce Gnral Ozar Hatorah - Ohr Myriam,1,33 Rue Jules Dalou,12,1
+I315550193,Lyce Priv Gnral et Technologique Sainte Marie des Champs,2,169 avenue Jean Rieux,0,0
+I315550195,Aece- Lyce Professionnel Priv Jasmin Coiffure,1,4 Rue des Teinturiers,0,0
+I315550213,Cosec de Rangueil et quipements Sportifs Extrieurs,10,8  rue de Nimes,60,0
+I315550214,Complexe Sportif de Pouvourville,3,Impasse de Sarrangines,30,2
+I315550216,Collge Pierre de Fermat,4,1 Rue Gambetta boite postal : (50402 3104 toulouse cedex 6),0,0
+I315550217,Complexe Sportif Ren Valmy,17,Chemin Guillaume et Joseph Bouton,0,0
+I315550218,Complexe Sportif de Montaudran,9,Chemin Carrosse,100,0
+I315550220,Collge Alphone de Lamartine,2,11 Rue Marie Magn,0,0
+I315550221,Collge Marengo,2,25 rue Frdric Petit,15,0
+I315550222,Collge Saint-Louis,2,Rue Chanoine Barthas,0,0
+I315550224,Complexe Sportif Bellevue,8,86 chemin de la Salade Ponsan,50,2
+I315550225,Association Sportive du Centre d'Essai Aronautique de Toulouse (C.E.A.T),11,8 Rue d'Oran,100,0
+I315550226,Parc des Sports,37,7 Alle Gabriel Bins,987,56
+I315550227,Complexe Sportif Lo Lagrange,8,4 place Pierre Paul RIQUET,35,2
+I315550229,Piscine Chapou,2,1 Rue Saunire,0,0
+I315550230,Complexe Toulouse-Lautrec,8,impasse Barthe,60,0
+I315550231,Complexe Sportif Jean Moulin,5,7 avenue des Ecoles Jules JULIEN,50,0
+I315550232,Complexe Sportif Papus-Merlettes,3,64 alle de Guyenne,60,2
+I315550234,Complexe Sportif de Gironis,15,35 rue de Gironis,40,3
+I315550238,Complexe Sportif Saint Simon,5,10 Chemin Liffard,60,2
+I315550239,Complexe Sportif Pierre Montan,3,5 avenue Raymond Badiou,50,0
+I315550240,Complexe Sportif des Pradettes,8,6 rue Ferdinand de LESSEPS,50,0
+I315550243,Complexe Sportif Dasteb,6,9 Rue de Toulon,0,0
+I315550244,Complexe Sportif Philippe Struxiano,17,113-114 Avenue de Lespinet,50,2
+I315550248,Zone Verte de la Grande Plaine,4,Avenue Jean GONORD,0,0
+I315550250,Complexe Sportif Guillaumet,6,43 route de Revel,0,0
+I315550251,Complexe Sportif Marcel Cerdan,9,7 chemin de la Cpire,65,0
+I315550252,Complexe Sportif de la Cpire,8,323 route de Saint Simon,5,0
+I315550253,Complexe Sportif de la Faourette,8,18 rue Paul LAMBERT,49,2
+I315550254,Complexe Sportif de Lardenne,6,153 bis route de Lardenne,58,4
+I315550255,Complexe Sportif du Mirail,16,6 rue Ferdinand Laulanie,24,2
+I315550260,Base de Sport et Loisir Sesquires,14,Alle des Foulques,1200,3
+I315550261,Gymnase Lalande,7,44 chemin du Sminaire,12,0
+I315550263,Stade G. Rigal,3,Rue Van Dyck,10,0
+I315550266,Complexe du Chteau de l'Hers,6,13 chemin de Limayrac,50,2
+I315550277,Parc des Sports Georges Aybram (Toec),8,8 r ernest dufer,115,0
+I315550291,Cosec de la Reynerie et Aire Multiports Satie,4,7 chemin Jean-Franois LESUEUR,20,0
+I315550294,Base de Loisirs des Argoulets,30,Chemin cassaing,400,10
+I315550296,Espace Soupetard,3,37 rue de la solidarit,10,0
+I315550303,Complexe Sportif Arnaun,6,107 avenue Frdric ESTEBE,60,4
+I315550304,Complexe Sportif Frdric Estebe,5,59 Avenue du Gnral BOURBAKI,0,0
+I315550306,Association Sportive du Centre National d'Etudes Spatiales,10,7 rue des Satellites,135,2
+I315550311,Lyce Professionnel Guynemer,1,43 Rue LEO LAGRANGE,0,0
+I315550312,Creps de Toulouse,29,1 Avenue Edouard BELIN,300,6
+I315550314,Institut National des Sciences Appliques (Insa) Toulouse,7,135 Avenue de Rangueil,43,2
+I315550319,Collge Emile Zola,4,17 Rue Jean Pierre BLANCHARD,0,0
+I315550320,Collge Priv Sainte Marie de Nevers,1,18-20 rue Merly,0,0
+I315550321,cole et Collge Sainte Marie des Ursulines,1,34 avenue de la Colonne,0,0
+I315550336,Collge et Ecole Sainte Famille des Minimes,3,10 Rue de l'Abb SICARD,0,0
+I315550337,Annexe du Collge Lamartine (Segpa),1,50 Rue du Tchad,10,0
+I315550372,Lycee Polyvalent Joseph Gallieni,3,79 ROUTE D'ESPAGNE,,
+I315550380,Ecole Elementaire Guilhermy,1,7 IMPASSE DE LAS BRUGUES,,
+I315550420,Collge George Sand,4,355 Route de Saint-Simon,,
+I315550435,Complexe d'Ancely,3,7 alle des Causses,10,0
+I315550441,Complexe Sportif de l'Hers,7,6 bis et 8 Rue Claudius ROUGENET,150,2
+I315550454,Ecole lmentaire Henri Guillaumet,3,30 chemin Bitet,0,0
+I315550477,,1,8 r arria ly,,
+I315550478,,1,XX,,
+I315550479,,1,r camille claudel,,
+I315550480,,1,34 r fenelon,,
+I315550481,,1,5 che robert cambert,,
+I315570001,Collge Lonard de Vinci,3,1 Chemin de Pahin,200,3
+I315570013,Lyce Polyvalent Marie-Louise Dissard Franoise,3,5 Boulevard Alain Savary,100,4
+I315570014,Complexe Labitrie,10,Rue Pierre Labitrie,200,2
+I315570015,Complexe de l'Alle des Sports,23,Alle des sports,300,4
+I315570016,Complexe Moulin · Vent,3,Boulevard Vincent Auriol,10,0
+I315570017,Complexe Jb Gay,3,Rue de Provence,100,2
+I315570023,Base de Loisirs de la Rame,25,Chemin de Larramet,600,4
+I315610001,Stade Georges Beyney,25,RUE DU PUY DE SANCY,100,3
+I315610002,Base de Loisirs Saint Caprais,13,AVENUE DE BAYONNE,300,0
+I315610013,Ecole Belbeze Les Toulouse,1,Avenue du Vignemale,10,2
+I315610022,Ecole Montizalgier,2,Rue de Guthary,30,1
+I315610024,Ecole Borde d'Olivier,2,Rue des Hortensias,0,0
+I315630001,Complexe Sportif de la Nauze,8,Chemin de la Nauze,30,0
+I315690004,Aerodrome de la Montagne Noire,2,D334,55,0
+I315730001,Plateau EPS College Jean Gay,2,13 AVENUE DU 19 MARS 1962,80,4
+I315730003,Complexe Sportif Gabriel Dandrieu,8,CHEMIN DE LA CALLEVE,50,0
+I315730006,Lac du Laragou,1,Route de Montpitol,0,0
+I315730007,Lac de Balerme,2,Verfeil,30,0
+I315740005,Collge Marcel Doret,4,500 Avenue de Lagardelle,50,2
+I315740007,,1,RUE DES ECOLES,30,1
+I315750001,Espace Sportif et Culturel,5,r des sources,50,0
+I315780002,Terrain de Football,6,rue de la mairie,50,0
+I315780009,,1,avenue du lac,10,1
+I315820001,Stade Municipal,12,ROUTE DE TOULOUSE,100,0
+I315820011,Gymnase Lon Blum (Gymnase du Lyce),1,8 Chemin du Tracas,0,0
+I315820013,Plateau EPS de l'cole Jules Ferry,1,Rue Jules Ferry,20,1
+I315840001,Parc de Bernadou,16,chemin de Lisar / Avenue Gnral Leclerc,150,0
+I315840002,Stade Velodrome,4,AVENUE W. CHURCHILL,50,0
+I315840004,College A. Camus / Complexe Calar,4,RUE U. VIGNIERES,40,0
+I315840012,Prefabrique Ecole Anatole France,1,,30,0
+I315850001,Complexe Sportif,6,Rue du stade,100,0
+I315870003,,1,rte de caminas,100,2
+I315880001,Complexe Sportif Robert Franc,6,Chemin du lac,300,
+I315880007,College Jacqueline Auriol,1,22 route de Portet,45,4
+I315890003,Stade de la Gare,5,chemin du sant,60,0
+I315920002,Ecole Primaire,1,r principale,20,0
+I315920003,Centre Sportif Cavaill,6,le Cavaill,100,4
