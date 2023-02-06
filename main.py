@@ -1,6 +1,6 @@
 import csv
 
-# ------ chemin des fichier.csv  ------
+ ------ chemin des fichier.csv  ------
 data_csv = "2020_installations_sportives.csv"  # fichier orginal (sujet)
 
 # Fichier constituer du code de l'installation, nom de l'installation, nombre d'Equipement, de l'adresse et du nombre de place de parking handicaper ou pas.
@@ -88,7 +88,7 @@ def space_graph(valeur):
   for i in range(valeur):
     print("")
 
-
+"""
 # ------ Fonction Lecture du fichier.csv ------
 
 
@@ -227,3 +227,24 @@ print("la valeur de la ligne", ligne, "est :",
 print("la valeur de", csv_en_liste_v2(data_csv, 0, valeur), "est :",
       csv_en_liste_v2(data_csv, ligne, valeur))
 space_graph(1)
+"""
+
+
+simple_csv = "2020_installations_sportives.csv"
+
+def lire_et_ecrire_csv(nom_fichier_entree, nom_fichier_sortie, colonnes_a_recuperer):
+    donnees = []
+    with open(nom_fichier_entree, 'r', encoding = "ISO-8859-1") as fichier_entree:
+        reader = csv.reader(fichier_entree, delimiter = ';')
+        for ligne in reader:
+            donnees.append(ligne)
+
+    with open(nom_fichier_sortie, 'w', newline='') as fichier_sortie:
+        writer = csv.writer(fichier_sortie)
+        for ligne in donnees:
+            colonnes_selectionnees = [ligne[colonne] for colonne in colonnes_a_recuperer]
+            writer.writerow(colonnes_selectionnees)
+            
+lire_et_ecrire_csv(simple_csv, "Installations_uniques.csv",[4, 5, 6, 16, 17, 28])
+lire_et_ecrire_csv(simple_csv, "Communes_uniques.csv",[0, 1, 2, 3 ])
+lire_et_ecrire_csv(simple_csv, "Admissions_par_formation_détaillée.csv",[2, 4, 9, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 ])

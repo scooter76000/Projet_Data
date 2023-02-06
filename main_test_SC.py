@@ -1,6 +1,6 @@
 import csv
 
-# ------ chemin des fichier.csv  ------
+"""# ------ chemin des fichier.csv  ------
 data_csv = "2020_installations_sportives.csv"  # fichier orginal (sujet)
 
 # Fichier constituer du code de l'installation, nom de l'installation, nombre d'Equipement, de l'adresse et du nombre de place de parking handicaper ou pas.
@@ -304,4 +304,4 @@ print("la valeur de", csv_en_liste_v2(data_csv, 0, valeur), "est :",
       csv_en_liste_v2(data_csv, ligne, valeur))
 space_graph(1)
 
-######    Lecture / Ecriture / csv->liste : ok  avec version  ######
+######    Lecture / Ecriture / csv->liste : ok  avec version  ######""""

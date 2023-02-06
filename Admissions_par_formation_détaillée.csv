@@ -1,0 +1,444 @@
+codeInseeCommune,codeInstallation,libelle,nbParkingHandi,gardien,metro,bus,tram,train,bateau,autreTransport,aucunTransport,dateMAJ,dateCreation
+31003,I310030002,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,25/11/2019,25/11/2019
+31004,I310040004,Complexe sportif,2,Non,0,1,0,0,0,0,0,03/12/2019,03/12/2019
+31004,I310040005,Etablissement scolaire,1,Avec logement de gardien,0,0,0,0,0,0,1,11/12/2019,27/11/2019
+31020,I310200003,Etablissement scolaire,0,Non,0,0,0,0,0,0,1,18/11/2019,18/11/2019
+31020,I310200009,Piscine,0,Non,0,0,0,0,0,0,1,18/11/2019,18/11/2019
+31020,I310200013,Base de plein air et/ou de loisirs,,Non,0,0,0,0,0,0,1,20/11/2018,
+31028,I310280005,Etablissement scolaire,0,Non,0,0,0,0,0,0,1,27/11/2019,27/11/2019
+31032,I310320002,Complexe sportif,0,Non,0,1,0,0,0,0,0,24/07/2015,24/07/2015
+31032,I310320005,Etablissement scolaire,2,Sans logement de gardien,0,1,0,0,0,0,0,24/07/2015,24/07/2015
+31033,I310330003,Etablissement scolaire,,-,0,1,0,0,0,0,0,09/11/2018,
+31033,I310330011,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,09/11/2018,26/06/2015
+31033,I310330012,Piscine,0,Non,,,,,,,0,09/11/2018,26/06/2015
+31035,I310350004,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,21/07/2015,21/07/2015
+31035,I310350008,Complexe sportif,10,Non,0,1,0,0,0,0,0,28/06/2017,28/06/2017
+31035,I310350009,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,21/07/2015,21/07/2015
+31035,I310350012,Etablissement scolaire,1,Non,0,0,0,0,0,0,1,21/07/2015,21/07/2015
+31036,I310360002,Complexe sportif,0,Non,0,0,0,0,0,0,1,27/11/2019,27/11/2019
+31037,I310370004,Etablissement scolaire,0,Non,0,0,0,0,0,0,1,27/11/2019,27/11/2019
+31042,I310420003,Complexe sportif,0,Non,0,0,0,0,0,0,1,04/06/2015,04/06/2015
+31042,I310420008,Arodrome/aroport,0,Non,0,1,0,0,0,0,0,04/06/2015,04/06/2015
+31044,I310440001,Complexe sportif,6,Sans logement de gardien,0,0,0,0,0,0,1,26/11/2019,26/11/2019
+31044,I310440002,Complexe sportif,2,Non,0,0,0,0,0,0,1,18/10/2019,18/10/2019
+31044,I310440003,Complexe sportif,0,Non,0,0,0,0,0,0,1,26/11/2019,26/11/2019
+31044,I310440004,Complexe sportif,0,Avec logement de gardien,0,1,0,0,0,0,0,28/06/2016,28/06/2016
+31044,I310440006,Etablissement scolaire,1,Avec logement de gardien,0,1,0,0,0,0,0,29/11/2018,19/11/2018
+31044,I310440008,Arodrome/aroport,1,Non,0,1,0,0,0,0,0,18/09/2016,18/09/2016
+31044,I310440022,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,07/09/2016,07/09/2016
+31044,I310440023,Etablissement scolaire,2,Non,0,0,0,0,0,0,1,09/09/2019,06/05/2019
+31048,I310480001,Complexe sportif,0,Non,0,1,0,1,0,0,0,18/06/2015,18/06/2015
+31052,I310520001,Complexe sportif,3,Non,0,0,0,0,0,0,1,27/11/2019,27/11/2019
+31056,I310560006,Base de plein air et/ou de loisirs,0,Non,0,1,0,0,0,0,0,,
+31065,I310650002,Complexe sportif,,Non,0,1,0,0,0,0,0,22/11/2015,22/11/2015
+31066,I310660010,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,21/07/2015,21/07/2015
+31069,I310690002,Base de plein air et/ou de loisirs,0,Non,0,0,0,0,0,0,1,21/12/2018,21/12/2018
+31069,I310690003,Complexe sportif,5,Non,0,0,0,0,0,0,1,04/01/2019,04/01/2019
+31069,I310690004,Complexe sportif,0,Sans logement de gardien,0,1,1,0,0,0,0,20/12/2018,20/12/2018
+31069,I310690005,Complexe sportif,4,Avec logement de gardien,0,1,0,0,0,0,0,29/01/2019,24/01/2019
+31069,I310690006,Complexe sportif,5,Avec logement de gardien,0,1,1,0,0,0,0,29/06/2016,29/06/2016
+31069,I310690007,Complexe sportif,10,Avec logement de gardien,0,0,0,0,0,0,1,21/12/2018,29/06/2016
+31069,I310690008,Etablissement scolaire,0,Sans logement de gardien,0,1,1,0,0,0,0,14/10/2016,14/10/2016
+31069,I310690011,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,21/12/2018,18/07/2016
+31069,I310690012,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,29/06/2016,29/06/2016
+31069,I310690022,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31069,I310690026,Complexe sportif,6,Avec logement de gardien,0,1,0,0,0,0,0,29/06/2016,29/06/2016
+31070,I310700001,Etablissement scolaire,,-,0,0,0,0,0,0,1,25/06/2018,25/06/2018
+31071,I310710002,Arodrome/aroport,0,Non,,,,,,,0,25/06/2018,25/06/2018
+31079,I310790001,Complexe sportif,2,Non,,,,,,,0,21/07/2015,21/07/2015
+31079,I310790003,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,,
+31080,I310800004,Complexe sportif,0,Non,,,,,,,0,04/12/2019,04/12/2019
+31081,I310810001,Domaine de ski,0,Non,0,0,0,0,0,0,1,12/11/2018,25/06/2018
+31082,I310820003,Arodrome/aroport,0,Non,0,0,0,0,0,0,1,15/11/2019,15/11/2019
+31084,I310840002,Complexe sportif,0,Avec logement de gardien,0,0,0,0,0,0,1,27/11/2019,27/11/2019
+31084,I310840003,Piscine,1,Non,0,0,0,0,0,0,1,27/11/2019,27/11/2019
+31084,I310840004,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,27/11/2019,27/11/2019
+31085,I310850001,Domaine de ski,0,Non,0,0,0,0,0,0,1,08/10/2018,21/10/2013
+31091,I310910002,Complexe sportif,3,Avec logement de gardien,0,1,0,0,0,0,0,25/06/2015,25/06/2015
+31091,I310910007,Base de plein air et/ou de loisirs,10,Non,,,,,,,0,,
+31098,I310980001,Etablissement scolaire,3,Avec logement de gardien,0,0,0,0,0,0,1,04/12/2019,24/11/2014
+31098,I310980008,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,06/12/2019,
+31100,I311000001,Complexe sportif,3,Non,0,1,0,0,0,0,0,27/11/2019,13/11/2014
+31100,I311000003,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,28/11/2019,28/11/2019
+31107,I311070001,Complexe sportif,4,Non,,,,,,,0,07/09/2018,18/06/2018
+31107,I311070007,Etablissement scolaire,2,Avec logement de gardien,0,1,0,0,0,0,0,17/06/2015,17/06/2015
+31113,I311130001,Complexe sportif,1,Non,0,1,0,0,0,0,0,17/06/2015,17/06/2015
+31113,I311130002,Complexe sportif,4,Avec logement de gardien,0,1,0,0,0,0,0,17/06/2015,17/06/2015
+31113,I311130003,Complexe sportif,1,Non,0,1,0,0,0,0,0,17/06/2015,17/06/2015
+31113,I311130004,Complexe sportif,0,Non,0,1,0,0,0,0,0,17/06/2015,17/06/2015
+31113,I311130005,Complexe sportif,2,Non,0,1,0,0,0,0,0,17/06/2015,17/06/2015
+31113,I311130008,Etablissement scolaire,1,Avec logement de gardien,0,1,0,0,0,0,0,17/06/2015,17/06/2015
+31113,I311130009,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31113,I311130012,Etablissement scolaire,,-,0,1,0,0,0,0,0,,
+31116,I311160004,Complexe sportif,0,Non,0,1,0,0,0,0,0,21/07/2015,21/07/2015
+31116,I311160005,Complexe sportif,2,Non,0,1,0,0,0,0,0,21/07/2015,21/07/2015
+31117,I311170001,Complexe sportif,2,Non,0,1,0,0,0,0,0,17/06/2015,17/06/2015
+31117,I311170006,Base de plein air et/ou de loisirs,0,Non,,,,,,,0,,
+31118,I311180001,Complexe sportif,,Non,0,1,0,0,0,0,0,29/07/2015,29/07/2015
+31133,I311330002,Complexe sportif,0,Non,0,0,0,0,0,0,1,19/10/2018,24/01/2014
+31135,I311350001,Complexe sportif,0,Avec logement de gardien,0,1,0,0,0,0,0,21/09/2015,21/09/2015
+31135,I311350002,Complexe sportif,0,Non,,,,,,,0,21/09/2015,21/09/2015
+31135,I311350003,Piscine,0,Non,,,,,,,0,21/09/2015,21/09/2015
+31135,I311350004,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,21/09/2015,21/09/2015
+31147,I311470002,Arodrome/aroport,0,Non,0,0,0,0,0,0,1,18/10/2018,18/10/2018
+31149,I311490002,Complexe sportif,1,Non,0,1,0,0,0,0,0,12/09/2016,12/09/2016
+31149,I311490003,Complexe sportif,4,Sans logement de gardien,0,1,0,0,0,0,0,09/10/2016,09/10/2016
+31149,I311490008,Complexe sportif,1,Non,0,1,0,0,0,0,0,08/09/2016,08/09/2016
+31149,I311490011,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,08/09/2016,08/09/2016
+31149,I311490012,Complexe sportif,0,Non,0,1,0,0,0,0,0,16/10/2016,16/10/2016
+31149,I311490013,Etablissement scolaire,1,Avec logement de gardien,0,1,0,0,0,0,0,08/09/2016,08/09/2016
+31149,I311490014,Piscine,5,Non,0,1,0,0,0,0,0,09/09/2016,09/09/2016
+31149,I311490018,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,08/09/2016,08/09/2016
+31149,I311490033,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,07/09/2016,07/09/2016
+31149,I311490036,Etablissement scolaire,,-,0,1,0,0,0,0,0,,
+31149,I311490038,Complexe sportif,0,Non,0,0,0,0,0,1,0,,
+31150,I311500002,Complexe sportif,2,Non,0,1,0,0,0,0,0,24/07/2015,24/07/2015
+31157,I311570001,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,23/11/2016,23/11/2016
+31157,I311570003,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,16/11/2016,16/11/2016
+31157,I311570004,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,16/11/2016,16/11/2016
+31157,I311570005,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,23/11/2016,23/11/2016
+31157,I311570007,Complexe sportif,2,Non,0,1,0,0,0,0,0,17/11/2016,17/11/2016
+31157,I311570011,Complexe sportif,5,Non,0,1,0,0,0,0,0,17/11/2016,17/11/2016
+31157,I311570019,Etablissement scolaire,3,Sans logement de gardien,0,1,0,0,0,0,0,23/11/2016,23/11/2016
+31160,I311600006,Etablissement scolaire,2,Sans logement de gardien,0,1,0,0,0,0,0,28/08/2019,28/08/2019
+31163,I311630001,Etablissement scolaire,0,Non,0,0,0,0,0,0,1,11/10/2019,11/10/2019
+31163,I311630002,Complexe sportif,2,Non,0,0,0,0,0,0,1,05/11/2019,05/11/2019
+31165,I311650002,Complexe sportif,3,Non,,,,,,,0,05/06/2015,05/06/2015
+31167,I311670001,Complexe sportif,4,Non,,,,,,,0,15/10/2018,27/06/2013
+31181,I311810005,Etablissement scolaire,1,Non,0,0,0,0,0,0,1,03/12/2019,28/11/2019
+31182,I311820006,Complexe sportif,,Non,0,1,0,0,0,0,0,21/07/2015,21/07/2015
+31182,I311820007,Complexe sportif,,Non,0,1,0,0,0,0,0,21/07/2015,21/07/2015
+31186,I311860004,Complexe sportif,4,Non,0,1,0,0,0,0,0,26/06/2015,26/06/2015
+31187,I311870001,Base de plein air et/ou de loisirs,4,Avec logement de gardien,,,,,,,0,24/07/2015,24/07/2015
+31187,I311870003,Complexe sportif,0,Avec logement de gardien,,,,,,,0,24/07/2015,24/07/2015
+31187,I311870004,Complexe sportif,,Non,0,1,0,0,0,0,0,24/07/2015,24/07/2015
+31187,I311870005,Complexe sportif,20,Non,0,0,0,0,0,0,1,24/10/2019,24/10/2019
+31187,I311870011,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,24/07/2015,24/07/2015
+31187,I311870013,Complexe sportif,4,Sans logement de gardien,0,1,0,0,0,0,0,24/10/2019,24/10/2019
+31193,I311930009,Etablissement scolaire,2,Avec logement de gardien,0,1,0,0,0,0,0,29/10/2019,02/12/2014
+31202,I312020004,Complexe sportif,1,Non,0,0,0,0,0,0,1,29/07/2015,29/07/2015
+31202,I312020011,Complexe sportif,0,Non,0,1,0,0,0,0,0,29/07/2015,29/07/2015
+31203,I312030004,Complexe sportif,2,Non,0,1,0,0,0,0,0,22/09/2015,22/09/2015
+31205,I312050001,Complexe sportif,2,Non,0,1,0,0,0,0,0,19/04/2017,19/04/2017
+31210,I312100002,Complexe sportif,2,Non,0,1,0,0,0,0,0,03/12/2019,03/12/2019
+31221,I312210001,Domaine de ski,0,Non,0,1,0,0,0,0,0,05/03/2019,05/03/2019
+31221,I312210002,Piscine,0,Non,0,0,0,0,0,0,1,05/03/2019,05/03/2019
+31224,I312240004,Etablissement scolaire,1,Avec logement de gardien,0,0,0,0,0,0,1,04/12/2019,04/12/2019
+31230,I312300001,Complexe sportif,1,Non,0,1,0,0,0,0,0,26/06/2015,26/06/2015
+31230,I312300003,Etablissement scolaire,2,Sans logement de gardien,0,1,0,0,0,0,0,26/06/2015,26/06/2015
+31230,I312300005,Complexe sportif,10,Avec logement de gardien,0,1,0,0,0,0,0,,
+31230,I312300006,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,02/07/2015,02/07/2015
+31232,I312320002,Complexe sportif,,Non,0,1,0,0,0,0,0,24/07/2015,24/07/2015
+31232,I312320003,Base de plein air et/ou de loisirs,0,Non,0,1,0,0,0,0,0,24/07/2015,24/07/2015
+31239,I312390002,Complexe sportif,2,Non,0,0,0,0,0,0,1,07/11/2019,07/11/2019
+31239,I312390004,Arodrome/aroport,,Non,0,0,0,0,0,0,1,15/10/2019,
+31247,I312470006,Etablissement scolaire,,-,0,0,0,0,0,0,1,03/12/2019,03/12/2019
+31248,I312480002,Etablissement scolaire,4,Avec logement de gardien,0,1,0,0,0,0,0,,
+31248,I312480003,Complexe sportif,0,Non,0,1,0,0,0,0,0,22/09/2015,22/09/2015
+31253,I312530001,Complexe sportif,0,Non,0,0,0,0,0,0,1,28/08/2019,28/08/2019
+31254,I312540012,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31254,I312540013,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,27/02/2017,27/02/2017
+31254,I312540015,Etablissement scolaire,,Sans logement de gardien,0,0,0,0,0,0,1,,
+31263,I312630006,Etablissement scolaire,0,Non,0,0,0,0,0,0,1,07/11/2019,07/11/2019
+31271,I312710004,Etablissement scolaire,0,Non,0,0,0,0,0,0,1,15/11/2019,15/11/2019
+31273,I312730004,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,17/06/2015,17/06/2015
+31282,I312820001,Etablissement scolaire,,-,0,1,0,0,0,0,0,,
+31282,I312820006,Complexe sportif,2,Non,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31282,I312820007,Piscine,1,Non,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31282,I312820012,Complexe sportif,2,Non,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31284,I312840001,Complexe sportif,6,Non,0,0,0,0,0,0,1,18/10/2019,18/10/2019
+31287,I312870002,Etablissement scolaire,,-,0,1,0,0,0,0,0,,
+31291,I312910005,Complexe sportif,1,Non,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31291,I312910007,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31291,I312910009,Etablissement scolaire,2,Avec logement de gardien,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31291,I312910011,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31293,I312930002,Complexe sportif,,Non,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31293,I312930003,Complexe sportif,4,Avec logement de gardien,,,,,,,0,26/07/2017,26/07/2017
+31297,I312970006,Etablissement scolaire,2,Sans logement de gardien,0,1,0,0,0,0,0,29/08/2019,
+31298,I312980001,Complexe sportif,0,Non,,,,,,,0,21/11/2018,07/11/2018
+31299,I312990004,Complexe sportif,2,Non,0,1,0,0,0,0,0,08/07/2015,08/07/2015
+31311,I313110001,Complexe sportif,1,Non,0,0,0,0,0,0,1,21/11/2019,21/11/2019
+31316,I313160002,Complexe sportif,0,Non,0,0,0,0,0,0,1,28/11/2019,28/11/2019
+31324,I313240001,Complexe sportif,2,Non,0,0,0,0,0,0,1,04/12/2019,04/12/2019
+31341,I313410010,Etablissement scolaire,,-,0,1,0,0,0,0,0,,
+31345,I313450006,Etablissement scolaire,2,Non,0,0,0,0,0,0,1,21/11/2019,21/11/2019
+31346,I313460001,Complexe sportif,2,Non,0,0,0,0,0,0,1,29/11/2019,29/11/2019
+31356,I313560004,Base de plein air et/ou de loisirs,2,Non,0,0,0,0,0,0,1,18/11/2019,18/11/2019
+31358,I313580003,Complexe sportif,0,Non,,,,,,,0,12/06/2015,12/06/2015
+31358,I313580005,Etablissement scolaire,0,-,0,1,0,0,0,0,0,,
+31364,I313640003,Etablissement scolaire,3,Non,0,1,0,0,0,0,0,17/06/2015,17/06/2015
+31375,I313750003,Complexe sportif,1,Non,0,1,0,0,0,0,0,19/06/2015,19/06/2015
+31375,I313750004,Piscine,1,Non,0,1,0,0,0,0,0,12/06/2015,12/06/2015
+31375,I313750005,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,19/06/2015,19/06/2015
+31380,I313800002,Base de plein air et/ou de loisirs,6,Non,0,0,0,0,0,0,1,05/10/2018,02/07/2013
+31385,I313850001,Piscine,1,Non,0,0,0,0,0,0,1,02/10/2018,15/04/2016
+31388,I313880002,Base de plein air et/ou de loisirs,0,Non,0,0,0,0,0,0,1,28/11/2019,28/11/2019
+31389,I313890007,Complexe sportif,1,Non,0,1,0,1,0,0,0,02/07/2015,02/07/2015
+31390,I313900009,Base de plein air et/ou de loisirs,0,Non,,,,,,,0,05/06/2015,05/06/2015
+31390,I313900010,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,05/06/2015,05/06/2015
+31395,I313950002,Arodrome/aroport,2,Non,,,,,,,0,30/06/2016,30/06/2016
+31395,I313950003,Complexe sportif,4,Sans logement de gardien,0,1,0,0,0,0,0,04/07/2016,04/07/2016
+31395,I313950004,Complexe sportif,3,Non,0,0,0,0,0,0,1,30/06/2016,30/06/2016
+31395,I313950005,Complexe sportif,6,Non,0,0,0,0,0,0,1,22/10/2019,22/10/2019
+31395,I313950006,Complexe sportif,2,Sans logement de gardien,0,1,0,0,0,0,0,30/06/2016,30/06/2016
+31395,I313950008,Complexe sportif,2,Non,0,1,0,0,0,0,0,30/06/2016,30/06/2016
+31395,I313950009,Base de plein air et/ou de loisirs,2,Non,0,1,0,0,0,0,0,30/06/2016,30/06/2016
+31395,I313950020,Base de plein air et/ou de loisirs,0,Non,,,,,,,0,30/06/2016,30/06/2016
+31395,I313950027,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,30/06/2016,30/06/2016
+31395,I313950030,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31395,I313950033,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,29/06/2016,29/06/2016
+31395,I313950034,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,29/06/2016,29/06/2016
+31395,I313950035,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,29/06/2016,29/06/2016
+31395,I313950036,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,29/06/2016,29/06/2016
+31395,I313950037,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,29/06/2016,29/06/2016
+31395,I313950039,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,29/06/2016,29/06/2016
+31396,I313960010,Base de plein air et/ou de loisirs,,Non,0,0,0,0,0,0,1,20/11/2018,
+31399,I313990008,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31399,I313990010,Etablissement scolaire,3,Avec logement de gardien,0,1,0,0,0,0,0,,
+31403,I314030001,Complexe sportif,0,Non,0,0,0,0,0,0,1,04/06/2018,13/11/2013
+31406,I314060001,Arodrome/aroport,0,Non,0,0,0,0,0,0,1,06/11/2019,06/11/2019
+31410,I314100001,Complexe sportif,6,Non,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31410,I314100002,Etablissement scolaire,4,Non,0,1,0,0,0,0,0,,
+31410,I314100003,Complexe sportif,6,Non,,,,,,,0,27/07/2015,27/07/2015
+31410,I314100004,Etablissement scolaire,,-,0,1,0,0,0,0,0,,
+31411,I314110001,Etablissement scolaire,0,Non,0,0,0,0,0,0,1,22/10/2019,22/10/2019
+31417,I314170002,Complexe sportif,0,Non,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31417,I314170006,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31424,I314240006,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,17/11/2016,17/11/2016
+31424,I314240013,Complexe sportif,0,Non,0,1,0,0,0,0,0,17/11/2016,17/11/2016
+31424,I314240015,Complexe sportif,0,Non,0,1,0,0,0,0,0,23/11/2016,23/11/2016
+31424,I314240019,Base de plein air et/ou de loisirs,0,Non,0,1,0,0,0,0,0,23/11/2016,23/11/2016
+31429,I314290002,Complexe sportif,0,Non,0,0,0,0,0,0,1,24/10/2019,24/10/2019
+31429,I314290003,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,23/10/2019,23/10/2019
+31433,I314330008,Complexe sportif,,Non,0,1,0,0,0,0,0,26/06/2015,26/06/2015
+31433,I314330013,Complexe sportif,4,Non,0,1,0,0,0,0,0,02/07/2015,02/07/2015
+31435,I314350001,Complexe sportif,0,Non,0,0,0,0,0,0,1,24/10/2019,24/10/2019
+31445,I314450001,Complexe sportif,,Non,0,0,0,0,0,0,1,28/07/2015,28/07/2015
+31445,I314450009,Etablissement scolaire,,Non,0,1,0,0,0,0,0,04/02/2019,23/03/2017
+31446,I314460004,Piscine,1,Non,1,0,0,0,0,0,0,08/09/2016,08/09/2016
+31446,I314460007,Complexe sportif,10,Sans logement de gardien,0,1,0,0,0,0,0,07/09/2018,12/09/2016
+31451,I314510003,Complexe sportif,0,Non,0,1,0,0,0,0,0,26/10/2015,26/10/2015
+31451,I314510010,Arodrome/aroport,0,Non,,,,,,,0,26/10/2015,26/10/2015
+31454,I314540003,Complexe sportif,2,Non,0,1,0,0,0,0,0,26/06/2015,26/06/2015
+31455,I314550001,Piscine,0,Non,0,0,0,0,0,0,1,24/10/2019,24/10/2019
+31458,I314580001,Complexe sportif,0,Sans logement de gardien,0,1,0,0,0,0,0,23/09/2015,23/09/2015
+31458,I314580004,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,23/09/2015,23/09/2015
+31460,I314600001,Complexe sportif,2,Non,0,1,0,0,0,0,0,23/09/2015,23/09/2015
+31462,I314620001,Complexe sportif,0,Avec logement de gardien,0,1,0,0,0,0,0,22/11/2019,18/11/2019
+31464,I314640003,Arodrome/aroport,0,Non,0,0,0,0,0,0,1,12/11/2018,
+31467,I314670002,Complexe sportif,0,Sans logement de gardien,0,1,0,0,0,0,0,02/05/2019,28/07/2015
+31467,I314670004,Complexe sportif,2,Non,0,1,0,0,0,0,0,02/05/2019,28/07/2015
+31467,I314670005,Complexe sportif,4,Non,0,1,0,0,0,0,0,02/05/2019,28/07/2015
+31467,I314670008,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,02/05/2019,
+31467,I314670009,Etablissement scolaire,4,Non,,,,,,,0,02/05/2019,
+31470,I314700001,Domaine de ski,0,Non,0,0,0,0,0,1,0,13/11/2018,19/10/2018
+31471,I314710006,Piscine,0,Non,0,0,0,0,0,0,1,27/08/2019,27/08/2019
+31483,I314830003,Complexe sportif,3,Avec logement de gardien,0,1,0,0,0,0,0,05/06/2015,05/06/2015
+31483,I314830012,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,05/06/2015,05/06/2015
+31483,I314830013,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,05/06/2015,05/06/2015
+31483,I314830014,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,19/06/2015,19/06/2015
+31483,I314830015,Etablissement scolaire,4,Non,0,1,0,0,0,0,0,05/06/2015,05/06/2015
+31483,I314830016,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,05/06/2015,05/06/2015
+31484,I314840001,Complexe sportif,1,Non,0,0,0,0,0,0,1,18/11/2019,18/11/2019
+31484,I314840005,Etablissement scolaire,0,Non,0,0,0,0,0,0,1,18/11/2019,18/11/2019
+31486,I314860001,Complexe sportif,0,Non,0,1,0,0,0,0,0,07/11/2019,07/11/2019
+31488,I314880003,Complexe sportif,0,Sans logement de gardien,0,1,0,0,0,0,0,18/06/2015,18/06/2015
+31488,I314880004,Complexe sportif,1,Non,,,,,,,0,18/06/2015,18/06/2015
+31488,I314880005,Complexe sportif,0,Non,0,1,0,0,0,0,0,18/06/2015,18/06/2015
+31488,I314880006,Complexe sportif,1,Non,,,,,,,0,18/06/2015,18/06/2015
+31490,I314900001,Complexe sportif,5,Non,0,0,0,0,0,0,1,28/07/2015,28/07/2015
+31490,I314900002,Complexe sportif,,Non,0,0,0,0,0,0,1,28/07/2015,28/07/2015
+31495,I314950005,Etablissement scolaire,1,Non,0,0,0,0,0,0,1,07/11/2019,07/11/2019
+31497,I314970001,Complexe sportif,0,Non,0,0,0,0,0,0,1,22/11/2019,22/11/2019
+31497,I314970004,Etablissement scolaire,1,Non,0,0,0,0,0,0,1,25/11/2019,25/11/2019
+31499,I314990008,Piscine,1,Non,,,,,,,0,23/09/2015,23/09/2015
+31500,I315000002,Complexe sportif,0,Avec logement de gardien,0,1,0,0,0,0,0,27/11/2018,22/11/2018
+31501,I315010002,Base de plein air et/ou de loisirs,0,Non,0,1,0,0,0,0,0,08/11/2018,28/10/2013
+31506,I315060010,Complexe sportif,2,Non,0,1,0,0,0,0,0,28/07/2015,28/07/2015
+31506,I315060011,Complexe sportif,1,Non,0,1,0,0,0,0,0,28/07/2015,28/07/2015
+31512,I315120002,Etablissement scolaire,3,Non,0,0,0,0,0,0,1,28/10/2019,28/10/2019
+31512,I315120003,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,28/10/2019,28/10/2019
+31517,I315170002,Complexe sportif,2,Non,0,0,0,0,0,0,1,08/11/2019,08/11/2019
+31517,I315170005,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,24/10/2019,24/10/2019
+31523,I315230001,Piscine,0,Non,0,0,0,0,0,0,1,04/12/2019,04/12/2019
+31523,I315230004,Etablissement scolaire,0,Avec logement de gardien,0,0,0,0,0,0,1,05/12/2019,05/12/2019
+31526,I315260008,Complexe sportif,1,Non,0,1,0,0,0,0,0,28/07/2015,28/07/2015
+31533,I315330002,Complexe sportif,1,Non,0,0,0,0,0,0,1,21/11/2019,21/11/2019
+31533,I315330003,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,21/11/2019,21/11/2019
+31535,I315350001,Complexe sportif,0,Non,0,0,0,0,0,0,1,13/11/2018,11/11/2013
+31541,I315410001,Complexe sportif,4,Non,0,1,0,0,0,0,0,27/07/2015,27/07/2015
+31541,I315410004,Etablissement scolaire,,Avec logement de gardien,0,1,0,0,0,0,0,28/07/2015,28/07/2015
+31547,I315470002,Complexe sportif,2,Non,0,1,0,0,0,0,0,23/09/2015,23/09/2015
+31553,I315530001,Complexe sportif,0,Non,0,0,0,0,0,0,1,29/08/2019,13/11/2014
+31555,I315550006,Etablissement scolaire,0,Avec logement de gardien,1,1,0,0,0,0,0,18/01/2017,18/01/2017
+31555,I315550013,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,27/01/2013,27/01/2013
+31555,I315550021,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,,
+31555,I315550022,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550023,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550024,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,,
+31555,I315550025,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550026,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550027,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550028,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550030,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550034,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550035,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,,
+31555,I315550036,Etablissement scolaire,0,Non,0,1,0,1,0,0,0,,
+31555,I315550037,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,,
+31555,I315550038,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550039,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,16/07/2017,16/07/2017
+31555,I315550040,Etablissement scolaire,0,Non,0,1,1,0,0,0,0,,
+31555,I315550041,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,17/05/2019,07/12/2016
+31555,I315550042,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550043,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550045,Etablissement scolaire,0,Non,0,1,1,0,0,0,0,,
+31555,I315550046,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550047,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,14/05/2019,
+31555,I315550048,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,,
+31555,I315550049,Etablissement scolaire,0,Non,0,1,1,0,0,0,0,,
+31555,I315550050,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550051,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550052,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550053,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550054,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,,
+31555,I315550055,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,14/04/2013,14/04/2013
+31555,I315550056,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550057,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,,
+31555,I315550058,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550059,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550060,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550061,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550062,Etablissement scolaire,0,Non,0,1,0,1,0,0,0,,
+31555,I315550064,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550065,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,,
+31555,I315550066,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,23/01/2013,23/01/2013
+31555,I315550067,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550068,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550069,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550070,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,23/01/2013,23/01/2013
+31555,I315550071,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550072,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31555,I315550073,Etablissement scolaire,2,Avec logement de gardien,1,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550075,Complexe sportif,10,Sans logement de gardien,1,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550077,Complexe sportif,0,Non,0,1,0,0,0,0,0,10/01/2017,10/01/2017
+31555,I315550081,Complexe sportif,2,Non,0,1,0,0,0,0,0,12/01/2017,12/01/2017
+31555,I315550136,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,01/02/2017,01/02/2017
+31555,I315550137,Etablissement scolaire,0,Sans logement de gardien,1,1,0,1,0,0,0,17/01/2017,17/01/2017
+31555,I315550138,Etablissement scolaire,0,Avec logement de gardien,1,1,0,0,0,0,0,09/12/2016,09/12/2016
+31555,I315550139,Etablissement scolaire,0,Avec logement de gardien,1,1,0,0,0,0,0,16/01/2017,16/01/2017
+31555,I315550140,Etablissement scolaire,2,Non,1,1,0,0,0,0,0,25/01/2017,25/01/2017
+31555,I315550146,Complexe sportif,0,Non,0,1,0,0,0,0,0,20/03/2017,20/03/2017
+31555,I315550154,Complexe sportif,2,Non,0,1,0,0,0,0,0,09/12/2016,09/12/2016
+31555,I315550174,Complexe sportif,15,Sans logement de gardien,0,1,0,0,0,0,0,16/01/2017,16/01/2017
+31555,I315550176,Complexe sportif,3,Non,0,1,0,0,0,0,0,12/11/2012,12/11/2012
+31555,I315550178,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,18/06/2018,20/12/2012
+31555,I315550179,Etablissement scolaire,0,Avec logement de gardien,1,1,1,0,0,0,0,17/01/2017,17/01/2017
+31555,I315550180,Etablissement scolaire,2,Avec logement de gardien,1,1,1,0,0,0,0,17/01/2017,17/01/2017
+31555,I315550181,Etablissement scolaire,2,Avec logement de gardien,0,1,0,0,0,0,0,03/02/2017,03/02/2017
+31555,I315550182,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,09/01/2013,09/01/2013
+31555,I315550184,Complexe sportif,0,Non,0,1,0,0,0,0,0,29/08/2016,29/08/2016
+31555,I315550185,Complexe sportif,0,Avec logement de gardien,0,1,0,0,0,0,0,29/08/2016,29/08/2016
+31555,I315550187,Etablissement scolaire,2,Non,1,1,0,0,0,0,0,13/01/2017,13/01/2017
+31555,I315550188,Etablissement scolaire,0,Avec logement de gardien,0,1,0,0,0,0,0,01/02/2017,01/02/2017
+31555,I315550189,Etablissement scolaire,2,Non,1,1,0,0,0,0,0,17/01/2017,17/01/2017
+31555,I315550190,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,18/01/2017,18/01/2017
+31555,I315550191,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,18/01/2017,18/01/2017
+31555,I315550192,Etablissement scolaire,1,Avec logement de gardien,1,1,0,0,0,0,0,09/01/2017,09/01/2017
+31555,I315550193,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,24/01/2017,24/01/2017
+31555,I315550195,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,13/01/2017,13/01/2017
+31555,I315550213,Complexe sportif,0,Non,1,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550214,Complexe sportif,2,Non,0,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550216,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,20/01/2017,20/01/2017
+31555,I315550217,Complexe sportif,0,Avec logement de gardien,0,1,0,0,0,0,0,10/01/2017,10/01/2017
+31555,I315550218,Complexe sportif,0,Non,0,1,0,1,0,0,0,12/01/2017,12/01/2017
+31555,I315550220,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,16/01/2017,16/01/2017
+31555,I315550221,Etablissement scolaire,0,Non,1,1,0,1,0,0,0,16/01/2017,16/01/2017
+31555,I315550222,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,16/12/2012,16/12/2012
+31555,I315550224,Complexe sportif,2,Avec logement de gardien,0,1,0,0,0,0,0,09/12/2016,09/12/2016
+31555,I315550225,Complexe sportif,0,Sans logement de gardien,1,1,0,0,0,0,0,05/01/2017,05/01/2017
+31555,I315550226,Complexe sportif,56,Avec logement de gardien,1,1,1,0,0,0,0,14/06/2019,03/02/2017
+31555,I315550227,Complexe sportif,2,Avec logement de gardien,1,1,0,0,0,0,0,09/12/2016,09/12/2016
+31555,I315550229,Piscine,0,Sans logement de gardien,0,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550230,Complexe sportif,0,Avec logement de gardien,1,1,0,0,0,0,0,09/12/2016,09/12/2016
+31555,I315550231,Complexe sportif,0,Non,0,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550232,Complexe sportif,2,Non,0,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550234,Complexe sportif,3,Non,,,,,,,0,09/12/2016,09/12/2016
+31555,I315550238,Complexe sportif,2,Non,0,1,0,0,0,0,0,24/01/2017,24/01/2017
+31555,I315550239,Complexe sportif,0,Avec logement de gardien,1,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550240,Complexe sportif,0,Non,0,1,0,0,0,0,0,09/12/2016,09/12/2016
+31555,I315550243,Complexe sportif,0,Non,1,1,0,0,0,0,0,04/04/2019,04/04/2019
+31555,I315550244,Complexe sportif,2,Non,0,1,0,0,0,0,0,12/01/2017,12/01/2017
+31555,I315550248,Complexe sportif,0,Non,0,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550250,Complexe sportif,0,Non,0,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550251,Complexe sportif,0,Non,0,1,0,0,0,0,0,10/01/2017,10/01/2017
+31555,I315550252,Complexe sportif,0,Avec logement de gardien,0,1,0,0,0,0,0,10/01/2017,10/01/2017
+31555,I315550253,Complexe sportif,2,Avec logement de gardien,1,1,0,0,0,0,0,09/12/2016,09/12/2016
+31555,I315550254,Complexe sportif,4,Avec logement de gardien,0,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550255,Complexe sportif,2,Avec logement de gardien,1,1,0,0,0,0,0,12/12/2016,12/12/2016
+31555,I315550260,Base de plein air et/ou de loisirs,3,Sans logement de gardien,0,1,0,0,0,0,0,12/10/2018,09/12/2016
+31555,I315550261,Complexe sportif,0,Sans logement de gardien,0,1,0,0,0,0,0,09/12/2016,09/12/2016
+31555,I315550263,Complexe sportif,0,Sans logement de gardien,1,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550266,Complexe sportif,2,Non,0,1,0,0,0,0,0,12/12/2016,12/12/2016
+31555,I315550277,Complexe sportif,0,Non,0,0,0,0,0,0,1,14/06/2019,14/06/2019
+31555,I315550291,Complexe sportif,0,Non,1,1,0,0,0,0,0,08/12/2016,08/12/2016
+31555,I315550294,Complexe sportif,10,Sans logement de gardien,1,1,0,0,0,0,0,03/02/2017,03/02/2017
+31555,I315550296,Complexe sportif,0,Non,0,1,0,0,0,0,0,10/01/2017,10/01/2017
+31555,I315550303,Complexe sportif,4,Avec logement de gardien,1,1,0,0,0,0,0,09/12/2016,09/12/2016
+31555,I315550304,Complexe sportif,0,Sans logement de gardien,1,1,0,0,0,0,0,07/12/2016,07/12/2016
+31555,I315550306,Complexe sportif,2,Non,1,0,0,0,0,0,0,25/01/2017,25/01/2017
+31555,I315550311,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,17/01/2017,17/01/2017
+31555,I315550312,CREPS ou Ecole nationale,6,Sans logement de gardien,0,1,0,0,0,0,0,12/11/2018,31/01/2017
+31555,I315550314,Complexe sportif,2,Non,1,1,0,0,0,0,0,09/12/2016,09/12/2016
+31555,I315550319,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,23/01/2017,23/01/2017
+31555,I315550320,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,16/12/2012,16/12/2012
+31555,I315550321,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,07/01/2013,07/01/2013
+31555,I315550336,Etablissement scolaire,0,Non,1,1,0,0,0,0,0,18/01/2017,18/01/2017
+31555,I315550337,Etablissement scolaire,0,Non,1,1,1,0,0,0,0,16/01/2017,16/01/2017
+31555,I315550372,Etablissement scolaire,,Sans logement de gardien,0,1,0,0,0,0,0,,
+31555,I315550380,Etablissement scolaire,,Non,0,1,0,0,0,0,0,,
+31555,I315550420,Etablissement scolaire,,-,0,1,0,0,0,0,0,,
+31555,I315550435,Complexe sportif,0,Non,0,1,0,0,0,0,0,07/12/2016,07/12/2016
+31555,I315550441,Complexe sportif,2,Non,0,1,0,0,0,0,0,24/01/2017,24/01/2017
+31555,I315550454,Etablissement scolaire,0,-,0,1,0,0,0,0,0,16/12/2012,16/12/2012
+31555,I315550477,Etablissement scolaire,,Non,0,1,0,0,0,0,0,14/05/2019,14/05/2019
+31555,I315550478,Etablissement scolaire,,Non,0,1,0,0,0,0,0,16/05/2019,
+31555,I315550479,Etablissement scolaire,,Non,,,,,,,,16/05/2019,16/05/2019
+31555,I315550480,Etablissement scolaire,,Non,0,1,0,0,0,0,0,16/05/2019,16/05/2019
+31555,I315550481,Etablissement scolaire,,Non,0,1,0,0,0,0,0,17/05/2019,17/05/2019
+31557,I315570001,Etablissement scolaire,3,Non,0,1,0,0,0,0,0,02/12/2016,02/12/2016
+31557,I315570013,Etablissement scolaire,4,Non,0,1,0,0,0,0,0,02/12/2016,02/12/2016
+31557,I315570014,Complexe sportif,2,Non,0,1,0,0,0,0,0,02/12/2016,02/12/2016
+31557,I315570015,Complexe sportif,4,Non,0,1,0,0,0,0,0,05/12/2016,05/12/2016
+31557,I315570016,Complexe sportif,0,Non,0,1,0,0,0,0,0,02/12/2016,02/12/2016
+31557,I315570017,Complexe sportif,2,Non,0,1,0,0,0,0,0,02/12/2016,02/12/2016
+31557,I315570023,Base de plein air et/ou de loisirs,4,Avec logement de gardien,0,1,0,0,0,0,0,05/12/2016,05/12/2016
+31561,I315610001,Complexe sportif,3,Non,0,1,0,0,0,0,0,01/10/2019,05/07/2016
+31561,I315610002,Base de plein air et/ou de loisirs,0,Non,0,1,0,0,0,0,0,23/11/2018,03/02/2017
+31561,I315610013,Etablissement scolaire,2,Non,0,1,0,0,0,0,0,05/07/2016,05/07/2016
+31561,I315610022,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,05/07/2016,05/07/2016
+31561,I315610024,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,05/07/2016,05/07/2016
+31563,I315630001,Complexe sportif,0,Non,0,0,0,0,0,0,1,25/11/2019,25/11/2019
+31569,I315690004,Arodrome/aroport,0,Non,0,0,0,0,0,0,1,30/10/2018,03/03/2014
+31573,I315730001,Etablissement scolaire,4,Non,,,,,,,0,01/07/2015,01/07/2015
+31573,I315730003,Complexe sportif,0,Non,,,,,,,0,07/07/2015,07/07/2015
+31573,I315730006,Base de plein air et/ou de loisirs,0,Non,,,,,,,0,01/07/2015,01/07/2015
+31573,I315730007,Base de plein air et/ou de loisirs,0,Non,,,,,,,0,01/07/2015,01/07/2015
+31574,I315740005,Etablissement scolaire,2,Non,0,0,0,0,0,0,1,02/12/2019,19/11/2014
+31574,I315740007,Etablissement scolaire,1,Non,0,0,0,0,0,0,1,03/12/2019,
+31575,I315750001,Complexe sportif,0,Non,0,0,0,0,0,0,1,29/10/2019,29/10/2019
+31578,I315780002,Complexe sportif,0,Non,0,0,0,0,0,0,1,21/11/2019,21/11/2019
+31578,I315780009,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,19/11/2019,19/11/2019
+31582,I315820001,Complexe sportif,0,Avec logement de gardien,0,1,0,0,0,0,0,21/10/2015,21/10/2015
+31582,I315820011,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,,
+31582,I315820013,Etablissement scolaire,1,Non,0,1,0,0,0,0,0,,
+31584,I315840001,Complexe sportif,0,Non,0,1,0,0,0,0,0,28/07/2015,28/07/2015
+31584,I315840002,Complexe sportif,0,Non,0,1,0,0,0,0,0,16/11/2018,28/07/2015
+31584,I315840004,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,28/07/2015,28/07/2015
+31584,I315840012,Etablissement scolaire,0,Non,0,1,0,0,0,0,0,30/07/2015,30/07/2015
+31585,I315850001,Complexe sportif,0,Non,0,1,0,0,0,0,0,14/11/2019,14/11/2019
+31587,I315870003,Etablissement scolaire,2,Non,0,0,0,0,0,0,1,22/11/2019,22/11/2019
+31588,I315880001,Complexe sportif,,Non,0,1,0,0,0,0,0,23/09/2015,23/09/2015
+31588,I315880007,Etablissement scolaire,4,Non,0,1,0,0,0,0,0,23/09/2015,23/09/2015
+31589,I315890003,Complexe sportif,0,Non,0,0,0,0,0,0,1,07/11/2019,07/11/2019
+31592,I315920002,Etablissement scolaire,0,Non,0,0,0,0,0,0,1,18/10/2019,18/10/2019
+31592,I315920003,Complexe sportif,4,Non,0,0,0,0,0,0,1,18/10/2019,18/10/2019

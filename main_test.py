@@ -31,20 +31,15 @@ with open (simple_csv, 'r') as csv_file :
 
 simple_csv = "fichier1.csv"
 
+def creation (nom_entree, colonnes, nom_sortie) :
+    fichier_sorite = nom_sortie
+    with open (nom_entree,'r', newline='') as csv_file :
+        reader = csv.reader(csv_file,  delimiter=' ', quotechar='|')
+        liste_fichier = []
+        for row in reader :
+            liste_fichier.append(', '.join(row))
+        with open (fichier_sorite, 'w', newline='') as csv_sortie :
+            writer = csv.writer(csv_sortie)
+            writer.writerow([liste_fichier[line][column] for column in colonnes] for line in range(len(liste_fichier)))
 
-def creation_fichier(fichier_entre, nom_fichier, colonnes):
-    liste_fichier = []
-    with open(fichier_entre, 'r', errors="ignore", newline= '') as csv_file :
-      reader = csv.reader(csv_file,  delimiter=' ', quotechar='|')
-      for ligne in reader :
-        liste_fichier.append(', '.join(ligne))
-    fich_sortie = nom_fichier
-    with open(fich_sortie, 'w', newline='') as csv_sortie :
-        writer = csv.writer(csv_sortie)
-        writer.writerow([liste_fichier[i][j] for j in colonnes] for i in range(len(liste_fichier)))
-       
-        
-
-
-
-creation_fichier(simple_csv, [2], "installations_uniques.csv")
+creation(simple_csv,[0,5,8], "installations_uniques.csv")
