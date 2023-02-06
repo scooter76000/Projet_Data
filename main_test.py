@@ -1,8 +1,7 @@
 import csv
-
+from fonctions.dictionnaire import *
 
 """ ------------------ V1 ---------------- """
-
 
 """data_csv = "/home/runner/Projet-Data-Groupe-G/fichier1.csv" #chemin fichier selon le pwd
 
@@ -33,6 +32,7 @@ with open (simple_csv, 'r') as csv_file :
             data = {col: row[col] for col in colonnes}
             writer.writerow(data)
 """
+
 """
 simple_csv = "fichier1.csv"
 
@@ -52,6 +52,7 @@ def creation_fichier(fichier_entre, nom_fichier, colonnes):
 creation_fichier(simple_csv, [2], "installations_uniques.csv")
 
 """
+
 """
 ######    Lecture / Ecriture : ok    ###### début 
 
@@ -137,6 +138,7 @@ csv_en_liste(data_csv, ligne, valeur)
 ######    Lecture / Ecriture / csv->liste : ok    ######
 
 """
+
 """
 simple_csv = "2020_installations_sportives.csv"
 
@@ -159,8 +161,6 @@ lire_et_ecrire_csv(simple_csv, "installations_uniques.csv", [1])
 """
 
 
-
-
 """ ---------------  V2 --------------------- """
 
 # ------ chemin des fichier.csv  ------
@@ -175,72 +175,6 @@ communes_uniques_csv = "data/CommunesUniques.csv"
 # Fichier constituer du code de l'installation, du code INSEE de la commune, du libelle, des different moyen de transport(Metro,Bus,Tram,Train,Bateau ou autre voir pas) et des la date de mise à jour et de création
 admissions_par_formation_detaillee_csv = "data/AdmissionParFormationDetaillee.csv"
 
-#  ------ Diconnaire de recherche ------
-
-dico = {
-  "a": 0,
-  "b": 1,
-  "c": 2,
-  "d": 3,
-  "e": 4,
-  "f": 5,
-  "g": 6,
-  "h": 7,
-  "i": 8,
-  "j": 9,
-  "k": 10,
-  "l": 11,
-  "m": 12,
-  "n": 13,
-  "o": 14,
-  "p": 15,
-  "q": 16,
-  "r": 17,
-  "s": 18,
-  "t": 19,
-  "u": 20,
-  "v": 21,
-  "w": 22,
-  "x": 23,
-  "y": 24,
-  "z": 25,
-  "aa": 26,
-  "ab": 27,
-  "ac": 28
-}
-
-# ---- requete de recherche dans le dico ----
-
-codeDepartement = dico.get("a")
-nomDepartement = dico.get("b")
-codeInseeCommune = dico.get("c")
-nomCommune = dico.get("d")
-codeInstallation = dico.get("e")
-nomInstallation = dico.get("f")
-adresse = dico.get("g")
-codePostal = dico.get("h")
-arrondissement = dico.get("i")
-libelle = dico.get("j")
-multiCommune = dico.get("k")
-accessibilite = dico.get("l")
-accessibiliteHandiMoteur = dico.get("m")
-accessibiliteHandiSens = dico.get("n")
-internat = dico.get("o")
-nbLits = dico.get("p")
-nbParking = dico.get("q")
-nbParkingHandi = dico.get("r")
-gardien = dico.get("s")
-metro = dico.get("t")
-bus = dico.get("u")
-tram = dico.get("v")
-train = dico.get("w")
-bateau = dico.get("x")
-autreTransport = dico.get("y")
-aucunTransport = dico.get("z")
-dateMAJ = dico.get("aa")
-dateCreation = dico.get("ab")
-nbEquipements = dico.get("ac")
-
 # ------ Fonction -------
 
 # ----- Fonction esthétique / grap -----
@@ -251,10 +185,7 @@ def space_graph(valeur):
   for i in range(valeur):
     print("")
 
-"""
-
 # ------ Fonction Lecture du fichier.csv ------
-
 
 # fonction lecture de fichier CSV avec en paramètres le nom du fichier.csv
 def lecture_csv(nom_fichier_csv):
@@ -267,7 +198,7 @@ def lecture_csv(nom_fichier_csv):
       # Affichage de la ligne lu
       print(line)
 
-
+"""
 # ------   Fontion Écriture du fichier.csv   -------
 
 # fonction écriture de fichier CSV avec en paramètre le nom du fichier.cvs et l'en tête
@@ -395,7 +326,6 @@ space_graph(1)
 
 """
 
-
 """
 simple_csv = "2020_installations_sportives.csv"
 
@@ -441,3 +371,8 @@ lire_et_ecrire_csv(data_csv, communes_uniques_csv, [codeInseeCommune, nomCommune
 #Position des en-tête codeInstallation = 4, codeInseeCommune = 2, libelle = 9, metro = 19, bus = 20, tram = 21,train = 22, bateau = 23, autreTransport = 24, aucunTransport = 25, dateMAJ = 26, dateCreation = 27
 lire_et_ecrire_csv(data_csv, admissions_par_formation_detaillee_csv, [codeInstallation, codeInseeCommune, libelle, metro, bus, tram, train, bateau, autreTransport, aucunTransport, dateMAJ, dateCreation])
 
+lecture_csv(admissions_par_formation_detaillee_csv)
+space_graph(4)
+lecture_csv(communes_uniques_csv)
+space_graph(4)
+lecture_csv(installations_uniques_csv)
