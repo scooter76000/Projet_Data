@@ -24,9 +24,10 @@ def space_graph(valeur):
   for i in range(valeur):
     print("")
 
-def P(val, temp):
-  print(val)
-  time.sleep(temp)
+def P(valeur, temps):
+  print(valeur)
+  time.sleep(temps)
+  
 # fonction lecture de fichier CSV avec en paramètres le nom du fichier.csv
 def lecture_csv(nom_fichier_csv):
   # Ouverture d'un fichier csv avec en paramètres un mode "r" read = lecture
@@ -46,13 +47,13 @@ def lire_et_ecrire_csv(nom_fichier_entree, nom_fichier_sortie,
   
   donnees = [] 
   with open(nom_fichier_entree, 'r', encoding="ISO-8859-1") as fichier_entree:
-    reader = csv.reader(fichier_entree, delimiter=';')
+    reader = csv.reader(fichier_entree, delimiter = ';')
     for ligne in reader:
       donnees.append(ligne)
         
   """ici la fonction crée un nouveau fichier avec le nom en paramètre et avec une double boucle une qui récuperer les ligne et l'autre les colonnes la fonction recupére les données de la liste et les ecrit dans le nouveau fichier csv"""
   with open(nom_fichier_sortie, 'w', newline='') as fichier_sortie:
-    writer = csv.writer(fichier_sortie)
+    writer = csv.writer(fichier_sortie, delimiter = ';' )
     ligne_max = 0
     for ligne in donnees:
       if ligne_max <= nombre_ligne :
@@ -64,13 +65,17 @@ def lire_et_ecrire_csv(nom_fichier_entree, nom_fichier_sortie,
   
 
 """Fonction qui recupére les données d'un fichier csv et les stocks dans une liste avec en paramètre le nom du fichier et le nom de la liste qu'on veut creer"""               
-def changement_de_données (nom_fichier_entree, nom_liste) :
-    nom_liste = []
+def changement_de_données (nom_fichier_entree, Si) :
+    Si = []
     with open(nom_fichier_entree, 'r', encoding="ISO-8859-1") as fichier_entree:
-      reader = csv.reader(fichier_entree, delimiter=';')
-      for ligne in reader:
-        nom_liste.append(ligne)
-      return nom_liste
+        reader = csv.reader(fichier_entree, delimiter=';')
+        for ligne in reader:
+            Si.append(ligne)
+        return Si
+
+
+#def projection_simple(Si,nomDeColonne) :
+  
 
 #Position des en-tête codeInstallation = 4, nomInstallation = 5, nbEquipements = 28, adresse = 6, nbParking = 16, nbParkingHandi = 17
 
@@ -105,3 +110,9 @@ P("Chagement de fichier csv Installations", 4)
 lecture_csv(installations_uniques_csv)
 space_graph(4)
 print("Chagement des fichiers csv terminer")
+
+
+
+
+# ---------------------- Fonctions Etape 4 -----------------
+
