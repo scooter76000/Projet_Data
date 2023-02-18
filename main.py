@@ -30,12 +30,15 @@ def space_graph(valeur):
 
 # fonction chargment
 
-def chargment_graph(valeur, condition):
-    print("")
+
+import time
+
+
+def chargment_graph(valeur, temps):
     print(valeur)
+    time.sleep(temps)
     print("")
-    if condition == 1:
-        print(input("Appuyer sur Entrait pour continer :"))
+
 
 # ----  Fonction fonctionnelle -----
 
@@ -83,22 +86,24 @@ def lire_et_ecrire_csv(nom_fichier_entree, nom_fichier_sortie, colonnes_a_recupe
     """
 
     donnees = []
-    with open(nom_fichier_entree, 'r', encoding='ISO-8859-1') as fichier_entree:
+    with open(nom_fichier_entree, 'r', encoding="ISO-8859-1") as fichier_entree:
         reader = csv.reader(fichier_entree, delimiter=';')
         for ligne in reader:
             donnees.append(ligne)
 
-    """
-    ici la fonction crée un nouveau fichier avec le nom en paramètre et avec une double boucle une qui récuperer 
-    les ligne et l'autre les colonnes la fonction recupére les données de la liste et les ecrit dans 
-    le nouveau fichier csv
-    """
+        """
+        ici la fonction crée un nouveau fichier avec le nom en paramètre 
+        et avec une double boucle une qui récuperer les ligne 
+        et l'autre les colonnes la fonction recupére les données de la liste et les ecrit dans le nouveau fichier csv
+        """
     with open(nom_fichier_sortie, 'w', newline='') as fichier_sortie:
         writer = csv.writer(fichier_sortie, delimiter=';')
         ligne_max = 0
         for ligne in donnees:
             if ligne_max <= nombre_ligne:
-                colonnes_selectionnees = [ligne[colonne] for colonne in colonnes_a_recuperer]
+                colonnes_selectionnees = [
+                    ligne[colonne] for colonne in colonnes_a_recuperer
+                ]
                 ligne_max += 1
                 writer.writerow(colonnes_selectionnees)
 
@@ -113,18 +118,18 @@ def lire_et_ecrire_csv(nom_fichier_entree, nom_fichier_sortie, colonnes_a_recupe
 """
 
 
-def chargement_de_donnees(nom_fichier_entree):
-    s = []
+def chargement_de_données(nom_fichier_entree):
+    S = []
     with open(nom_fichier_entree, 'r', encoding="ISO-8859-1") as fichier_entree:
         reader = csv.reader(fichier_entree, delimiter=';')
         for ligne in reader:
-            s.append(ligne)
-        return s
+            S.append(ligne)
+        return S
 
 
-s1 = chargement_de_donnees(admissions_par_formation_detaillee_csv)
-s2 = chargement_de_donnees(communes_uniques_csv)
-s3 = chargement_de_donnees(installations_uniques_csv)
+s1 = chargement_de_données(admissions_par_formation_detaillee_csv)
+s2 = chargement_de_données(communes_uniques_csv)
+s3 = chargement_de_données(installations_uniques_csv)
 
 # Script 2 : Etape 4
 
@@ -135,18 +140,34 @@ s3 = chargement_de_donnees(installations_uniques_csv)
 """
 
 
-def projection_simple(liste_entree, nom_de_colonne):
-    s = []
+def projection_simple(liste_entrée, nomDeColonne):
+    S = []
     """
     on parcourt les ligne de la liste puis les colonnes,aprés on recupére
     l'indexe de colonne et on le stock dans une variable pour garder l'index de colonne
     puis on va integrer les valeurs à une nouvelle liste
     """
-    for ligne in range(len(liste_entree)):
-        for colonne in range(len(liste_entree[ligne])):
-            if liste_entree[ligne][colonne] == nom_de_colonne:
+    for ligne in range(len(liste_entrée)):
+        for colonne in range(len(liste_entrée[ligne])):
+            if liste_entrée[ligne][colonne] == nomDeColonne:
                 index_colonne = colonne
-        s.append(liste_entree[ligne][index_colonne])
+        S.append(liste_entrée[ligne][index_colonne])
+    #print(S)
+    return S
+
+
+def projection_multiple_v3(liste_entree, liste_nom_colonnes):
+    s = [] 
+    nom_de_colonne_1 = liste_nom_colonnes[0]
+    nom_de_colonne_2 = liste_nom_colonnes[1]
+
+    liste_nom_colonnes_1 = projection_simple(liste_entree, nom_de_colonne_1)
+    liste_nom_colonnes_2 = projection_simple(liste_entree, nom_de_colonne_2)  
+  
+    for i in range(len(liste_nom_colonnes_1)):
+        index_a = liste_nom_colonnes_1[i]
+        index_b = liste_nom_colonnes_2[i]
+        s.append([index_a, index_b])
     return s
 
 
@@ -157,21 +178,37 @@ def projection_simple(liste_entree, nom_de_colonne):
 """
 
 
-def projection_simple_distinct(liste_entree, nom_de_colonne):
-    s = []
+def projection_simple_distinct(liste_entrée, nomDeColonne):
+    S = []
     """
     on parcourt les ligne de la liste puis les colonnes,aprés on recupére
     l'indexe de colonne et on le stock dans une variable pour garder l'index de colonne
     puis on va integrer les valeurs à une nouvelle liste sans prendre les doublons =  
     """
-    for ligne in range(len(liste_entree)):
-        for colonne in range(len(liste_entree[ligne])):
-            if liste_entree[ligne][colonne] == nom_de_colonne:
+    for ligne in range(len(liste_entrée)):
+        for colonne in range(len(liste_entrée[ligne])):
+            if liste_entrée[ligne][colonne] == nomDeColonne:
                 index_colonne = colonne
-        if liste_entree[ligne][index_colonne] not in s:
-            s.append(liste_entree[ligne][index_colonne])
-    return s
+        if liste_entrée[ligne][index_colonne] not in S:
+            S.append(liste_entrée[ligne][index_colonne])
+    return S
 
+def projection_multiple_distinct_v2(liste_entree, liste_nom_colonnes):
+    nom_de_colonne_1 = liste_nom_colonnes[0]
+    nom_de_colonne_2 = liste_nom_colonnes[1]
+
+    a = projection_simple(liste_entree, nom_de_colonne_1)
+    b = projection_simple(liste_entree, nom_de_colonne_2)
+    c = []
+    for i in range(len(a)):
+        index_a = a[i]
+        #print(index_a)
+        index_b = b[i]
+        #print(index_b)
+        c.append([index_a, index_b])
+        #print(c)
+
+    return (c)
 
 """
     - Fonction : projection_multiple
@@ -179,15 +216,15 @@ def projection_simple_distinct(liste_entree, nom_de_colonne):
     - return une matrice contenant les colonnes selon les id mis en paramètres 
     """
 
-
-def projection_multiple(liste_entree, liste_nom_colonnes):
-    s = [[0] * len(liste_nom_colonnes)] * len(liste_entree)
+"""
+def projection_multiple(liste_entrée, liste_nom_colonnes):
+    S = [[0] * len(liste_nom_colonnes)] * len(liste_entrée)
     for i in range(len(liste_nom_colonnes)):
-        liste = projection_simple(liste_entree, liste_nom_colonnes[i])
+        liste = projection_simple(liste_entrée, liste_nom_colonnes[i])
         for j in range(len(liste)):
-            s[j][i] = liste[j]
-    return s
-
+            S[j][i] = liste[j]
+    print(S)
+"""
 
 """
 projection_multiple(S2, ["codeInseeCommune","nomCommune"])
@@ -200,36 +237,38 @@ projection_multiple(S2, ["codeInseeCommune","nomCommune"])
     paramètres en évitant les doublons sur la deuxième colonne
 """
 
-
-def projection_multiple_distinct(liste_entree, liste_nom_colonnes):
-    s = [[0] * len(liste_nom_colonnes)] * len(liste_entree)
+"""
+def projection_multiple_distinct(liste_entrée, liste_nom_colonnes):
+    S = [[0] * len(liste_nom_colonnes)] * len(liste_entrée)
     for i in range(len(liste_nom_colonnes)):
-        liste = projection_simple_distinct(liste_entree, liste_nom_colonnes[i])
+        liste = projection_simple_distinct(liste_entrée, liste_nom_colonnes[i])
         for j in range(len(liste)):
-            s[j][i] = liste[j]
-    return s
+            S[j][i] = liste[j]
+    print(S)
+"""
+
+#projection_multiple_distinct(S1, ["codeInstallation", "codeInseeCommune"])
 
 
 # Script 2 : Etape 5
 
 
-def selection_simple(liste_entree, nom_de_colonne, operateur, valeur):
-
-    if not (operateur == '=' or operateur == '>' or operateur == '>=' or operateur == '<=' or operateur == '<>'):
-        print("la valeur :", operateur, " est incorrect !")
+def sélection_simple(liste_entrée, nomDeColonne, opérateur, valeur):
+    if not (opérateur == '=' or opérateur == '>' or opérateur == '>=' or opérateur == '<=' or opérateur == '<>'):
+        print("la valeur :", opérateur, " est incorrect !")
     else:
-        s = []
+        S = []
         ...
-        return s, liste_entree, nom_de_colonne, valeur
+        return S
 
 
-def selection_multiple(liste_entree, operateurbooleen):
-    if not (operateurbooleen == 'AND' or operateurbooleen == 'OR'):
-        print("la valeur de l'operateur :", operateurbooleen, "est incorrect !")
+def sélection_multiple(liste_entrée, operateurbooléen):
+    if not (operateurbooléen == 'AND' or operateurbooléen == 'OR'):
+        print("la valeur de l'operateur :", operateurbooléen, "est incorrect !")
     else:
-        s = []
+        S = []
         ...
-        return s, liste_entree
+        return S
 
 
 # Script 2 : Etape 6
@@ -241,27 +280,24 @@ def selection_multiple(liste_entree, operateurbooleen):
 """
 
 
-def minimum(liste_entree, nom_de_colonne):
-    s = []
-    for ligne in range(len(liste_entree)):
-        for colonne in range(len(liste_entree[ligne])):
-            if liste_entree[ligne][colonne] == nom_de_colonne:
+def min(liste_entrée, nomDeColonne):
+    S = []
+    for ligne in range(len(liste_entrée)):
+        for colonne in range(len(liste_entrée[ligne])):
+            if liste_entrée[ligne][colonne] == nomDeColonne:
                 index_colonne = colonne
-        s.append(liste_entree[ligne][index_colonne])
-
-        """
-        on stock la premiere valeur dans la variable min et avec une boucle on va passer
+        S.append(liste_entrée[ligne][index_colonne])
+        """on stock la premiere valeur dans la variable min et avec une boucle on va passer
         sur toute les valeurs de la colonne et si y'a une valeur plus petite que min, on ecrase
-        l'ancienne valeure de min par la nouvelle 
-        """
-    minimum_s = s[1]
-    for elem in s:
+        l'ancienne valeure de min par la nouvelle """
+    min = S[1]
+    for elem in S:
         if isinstance(elem, str):
             print("veuillez selectionner une colonne avec des valeurs numerique")
             return None
-        if minimum_s >= elem:
-            minimum_s = elem
-    return minimum_s
+        if min >= elem:
+            min = elem
+    return min
 
 
 """
@@ -271,27 +307,24 @@ def minimum(liste_entree, nom_de_colonne):
 """
 
 
-def maximum(liste_entree, nom_de_colonne):
-    s = []
-    for ligne in range(len(liste_entree)):
-        for colonne in range(len(liste_entree[ligne])):
-            if liste_entree[ligne][colonne] == nom_de_colonne:
+def max(liste_entrée, nomDeColonne):
+    S = []
+    for ligne in range(len(liste_entrée)):
+        for colonne in range(len(liste_entrée[ligne])):
+            if liste_entrée[ligne][colonne] == nomDeColonne:
                 index_colonne = colonne
-        s.append(liste_entree[ligne][index_colonne])
-
-    """
-    on stock la premiere valeur dans la variable max et avec une boucle on va passer
+        S.append(liste_entrée[ligne][index_colonne])
+    """on stock la premiere valeur dans la variable max et avec une boucle on va passer
       sur toute les valeurs de la colonne et si y'a une valeur plus grnade que max, on ecrase
-      l'ancienne valeure de max par la nouvelle
-      """
-    maximum_s = s[1]
-    for elem in range(1, len(s)):
-        if isinstance(s[elem], str):
+      l'ancienne valeure de max par la nouvelle """
+    max = S[1]
+    for elem in range(1, len(S)):
+        if isinstance(S[elem], str):
             print("veuillez selectionner une colonne avec des valeurs numerique")
             return None
-        if maximum_s <= s[elem]:
-            maximum_s = s[elem]
-    return maximum_s
+        if max <= S[elem]:
+            max = S[elem]
+    return max
 
 
 """
@@ -301,26 +334,23 @@ def maximum(liste_entree, nom_de_colonne):
 """
 
 
-def compte(liste_entree, nom_de_colonne):
-    s = []
-    for ligne in range(len(liste_entree)):
-        for colonne in range(len(liste_entree[ligne])):
-            if liste_entree[ligne][colonne] == nom_de_colonne:
+def compte(liste_entrée, nomDeColonne):
+    S = []
+    for ligne in range(len(liste_entrée)):
+        for colonne in range(len(liste_entrée[ligne])):
+            if liste_entrée[ligne][colonne] == nomDeColonne:
                 index_colonne = colonne
-        s.append(liste_entree[ligne][index_colonne])
-
-    """
-    à l'aide d'une boucle on passe par toutes les valeurs de la colonne
-    et si la valeur est non nul on rajoute +1 au compteur 
-    """
-    compteur = 0
-    for elem in range(1, len(s)):
-        if isinstance(s[elem], str):
+        S.append(liste_entrée[ligne][index_colonne])
+    """à l'aide d'une boucle on passe par toutes les valeurs de la colonne
+    et si la valeur est non nul on rajoute +1 au compteur """
+    Compteur = 0
+    for elem in range(1, len(S)):
+        if isinstance(S[elem], str):
             print("veuillez selectionner une colonne avec des valeurs numerique")
             return None
-        if s[elem] != 0:
-            compteur += 1
-    return compteur
+        if S[elem] != 0:
+            Compteur += 1
+    return Compteur
 
 
 """
@@ -330,22 +360,19 @@ def compte(liste_entree, nom_de_colonne):
 """
 
 
-def somme(liste_entree, nom_de_colonne):
-    s = []
-    for ligne in range(len(liste_entree)):
-        for colonne in range(len(liste_entree[ligne])):
-            if liste_entree[ligne][colonne] == nom_de_colonne:
+def somme(liste_entrée, nomDeColonne):
+    S = []
+    for ligne in range(len(liste_entrée)):
+        for colonne in range(len(liste_entrée[ligne])):
+            if liste_entrée[ligne][colonne] == nomDeColonne:
                 index_colonne = colonne
-        s.append(liste_entree[ligne][index_colonne])
-
-    """
-    à l'aide d'une boucle on passe par toutes les valeurs de la colonne
-    et on l'adissionne à la variable somme 
-    """
-    somme_s = 0
-    for elem in range(1, len(s)):
-        somme_s += int(s[elem])
-    return somme_s
+        S.append(liste_entrée[ligne][index_colonne])
+    """à l'aide d'une boucle on passe par toutes les valeurs de la colonne
+    et on l'adissionne à la variable somme """
+    Somme = 0
+    for elem in range(1, len(S)):
+        Somme += int(S[elem])
+    return Somme
 
 
 """
@@ -355,20 +382,17 @@ def somme(liste_entree, nom_de_colonne):
 """
 
 
-def moyenne(liste_entree, nom_de_colonne):
-    s = []
-    for ligne in range(len(liste_entree)):
-        for colonne in range(len(liste_entree[ligne])):
-            if liste_entree[ligne][colonne] == nom_de_colonne:
+def moyenne(liste_entrée, nomDeColonne):
+    S = []
+    for ligne in range(len(liste_entrée)):
+        for colonne in range(len(liste_entrée[ligne])):
+            if liste_entrée[ligne][colonne] == nomDeColonne:
                 index_colonne = colonne
-        s.append(liste_entree[ligne][index_colonne])
-
-    """ 
-    on fait appel à la fonction somme pour calculer la somme des valeurs
-    puis on la devise sur le nombre de valeur de la colonne
-    """
-    moyenne_s = int(somme(liste_entree, nom_de_colonne)) / (len(s) - 1)
-    return moyenne_s
+        S.append(liste_entrée[ligne][index_colonne])
+    """ on fait appel à la fonction somme pour calculer la somme des valeurs
+    puis on la devise sur le nombre de valeur de la colonne"""
+    Moyenne = int(somme(liste_entrée, nomDeColonne)) / (len(S) - 1)
+    return Moyenne
 
 
 # Script 2 : Etape 7
@@ -381,146 +405,109 @@ def moyenne(liste_entree, nom_de_colonne):
 """
 
 
-def ordonne(liste_entree, nom_de_colonne, sens):
-    s = []
-    for ligne in range(len(liste_entree)):
-        for colonne in range(len(liste_entree[ligne])):
-            if liste_entree[ligne][colonne] == nom_de_colonne:
+def ordonne(liste_entrée, nomDeColonne, sens):
+    S = []
+    for ligne in range(len(liste_entrée)):
+        for colonne in range(len(liste_entrée[ligne])):
+            if liste_entrée[ligne][colonne] == nomDeColonne:
                 index_colonne = colonne
-        s.append(liste_entree[ligne][index_colonne])
-
-    """
-    on recupére l'en tête pour pas qu'il le déplace et on le met dans une
+        S.append(liste_entrée[ligne][index_colonne])
+    """on recupére l'en tête pour pas qu'il le déplace et on le met dans une
     variable et les valeurs dans une autre si le sens et croissant on utilise la
     methode sort() pour la variable contenant les valeurs, et si c'est decroissant
-    on fait pareil sauf qu'en paramètre de la methode on fait un reverse=True
-    """
+    on fait pareil sauf qu'en paramètre de la methode on fait un reverse=True"""
     if sens == "croissant":
-        tete = s[0]
-        reste = s[1:]
+        tete = S[0]
+        reste = S[1:]
         reste.sort()
     elif sens == "decroissant":
-        tete = s[0]
-        reste = s[1:]
+        tete = S[0]
+        reste = S[1:]
         reste.sort(reverse=True)
 
     return [tete] + reste
 
 
-def ordonne_multiple(liste_entree, liste_nom_colonnes, sens):
-    s = []
+def ordonne_multiple(liste_entrée, liste_nom_colonnes, sens):
+    S = []
     ...
-    return s, liste_entree, liste_nom_colonnes, sens
+    return S
 
 
 # Script 2 : Etape 8
 
-def jointure(liste_entree, liste_sortie, nom_de_colonne):
-    s = []
+def jointure(liste_entrée, liste_sortie, nomDeColonne):
+    S = []
     ...
-    return s, liste_entree, liste_sortie, nom_de_colonne
+    return S
 
-"""
+
 # ----------  Test des script / Fonction ----------
 
-chargment_graph("début de test de fonction ...", 0)
-
 # ------ Test Script 1 : Etape 1 ------
-chargment_graph("Scripte 1 : Etape 1", 1)
 
-lecture_csv(data_csv)
+# lecture_csv(data_csv)
 
 # ------ Test Script 1 : Etape 2 ------
-chargment_graph("Scripte 1 : Etape 2", 1)
 
 """
-#Position des en-tête codeInstallation = 4, nomInstallation = 5, nbEquipements = 28, adresse = 6, nbParking = 16,
-#nbParkingHandi = 17
-"""
-lire_et_ecrire_csv(data_csv, installations_uniques_csv,
-                   [codeInstallation, nomInstallation, nbEquipements, adresse, nbParking, nbParkingHandi], 444)
+#Position des en-tête codeInstallation = 4, nomInstallation = 5, nbEquipements = 28, adresse = 6, nbParking = 16, 
+nbParkingHandi = 17
+lire_et_ecrire_csv(data_csv, installations_uniques_csv, [codeInstallation, nomInstallation, nbEquipements, adresse, 
+nbParking, nbParkingHandi], 444)
 
-"""
 #Position des en-tête codeInseeCommune = 2, nomComune = 3, codeDepartement = 0, nomDepartement = 1
-"""
 lire_et_ecrire_csv(data_csv, communes_uniques_csv, [codeInseeCommune, nomCommune, codeDepartement, nomDepartement], 146)
 
-"""
 #Position des en-tête codeInstallation = 4, codeInseeCommune = 2, libelle = 9, metro = 19, bus = 20, tram = 21,
-#train = 22, bateau = 23, autreTransport = 24, aucunTransport = 25, dateMAJ = 26, dateCreation = 27
-"""
-lire_et_ecrire_csv(data_csv, admissions_par_formation_detaillee_csv, [codeInstallation, codeInseeCommune, libelle,
-                                                                      metro, bus, tram, train, bateau, autreTransport,
-                                                                      aucunTransport, dateMAJ, dateCreation], 444)
+train = 22, bateau = 23, autreTransport = 24, aucunTransport = 25, dateMAJ = 26, dateCreation = 27
+lire_et_ecrire_csv(data_csv, admissions_par_formation_detaillee_csv, [codeInstallation, codeInseeCommune, libelle, 
+metro, bus, tram, train, bateau, autreTransport, aucunTransport, dateMAJ, dateCreation], 444)
 
 # ---- lecture du test script 1 : etape 2 ----
 
-chargment_graph("Chargement de fichier csv Admission", 1)
+chargment_graph("Chargement de fichier csv Admission", 2)
 lecture_csv(admissions_par_formation_detaillee_csv)
 space_graph(4)
 
-chargment_graph("Chargement de fichier csv Communes", 1)
+chargment_graph("Chargement de fichier csv Communes", 4)
 lecture_csv(communes_uniques_csv)
 space_graph(4)
 
-chargment_graph("Chargement de fichier csv Installations", 1)
+chargment_graph("Chargement de fichier csv Installations", 4)
 lecture_csv(installations_uniques_csv)
 
 space_graph(2)
 print("Chargement des fichiers csv terminer")
 space_graph(4)
-
+"""
 
 # ------ Test Script 2 : Etape 3 ------
-chargment_graph("Scripte 2 : Etape 3", 1)
 
-chargment_graph("Fichier S1", 1)
-print("test S1 : ", s1)
-chargment_graph("Fichier S2", 1)
-print("test S2 : ", s2)
-chargment_graph("Fichier S3", 1)
-print("test S3 : ", s3)
+"""
+print("test S1 : ", S1)
+print("test S2 : ", S2)
+print("test S3 : ", S3)
+"""
 
 # ------ Test Script 2 : Etape 4 ------
-chargment_graph("Scripte 2 : Etape 4", 1)
-
-print("Projection Simple : ")
-print("Projection Multiple : ", projection_multiple(s2, ["codeInseeCommune", "nomCommune"]))
-print("Projection Simple Distinct : ")
-print("Projoection Multiple Distinct : ", projection_multiple_distinct(s1, ["codeInstallation", "codeInseeCommune"]))
+"""
+print("Projection Simple : ", projection_simple(s2, 'nomCommune'))
+space_graph(2)
+print("Projection Multiple : ", projection_multiple_v3(s2, ['nomCommune', 'codeInseeCommune']))
+"""
+print("Projection Simple : ", projection_simple_distinct(s2, 'nomCommune'))
+space_graph(2)
+print("Projection Multiple : ", projection_multiple_distinct_v2(s2, ['nomCommune', 'codeInseeCommune']))
 
 # ------ Test Script 2 : Etape 5 ------
-chargment_graph("Scripte 2 : Etape 5", 1)
-
-print("Sélection Simple : ")
-print("Sélection Multiple : ")
 
 # ------ Test Script 2 : Etape 6 ------
-chargment_graph("Scripte 2 : Etape 6", 1)
-
-print("Le minimum est : ")
-print("Le maximum est : ")
-print("Le compte est : ")
-print("La somme est : ")
-print("La moyenne est : ")
 
 # ------ Test Script 2 : Etape 7 ------
-chargment_graph("Scripte 2 : Etape 7", 1)
-
-print("Ordonne : ")
-print("Ordonne Multiple : ")
 
 # ------ Test Script 2 : Etape 8 ------
-chargment_graph("Scripte 2 : Etape 8", 1)
-
-print("Jointure : ")
 
 # ------ Test Script 3 : Etape 9 ------
-chargment_graph("Scripte 3 : Etape 8", 1)
 
 # ------ Test Script 4 : Etape 10 -----
-chargment_graph("Scripte 4 : Etape 10", 1)
-
-
-print("The End !")
-"""
